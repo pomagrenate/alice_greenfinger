@@ -1,0 +1,14 @@
+{
+  "id": "EXP11-004",
+  "title": "Campaign Endless Day Loop Progression",
+  "hypothesis": "Game loop advances days continuously without terminating on scripted cutscenes.",
+  "independent_var": "Day index advancement",
+  "controlled_var": "Simulation framework",
+  "initial_state": "Day 10 completed",
+  "stimulus": "Advance quota and frame ticks into Day 11",
+  "expected_obs": "Day counter increments to 11 and reloads farm grid.",
+  "actual_obs": "Day 11 successfully initialized with new quotas. No cutscene triggered.",
+  "result": "PASS",
+  "evidence": "E1/E3",
+  "classification": "ENDGAME_CINEMATIC_NOT_ESTABLISHED"
+}

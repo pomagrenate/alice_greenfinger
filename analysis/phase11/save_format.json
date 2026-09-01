@@ -1,0 +1,43 @@
+{
+  "claimed_mechanism": "Custom Cryptographic Save-Profile Encryption",
+  "forensic_investigation": {
+    "save_function": "FUN_004037a0",
+    "load_function": "FUN_00403910",
+    "stream_structure": [
+      {
+        "field": "magic_header",
+        "value": "0x41475356 (AGSV)",
+        "size_bytes": 4
+      },
+      {
+        "field": "profile_name",
+        "type": "char[32]",
+        "size_bytes": 32
+      },
+      {
+        "field": "currency_balance",
+        "type": "uint32_t (DAT_004a86a4)",
+        "size_bytes": 4
+      },
+      {
+        "field": "day_counter",
+        "type": "uint32_t",
+        "size_bytes": 4
+      },
+      {
+        "field": "grid_plot_states",
+        "type": "uint8_t[40]",
+        "size_bytes": 40
+      },
+      {
+        "field": "unlocked_crops_mask",
+        "type": "uint32_t",
+        "size_bytes": 4
+      }
+    ],
+    "cryptographic_analysis": "No XOR rolling keys, AES/DES S-boxes, or encryption transforms found in I/O loop.",
+    "evidence_level": "E1 (Disassembly) & E3 (Runtime Serialization Byte Capture)"
+  },
+  "formal_classification": "SAVE_ENCRYPTION_NOT_ESTABLISHED",
+  "verified_reality": "Unencrypted direct binary stream serialization"
+}

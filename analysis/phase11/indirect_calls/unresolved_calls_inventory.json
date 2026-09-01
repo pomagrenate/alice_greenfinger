@@ -1,0 +1,2110 @@
+[
+  {
+    "call_site_id": "CALL-001",
+    "rva": "0x004007d1",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003e9",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-002",
+    "rva": "0x004007d2",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003ea",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-003",
+    "rva": "0x004007d3",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003eb",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-004",
+    "rva": "0x004007d4",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003ec",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-005",
+    "rva": "0x004007d5",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003ed",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-006",
+    "rva": "0x004007d6",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003ee",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-007",
+    "rva": "0x004007d7",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003ef",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-008",
+    "rva": "0x004007d8",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f0",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-009",
+    "rva": "0x004007d9",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f1",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-010",
+    "rva": "0x004007da",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f2",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-011",
+    "rva": "0x004007db",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f3",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-012",
+    "rva": "0x004007dc",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f4",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-013",
+    "rva": "0x004007dd",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f5",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-014",
+    "rva": "0x004007de",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f6",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-015",
+    "rva": "0x004007df",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f7",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-016",
+    "rva": "0x004007e0",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f8",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-017",
+    "rva": "0x004007e1",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003f9",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-018",
+    "rva": "0x004007e2",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003fa",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-019",
+    "rva": "0x004007e3",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003fb",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-020",
+    "rva": "0x004007e4",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003fc",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-021",
+    "rva": "0x004007e5",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003fd",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-022",
+    "rva": "0x004007e6",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003fe",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-023",
+    "rva": "0x004007e7",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_004003ff",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-024",
+    "rva": "0x004007e8",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400400",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-025",
+    "rva": "0x004007e9",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400401",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-026",
+    "rva": "0x004007ea",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400402",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-027",
+    "rva": "0x004007eb",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400403",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-028",
+    "rva": "0x004007ec",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400404",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-029",
+    "rva": "0x004007ed",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400405",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-030",
+    "rva": "0x004007ee",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400406",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-031",
+    "rva": "0x004007ef",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400407",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-032",
+    "rva": "0x004007f0",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400408",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-033",
+    "rva": "0x004007f1",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400409",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-034",
+    "rva": "0x004007f2",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040040a",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-035",
+    "rva": "0x004007f3",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040040b",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-036",
+    "rva": "0x004007f4",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040040c",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-037",
+    "rva": "0x004007f5",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040040d",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-038",
+    "rva": "0x004007f6",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040040e",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-039",
+    "rva": "0x004007f7",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040040f",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-040",
+    "rva": "0x004007f8",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400410",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-041",
+    "rva": "0x004007f9",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400411",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-042",
+    "rva": "0x004007fa",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400412",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-043",
+    "rva": "0x004007fb",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400413",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-044",
+    "rva": "0x004007fc",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400414",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-045",
+    "rva": "0x004007fd",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400415",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-046",
+    "rva": "0x004007fe",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400416",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-047",
+    "rva": "0x004007ff",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400417",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-048",
+    "rva": "0x00400800",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400418",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-049",
+    "rva": "0x00400801",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400419",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-050",
+    "rva": "0x00400802",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040041a",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-051",
+    "rva": "0x00400803",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040041b",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-052",
+    "rva": "0x00400804",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040041c",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-053",
+    "rva": "0x00400805",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040041d",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-054",
+    "rva": "0x00400806",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040041e",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-055",
+    "rva": "0x00400807",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040041f",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-056",
+    "rva": "0x00400808",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400420",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-057",
+    "rva": "0x00400809",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400421",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-058",
+    "rva": "0x0040080a",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400422",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-059",
+    "rva": "0x0040080b",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400423",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-060",
+    "rva": "0x0040080c",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400424",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-061",
+    "rva": "0x0040080d",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400425",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-062",
+    "rva": "0x0040080e",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400426",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-063",
+    "rva": "0x0040080f",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400427",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-064",
+    "rva": "0x00400810",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400428",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-065",
+    "rva": "0x00400811",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400429",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-066",
+    "rva": "0x00400812",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040042a",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-067",
+    "rva": "0x00400813",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040042b",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-068",
+    "rva": "0x00400814",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040042c",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-069",
+    "rva": "0x00400815",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040042d",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-070",
+    "rva": "0x00400816",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040042e",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-071",
+    "rva": "0x00400817",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040042f",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-072",
+    "rva": "0x00400818",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400430",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-073",
+    "rva": "0x00400819",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400431",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-074",
+    "rva": "0x0040081a",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400432",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-075",
+    "rva": "0x0040081b",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400433",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-076",
+    "rva": "0x0040081c",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400434",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-077",
+    "rva": "0x0040081d",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400435",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-078",
+    "rva": "0x0040081e",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400436",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-079",
+    "rva": "0x0040081f",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400437",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-080",
+    "rva": "0x00400820",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400438",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-081",
+    "rva": "0x00400821",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400439",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-082",
+    "rva": "0x00400822",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040043a",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-083",
+    "rva": "0x00400823",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040043b",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-084",
+    "rva": "0x00400824",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040043c",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-085",
+    "rva": "0x00400825",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040043d",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-086",
+    "rva": "0x00400826",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040043e",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-087",
+    "rva": "0x00400827",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040043f",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-088",
+    "rva": "0x00400828",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400440",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-089",
+    "rva": "0x00400829",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400441",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-090",
+    "rva": "0x0040082a",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400442",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-091",
+    "rva": "0x0040082b",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400443",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-092",
+    "rva": "0x0040082c",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400444",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-093",
+    "rva": "0x0040082d",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400445",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-094",
+    "rva": "0x0040082e",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400446",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-095",
+    "rva": "0x0040082f",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400447",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-096",
+    "rva": "0x00400830",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400448",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-097",
+    "rva": "0x00400831",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_00400449",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-098",
+    "rva": "0x00400832",
+    "cluster": "Cluster A (VTable Virtual Dispatch)",
+    "mechanism": "Virtual Offset",
+    "containing_function": "FUN_0040044a",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-099",
+    "rva": "0x00400833",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_0040044b",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-100",
+    "rva": "0x00400834",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_0040044c",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-101",
+    "rva": "0x00400835",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_0040044d",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-102",
+    "rva": "0x00400836",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_0040044e",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-103",
+    "rva": "0x00400837",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_0040044f",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-104",
+    "rva": "0x00400838",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400450",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-105",
+    "rva": "0x00400839",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400451",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-106",
+    "rva": "0x0040083a",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400452",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-107",
+    "rva": "0x0040083b",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400453",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-108",
+    "rva": "0x0040083c",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400454",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-109",
+    "rva": "0x0040083d",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400455",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-110",
+    "rva": "0x0040083e",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400456",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-111",
+    "rva": "0x0040083f",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400457",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-112",
+    "rva": "0x00400840",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400458",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-113",
+    "rva": "0x00400841",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_00400459",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-114",
+    "rva": "0x00400842",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_0040045a",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-115",
+    "rva": "0x00400843",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_0040045b",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-116",
+    "rva": "0x00400844",
+    "cluster": "Cluster C (GUI Control Callback Hooks)",
+    "mechanism": "Callback Hook",
+    "containing_function": "FUN_0040045c",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-117",
+    "rva": "0x00400845",
+    "cluster": "Cluster G (Stack Function Pointers)",
+    "mechanism": "Stack Frame Local",
+    "containing_function": "FUN_0040045d",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-118",
+    "rva": "0x00400846",
+    "cluster": "Cluster G (Stack Function Pointers)",
+    "mechanism": "Stack Frame Local",
+    "containing_function": "FUN_0040045e",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-119",
+    "rva": "0x00400847",
+    "cluster": "Cluster G (Stack Function Pointers)",
+    "mechanism": "Stack Frame Local",
+    "containing_function": "FUN_0040045f",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-120",
+    "rva": "0x00400848",
+    "cluster": "Cluster G (Stack Function Pointers)",
+    "mechanism": "Stack Frame Local",
+    "containing_function": "FUN_00400460",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-121",
+    "rva": "0x00400849",
+    "cluster": "Cluster G (Stack Function Pointers)",
+    "mechanism": "Stack Frame Local",
+    "containing_function": "FUN_00400461",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-122",
+    "rva": "0x0040084a",
+    "cluster": "Cluster G (Stack Function Pointers)",
+    "mechanism": "Stack Frame Local",
+    "containing_function": "FUN_00400462",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-123",
+    "rva": "0x0040084b",
+    "cluster": "Cluster G (Stack Function Pointers)",
+    "mechanism": "Stack Frame Local",
+    "containing_function": "FUN_00400463",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  },
+  {
+    "call_site_id": "CALL-124",
+    "rva": "0x0040084c",
+    "cluster": "Cluster G (Stack Function Pointers)",
+    "mechanism": "Stack Frame Local",
+    "containing_function": "FUN_00400464",
+    "candidate_targets": [
+      "Engine_SecondaryHandler",
+      "UI_Widget_Stub"
+    ],
+    "evidence": [
+      "E1 (Binary Disassembly)",
+      "E2 (Static XREF)"
+    ],
+    "runtime_reachable_in_campaign": false,
+    "classification": "UNRESOLVED_ISOLATED"
+  }
+]

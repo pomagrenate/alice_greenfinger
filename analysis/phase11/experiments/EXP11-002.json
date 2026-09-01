@@ -1,0 +1,14 @@
+{
+  "id": "EXP11-002",
+  "title": "Crop Species Discrete Growth Isolation",
+  "hypothesis": "Crop growth timers advance deterministically per species ID with no allele inheritance.",
+  "independent_var": "Crop species ID (Carrot, Tomato, Cabbage)",
+  "controlled_var": "Simulation tick rate (60 Hz)",
+  "initial_state": "3 soil plots planted with different seeds",
+  "stimulus": "300 frame simulation ticks",
+  "expected_obs": "All plots transition stage 0->4 at fixed species thresholds with zero trait blending.",
+  "actual_obs": "Exact stage transitions verified without cross-pollination registers.",
+  "result": "PASS",
+  "evidence": "E1/E3/E4",
+  "classification": "PLANT_GENETICS_NOT_ESTABLISHED"
+}

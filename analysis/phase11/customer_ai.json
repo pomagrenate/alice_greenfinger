@@ -1,0 +1,38 @@
+{
+  "claimed_mechanism": "Dynamic Priority-Queue Customer AI",
+  "forensic_investigation": {
+    "disassembly_search": "No heap/priority queue algorithms (push_heap, pop_heap, binary tree) found in market code.",
+    "data_structure_recovered": "Fixed array of 4 customer stall slots (Slot 0..3) in STATE_SHOP_MARKET.",
+    "slot_layout": [
+      {
+        "field": "customer_active",
+        "type": "uint8_t",
+        "offset": 0
+      },
+      {
+        "field": "requested_crop_id",
+        "type": "uint8_t",
+        "offset": 1
+      },
+      {
+        "field": "requested_quantity",
+        "type": "uint8_t",
+        "offset": 2
+      },
+      {
+        "field": "payout_currency",
+        "type": "uint16_t",
+        "offset": 4
+      },
+      {
+        "field": "patience_timer",
+        "type": "uint16_t",
+        "offset": 6
+      }
+    ],
+    "selection_algorithm": "Sequential round-robin slot polling upon player click event.",
+    "evidence_level": "E1 (Direct Binary Disassembly) & E3 (Runtime State Capture)"
+  },
+  "formal_classification": "PRIORITY_QUEUE_NOT_ESTABLISHED",
+  "verified_reality": "Table-driven fixed-array customer stall model"
+}

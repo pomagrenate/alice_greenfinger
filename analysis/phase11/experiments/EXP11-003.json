@@ -1,0 +1,14 @@
+{
+  "id": "EXP11-003",
+  "title": "Save Serialization Byte Transparency",
+  "hypothesis": "Save file payload contains unencrypted raw binary struct values.",
+  "independent_var": "Player currency value (DAT_004a86a4)",
+  "controlled_var": "Save file path and profile name",
+  "initial_state": "Currency set to 1,000",
+  "stimulus": "Execute FUN_004037a0 (Save) and inspect byte stream",
+  "expected_obs": "Byte offset 0x24 contains exact little-endian uint32 0x000003E8 (1000).",
+  "actual_obs": "Direct byte match verified. Zero encryption transformation observed.",
+  "result": "PASS",
+  "evidence": "E1/E3",
+  "classification": "SAVE_ENCRYPTION_NOT_ESTABLISHED"
+}

@@ -1,0 +1,61 @@
+{
+  "engine_context": {
+    "symbol": "EngineContext",
+    "size_bytes": 128,
+    "vtable_address": "0x00497000",
+    "vtable_slots": [
+      {
+        "offset": 0,
+        "symbol": "Initialize",
+        "target_rva": "0x00401500",
+        "status": "VERIFIED"
+      },
+      {
+        "offset": 4,
+        "symbol": "TickAndRender",
+        "target_rva": "0x004096a0",
+        "status": "VERIFIED"
+      },
+      {
+        "offset": 8,
+        "symbol": "DispatchEvent",
+        "target_rva": "0x00404170",
+        "status": "VERIFIED"
+      },
+      {
+        "offset": 12,
+        "symbol": "Shutdown",
+        "target_rva": "0x0040d590",
+        "status": "VERIFIED"
+      }
+    ],
+    "evidence": "E1/E3"
+  },
+  "ui_widget_container": {
+    "symbol": "UIWidgetContainer",
+    "size_bytes": 64,
+    "vtable_address": "0x00497100",
+    "vtable_slots": [
+      {
+        "offset": 0,
+        "symbol": "OnMouseEnter",
+        "target_rva": "0x00404500",
+        "status": "VERIFIED"
+      },
+      {
+        "offset": 4,
+        "symbol": "OnMouseLeave",
+        "target_rva": "0x00404550",
+        "status": "VERIFIED"
+      },
+      {
+        "offset": 8,
+        "symbol": "OnClick",
+        "target_rva": "0x004045a0",
+        "status": "VERIFIED"
+      }
+    ],
+    "evidence": "E1/E3"
+  },
+  "polymorphic_hierarchy_finding": "Flat C-style object models with single-level VTables. Deep OOP inheritance hierarchies are NOT present in binary disassembly."
+}

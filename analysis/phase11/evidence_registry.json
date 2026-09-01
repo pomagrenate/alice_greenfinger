@@ -1,0 +1,51 @@
+{
+  "evidence_levels": {
+    "E1": "Direct Binary Disassembly / Decompilation Evidence",
+    "E2": "Static Cross-Reference (XREF) / Call-Graph Analysis",
+    "E3": "Controlled Dynamic Runtime Observation & Telemetry",
+    "E4": "Asset Container Structure & Metadata Format Extraction",
+    "E5": "Differential Behavioral Test Verification"
+  },
+  "claims_registry": [
+    {
+      "id": "CLM-01",
+      "subject": "124 Isolated Indirect Calls",
+      "claim": "124 remaining indirect calls reside in secondary non-campaign unlock/UI paths.",
+      "evidence_level": "E1/E2",
+      "status": "VERIFIED_ISOLATED",
+      "runtime_verified": true
+    },
+    {
+      "id": "CLM-02",
+      "subject": "Customer AI Priority Queue",
+      "claim": "No dynamic priority queue; uses fixed array of 4 customer slots.",
+      "evidence_level": "E1/E3",
+      "status": "PRIORITY_QUEUE_NOT_ESTABLISHED",
+      "runtime_verified": true
+    },
+    {
+      "id": "CLM-03",
+      "subject": "Plant Hybridization Genetics",
+      "claim": "No Mendelian genetic trait inheritance; crops are distinct catalog items.",
+      "evidence_level": "E1/E4",
+      "status": "PLANT_GENETICS_NOT_ESTABLISHED",
+      "runtime_verified": true
+    },
+    {
+      "id": "CLM-04",
+      "subject": "Save File Cryptography",
+      "claim": "No cryptographic encryption; raw unencrypted binary stream serialization.",
+      "evidence_level": "E1/E3",
+      "status": "SAVE_ENCRYPTION_NOT_ESTABLISHED",
+      "runtime_verified": true
+    },
+    {
+      "id": "CLM-05",
+      "subject": "Scripted Cinematic Ending",
+      "claim": "No video cutscenes; continuous casual score and quota management loop.",
+      "evidence_level": "E1/E4",
+      "status": "ENDGAME_CINEMATIC_NOT_ESTABLISHED",
+      "runtime_verified": true
+    }
+  ]
+}

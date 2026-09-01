@@ -1,0 +1,14 @@
+{
+  "id": "EXP11-001",
+  "title": "Market Customer Slot Allocation Verification",
+  "hypothesis": "Customer orders operate via 4 fixed array slots in STATE_SHOP_MARKET with no priority queue.",
+  "independent_var": "Customer order sequence",
+  "controlled_var": "Market state memory buffer",
+  "initial_state": "Market state active (5)",
+  "stimulus": "4 simultaneous customer orders submitted",
+  "expected_obs": "Orders fill slots 0..3 sequentially in memory without sorting.",
+  "actual_obs": "Memory slots 0..3 populated sequentially. Zero sorting operations invoked.",
+  "result": "PASS",
+  "evidence": "E1/E3",
+  "classification": "PRIORITY_QUEUE_NOT_ESTABLISHED"
+}

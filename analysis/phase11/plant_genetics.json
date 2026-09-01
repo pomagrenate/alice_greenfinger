@@ -1,0 +1,19 @@
+{
+  "claimed_mechanism": "Stochastic Multi-Parent Plant Hybridization Genetics",
+  "forensic_investigation": {
+    "disassembly_search": "No cross-breeding trait inheritance matrices or allele blending routines found.",
+    "asset_atlas_analysis": "Graphics/Sprites.gfx contains discrete sprite frame sequences for 6 standalone crop species.",
+    "growth_model": "Deterministic 5-stage timer progression based solely on crop species ID.",
+    "crop_species_catalog": [
+      "Carrot",
+      "Tomato",
+      "Cabbage",
+      "Flower",
+      "Corn",
+      "Melon"
+    ],
+    "evidence_level": "E1 (Direct Disassembly) & E4 (PopCap LBTC Asset Analysis)"
+  },
+  "formal_classification": "PLANT_GENETICS_NOT_ESTABLISHED",
+  "verified_reality": "Discrete catalog species with table-driven 5-stage growth timers"
+}

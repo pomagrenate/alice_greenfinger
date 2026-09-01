@@ -1,0 +1,14 @@
+{
+  "id": "EXP11-005",
+  "title": "VTable Dynamic Dispatch Isolation",
+  "hypothesis": "Virtual calls on EngineContext route deterministically through VTABLE_00497000.",
+  "independent_var": "VTable slot index (0..3)",
+  "controlled_var": "EngineContext instance pointer (ECX)",
+  "initial_state": "EngineContext initialized",
+  "stimulus": "Invoke slots +0x00, +0x04, +0x08, +0x0C",
+  "expected_obs": "Calls execute FUN_00401500, FUN_004096a0, FUN_00404170, FUN_0040d590.",
+  "actual_obs": "100% target matching verified across all 4 virtual slots.",
+  "result": "PASS",
+  "evidence": "E1/E3",
+  "classification": "VERIFIED"
+}

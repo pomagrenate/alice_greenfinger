@@ -1,0 +1,72 @@
+[
+  {
+    "id": "EXP11-001",
+    "title": "Market Customer Slot Allocation Verification",
+    "hypothesis": "Customer orders operate via 4 fixed array slots in STATE_SHOP_MARKET with no priority queue.",
+    "independent_var": "Customer order sequence",
+    "controlled_var": "Market state memory buffer",
+    "initial_state": "Market state active (5)",
+    "stimulus": "4 simultaneous customer orders submitted",
+    "expected_obs": "Orders fill slots 0..3 sequentially in memory without sorting.",
+    "actual_obs": "Memory slots 0..3 populated sequentially. Zero sorting operations invoked.",
+    "result": "PASS",
+    "evidence": "E1/E3",
+    "classification": "PRIORITY_QUEUE_NOT_ESTABLISHED"
+  },
+  {
+    "id": "EXP11-002",
+    "title": "Crop Species Discrete Growth Isolation",
+    "hypothesis": "Crop growth timers advance deterministically per species ID with no allele inheritance.",
+    "independent_var": "Crop species ID (Carrot, Tomato, Cabbage)",
+    "controlled_var": "Simulation tick rate (60 Hz)",
+    "initial_state": "3 soil plots planted with different seeds",
+    "stimulus": "300 frame simulation ticks",
+    "expected_obs": "All plots transition stage 0->4 at fixed species thresholds with zero trait blending.",
+    "actual_obs": "Exact stage transitions verified without cross-pollination registers.",
+    "result": "PASS",
+    "evidence": "E1/E3/E4",
+    "classification": "PLANT_GENETICS_NOT_ESTABLISHED"
+  },
+  {
+    "id": "EXP11-003",
+    "title": "Save Serialization Byte Transparency",
+    "hypothesis": "Save file payload contains unencrypted raw binary struct values.",
+    "independent_var": "Player currency value (DAT_004a86a4)",
+    "controlled_var": "Save file path and profile name",
+    "initial_state": "Currency set to 1,000",
+    "stimulus": "Execute FUN_004037a0 (Save) and inspect byte stream",
+    "expected_obs": "Byte offset 0x24 contains exact little-endian uint32 0x000003E8 (1000).",
+    "actual_obs": "Direct byte match verified. Zero encryption transformation observed.",
+    "result": "PASS",
+    "evidence": "E1/E3",
+    "classification": "SAVE_ENCRYPTION_NOT_ESTABLISHED"
+  },
+  {
+    "id": "EXP11-004",
+    "title": "Campaign Endless Day Loop Progression",
+    "hypothesis": "Game loop advances days continuously without terminating on scripted cutscenes.",
+    "independent_var": "Day index advancement",
+    "controlled_var": "Simulation framework",
+    "initial_state": "Day 10 completed",
+    "stimulus": "Advance quota and frame ticks into Day 11",
+    "expected_obs": "Day counter increments to 11 and reloads farm grid.",
+    "actual_obs": "Day 11 successfully initialized with new quotas. No cutscene triggered.",
+    "result": "PASS",
+    "evidence": "E1/E3",
+    "classification": "ENDGAME_CINEMATIC_NOT_ESTABLISHED"
+  },
+  {
+    "id": "EXP11-005",
+    "title": "VTable Dynamic Dispatch Isolation",
+    "hypothesis": "Virtual calls on EngineContext route deterministically through VTABLE_00497000.",
+    "independent_var": "VTable slot index (0..3)",
+    "controlled_var": "EngineContext instance pointer (ECX)",
+    "initial_state": "EngineContext initialized",
+    "stimulus": "Invoke slots +0x00, +0x04, +0x08, +0x0C",
+    "expected_obs": "Calls execute FUN_00401500, FUN_004096a0, FUN_00404170, FUN_0040d590.",
+    "actual_obs": "100% target matching verified across all 4 virtual slots.",
+    "result": "PASS",
+    "evidence": "E1/E3",
+    "classification": "VERIFIED"
+  }
+]
