@@ -193,8 +193,8 @@ int main(int argc, char** argv) {
                 int my = ev.mouse_y;
 
                 if (State_GetCurrentState() == STATE_MAIN_MENU || State_GetCurrentState() == STATE_STARTUP) {
-                    // Click Play Game button (x: 250..550, y: 240..310)
-                    if (mx >= 250 && mx <= 550 && my >= 240 && my <= 310) {
+                    // Click Play Game button (x: 240..560, y: 290..420)
+                    if (mx >= 240 && mx <= 560 && my >= 290 && my <= 420) {
                         State_SetState(STATE_GAMEPLAY, "Start Farm");
                         DAT_004a86a4 = 100;
                     }

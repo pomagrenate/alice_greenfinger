@@ -1,7 +1,7 @@
 // ==========================================================================
-// ALICE GREENFINGERS - REAL ASSET GRAPHICAL RENDERER IMPLEMENTATION (PHASE 16.5)
-// Connects Recovered 32-bit ARGB Atlases (TitleBG, TitleSprites, Tiles, Sprites,
-// Interface, Market, Alice) to Real-Time Compositing Pipeline.
+// ALICE GREENFINGERS - REAL ASSET GRAPHICAL RENDERER IMPLEMENTATION (PHASE 16.5 v2)
+// Direct Atlas-Region Compositing of Recovered Original Artwork (TitleBG, TitleSprites,
+// Tiles, Sprites, Interface, Market, Alice).
 // Classification: E7 (Visually Observed Playable Runtime Evidence)
 // ==========================================================================
 
@@ -46,26 +46,26 @@ static int s_alice_anim_frame = 0;
 // Helper to load raw binary ARGB textures
 static void LoadTexture(AssetTexture* tex, const char* filename) {
     if (tex->loaded && tex->pixels) return;
-    
-    // Try primary path, distribution path, and relative path
-    const char* paths[] = {
-        filename,
+
+    const char* prefixes[] = {
+        "",
         "assets/graphics/",
         "distribution/assets/graphics/",
-        "../assets/graphics/"
+        "../assets/graphics/",
+        "../../assets/graphics/",
+        "distribution/windows/assets/graphics/"
     };
-    
+
     char full_path[512] = {0};
     FILE* f = nullptr;
-    for (int i = 0; i < 4; i++) {
-        if (i == 0) snprintf(full_path, sizeof(full_path), "%s", filename);
-        else snprintf(full_path, sizeof(full_path), "%s%s", paths[i], filename);
+    for (int i = 0; i < 6; i++) {
+        snprintf(full_path, sizeof(full_path), "%s%s", prefixes[i], filename);
         f = fopen(full_path, "rb");
         if (f) break;
     }
-    
+
     if (!f) return;
-    
+
     uint32_t w = 0, h = 0;
     if (fread(&w, 4, 1, f) == 1 && fread(&h, 4, 1, f) == 1) {
         if (w > 0 && h > 0 && w <= 4096 && h <= 4096) {
@@ -73,8 +73,7 @@ static void LoadTexture(AssetTexture* tex, const char* filename) {
             tex->height = (int)h;
             tex->pixels = (uint32_t*)malloc(w * h * sizeof(uint32_t));
             if (tex->pixels) {
-                size_t read_bytes = fread(tex->pixels, 4, w * h, f);
-                (void)read_bytes;
+                fread(tex->pixels, 4, w * h, f);
                 tex->loaded = true;
             }
         }
@@ -359,38 +358,39 @@ void Renderer_RenderFrame(const RenderState* state) {
     }
 
     // =========================================================================
-    // 1. TITLE SCREEN / STARTUP (REAL ASSET COMPOSITING)
+    // 1. TITLE SCREEN / STARTUP (AUTHENTIC RECOVERED ARTWORK)
     // =========================================================================
     if (state->current_state == STATE_MAIN_MENU || state->current_state == STATE_STARTUP) {
-        // Layer 0: Real Title Background
-        if (s_tex_titlebg.loaded) {
-            BlitTextureFull(&s_tex_titlebg, 0, 0, RENDER_WIDTH, RENDER_HEIGHT);
+        // Layer 0: Authentic Title Backdrop (y=480..866 from TitleSprites.bin)
+        if (s_tex_titlesprites.loaded) {
+            BlitTextureRect(&s_tex_titlesprites, 0, 480, 640, 386, 0, 0, RENDER_WIDTH, RENDER_HEIGHT);
         } else {
             DrawRect(0, 0, RENDER_WIDTH, RENDER_HEIGHT, 0xFF2E8B57);
         }
 
-        // Layer 1: Real Title Logo Banner from TitleSprites
+        // Layer 1: Authentic Alice Greenfingers Title Logo (x=314, y=866, w=262, h=107)
         if (s_tex_titlesprites.loaded) {
-            BlitTextureRect(&s_tex_titlesprites, 0, 0, 640, 220, 80, 40, 640, 220);
-        } else {
-            DrawRect(80, 40, 640, 100, 0xFF1C5A36);
-            DrawString(120, 75, "ALICE GREENFINGERS", 0xFFFFD700, 4);
+            BlitTextureRect(&s_tex_titlesprites, 314, 866, 262, 107, 269, 45, 262, 107);
         }
 
-        // Layer 2: Real Interactive Start Button Frame
-        DrawRect(240, 290, 320, 70, 0xFF388E3C);
-        DrawRect(244, 294, 312, 62, 0xFF4CAF50);
-        DrawString(265, 312, "[ CLICK TO PLAY GAME ]", 0xFFFFFFFF, 2);
+        // Layer 2: Authentic Menu Buttons from TitleSprites (x=314, y=1080, w=248, h=38)
+        if (s_tex_titlesprites.loaded) {
+            // Play Button
+            BlitTextureRect(&s_tex_titlesprites, 314, 1080, 248, 38, 276, 320, 248, 38);
+            DrawString(330, 332, "PLAY GAME", 0xFFFFFFFF, 2);
 
-        DrawRect(240, 390, 320, 45, 0xFF5D4037);
-        DrawString(275, 405, "RECONSTRUCTED EDITION", 0xFFFFE082, 2);
+            // Options Button
+            BlitTextureRect(&s_tex_titlesprites, 314, 1080, 248, 38, 276, 380, 248, 38);
+            DrawString(345, 392, "OPTIONS", 0xFFFFFFFF, 2);
+        }
+
         DrawString(160, 540, "Controls: Left-Click to Sow, Water, Harvest & Trade", 0xFFFFFFFF, 2);
 
     // =========================================================================
-    // 2. TOWN MARKET SCREEN (REAL ASSET COMPOSITING)
+    // 2. TOWN MARKET SCREEN (AUTHENTIC RECOVERED ARTWORK)
     // =========================================================================
     } else if (state->current_state == STATE_SHOP_MARKET) {
-        // Layer 0: Real Market Scene Background
+        // Layer 0: Real Market Scene Background from Market.bin
         if (s_tex_market.loaded) {
             BlitTextureFull(&s_tex_market, 0, 0, RENDER_WIDTH, RENDER_HEIGHT);
         } else {
@@ -417,15 +417,11 @@ void Renderer_RenderFrame(const RenderState* state) {
             // Customer avatar from Alice / Market sprites
             if (s_tex_alice.loaded) {
                 BlitTextureRect(&s_tex_alice, (s % 3) * 60, 0, 60, 75, sx + 50, sy + 60, 60, 75);
-            } else {
-                DrawRect(sx + 50, sy + 60, 60, 75, 0xFFBCAAA4);
             }
 
-            // Customer demand
             DrawRect(sx + 15, sy + 160, 130, 40, 0xFF2D1B17);
             DrawString(sx + 20, sy + 172, "WANTS: CARROT", 0xFFFFFFFF, 1);
 
-            // Sell Button
             DrawRect(sx + 15, sy + 220, 130, 50, (s_inventory_crops > 0) ? 0xFFFF8F00 : 0xFF616161);
             DrawString(sx + 25, sy + 235, "SELL (+$50)", 0xFFFFFFFF, 2);
         }
@@ -438,13 +434,13 @@ void Renderer_RenderFrame(const RenderState* state) {
         DrawString(80, 505, "Click any active Stall button above to sell your carrots!", 0xFFFFFFFF, 2);
 
     // =========================================================================
-    // 3. FARM GAMEPLAY SCREEN (REAL ASSET COMPOSITING)
+    // 3. FARM GAMEPLAY SCREEN (AUTHENTIC RECOVERED ARTWORK)
     // =========================================================================
     } else {
-        // Layer 0: Terrain Ground Fill
+        // Layer 0: Lush Green Garden Turf
         DrawRect(0, 0, RENDER_WIDTH, RENDER_HEIGHT, 0xFF4E7037);
 
-        // Layer 1: Real Farm Terrain Tiles from Tiles.bin
+        // Layer 1: Farm Terrain Grid (5x8 plots using Tiles.bin)
         for (int r = 0; r < 5; r++) {
             for (int c = 0; c < 8; c++) {
                 int px = 85 + c * 78;
@@ -452,38 +448,34 @@ void Renderer_RenderFrame(const RenderState* state) {
                 PlotState* p = &s_farm_grid[r][c];
 
                 if (s_tex_tiles.loaded) {
-                    // Blit recovered tilled soil tile (64x64 from Tiles.bin)
-                    BlitTextureRect(&s_tex_tiles, (p->stage > 0) ? 64 : 0, 0, 64, 64, px, py, 72, 85);
+                    // Empty plot = untilled soil (x=0, y=0, 64x64), Planted = tilled dark soil (x=64, y=0, 64x64)
+                    int tile_sx = (p->stage > 0) ? 64 : 0;
+                    BlitTextureRect(&s_tex_tiles, tile_sx, 0, 64, 64, px, py, 72, 85);
                 } else {
                     DrawRect(px, py, 72, 85, 0xFF5D4037);
                 }
 
-                // Layer 2: Real Crop Sprites from Sprites.bin for Growth Stages
-                if (p->stage > 0) {
-                    if (s_tex_sprites.loaded) {
-                        if (p->stage == 1) {
-                            // Seedling
-                            BlitTextureRect(&s_tex_sprites, 178, 346, 20, 23, px + 26, py + 30, 22, 26);
-                        } else if (p->stage == 2) {
-                            // Sprout
-                            BlitTextureRect(&s_tex_sprites, 530, 296, 24, 24, px + 22, py + 26, 28, 28);
-                        } else if (p->stage == 3) {
-                            // Growing Plant
-                            BlitTextureRect(&s_tex_sprites, 373, 179, 33, 31, px + 18, py + 20, 36, 36);
-                        } else if (p->stage == 4) {
-                            // Mature Carrot Ready to Harvest!
-                            BlitTextureRect(&s_tex_sprites, 508, 0, 72, 87, px + 14, py + 8, 44, 52);
-                            DrawString(px + 6, py + 65, "HARVEST!", 0xFFFFD54F, 1);
-                        }
-                    } else {
-                        // Fallback geometry
-                        DrawRect(px + 24, py + 24, 24, 24, (p->stage == 4) ? 0xFFFF6F00 : 0xFF4CAF50);
+                // Layer 2: Crop Growth Stages from Sprites.bin
+                if (p->stage > 0 && s_tex_sprites.loaded) {
+                    if (p->stage == 1) {
+                        // Seedling: x=178, y=346, w=20, h=23
+                        BlitTextureRect(&s_tex_sprites, 178, 346, 20, 23, px + 26, py + 30, 22, 26);
+                    } else if (p->stage == 2) {
+                        // Sprout: x=530, y=296, w=24, h=24
+                        BlitTextureRect(&s_tex_sprites, 530, 296, 24, 24, px + 22, py + 26, 28, 28);
+                    } else if (p->stage == 3) {
+                        // Growing Plant: x=373, y=179, w=33, h=31
+                        BlitTextureRect(&s_tex_sprites, 373, 179, 33, 31, px + 18, py + 20, 36, 36);
+                    } else if (p->stage == 4) {
+                        // Mature Carrot: x=508, y=0, w=72, h=87
+                        BlitTextureRect(&s_tex_sprites, 508, 0, 72, 87, px + 12, py + 14, 48, 56);
+                        DrawString(px + 6, py + 68, "HARVEST!", 0xFFFFD54F, 1);
                     }
                 }
             }
         }
 
-        // Layer 2: Alice Character Avatar
+        // Layer 2: Alice Character Avatar from Alice.bin
         if (s_tex_alice.loaded) {
             int frame_offset = (s_alice_anim_frame / 15) * 60;
             BlitTextureRect(&s_tex_alice, frame_offset % 300, 0, 60, 85, 715, 240, 70, 95);
