@@ -1,0 +1,14 @@
+GFX File: Graphics\TrialSprites.gfx
+Sub-sprite Count: 11
+
+Sprite #000: x=510, y=120, w=117, h=34
+Sprite #001: x=1, y=1, w=119, h=36
+Sprite #002: x=0, y=0, w=0, h=151
+Sprite #003: x=140, y=34, w=1, h=1
+Sprite #004: x=142, y=36, w=0, h=0
+Sprite #005: x=280, y=151, w=117, h=34
+Sprite #006: x=1, y=1, w=119, h=36
+Sprite #007: x=0, y=0, w=140, h=151
+Sprite #008: x=140, y=34, w=1, h=1
+Sprite #009: x=142, y=36, w=0, h=0
+Sprite #010: x=397, y=154, w=179, h=20

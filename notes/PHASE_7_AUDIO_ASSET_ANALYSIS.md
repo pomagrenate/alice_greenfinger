@@ -1,0 +1,79 @@
+# ALICE GREENFINGERS - AUDIO ASSET ANALYSIS (STEP 9)
+
+*Generated on 2026-09-01 17:53:37*
+
+## 1. TOTAL AUDIO INVENTORY (71 Tracks)
+
+| Track Filename | Format | Category | Evidence Level |
+| --- | --- | --- | :---: |
+| `AG-Alice.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-AliceBubble.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Bird01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Bird02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Bird03.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Bird04.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-CashCount.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-CashLoop.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-CashLoopEnd.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-CashReceive.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Chicken01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Chicken02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Click.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Cow.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Dehydrated.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Dig01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Dig02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Duck.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Error.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Grass01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Grass02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Grow.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-GrowRipe.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Hen01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Hen02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Hen03.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-HenLayEgg.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-HenScared.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Hover.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-ItemDrop.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-ItemGrab.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Mark.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Menu.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageAlert.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageAward.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageBabble01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageBabble02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageBabble03.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageBabble04.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageBabble05.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageBabble06.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageBabble07.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageNegative.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessagePositive.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageRadio.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-MessageTele.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Peck01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Peck02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-PickCrop.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-PickEgg.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-PlantRemove.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-RoosterCall01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-RoosterCall02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-RoosterScared.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Sheep01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Sheep02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-ShopDrop.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-ShopGrab.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Sow.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Step01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Step02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-Tap.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-WaterCan.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-WaterPump.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-WindowDown.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-WindowUp.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-WingFlaps01.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AG-WingFlaps02.ogg` | Ogg Vorbis (OGG) | `SFX_GAMEPLAY` | **[E1/E4]** |
+| `AGMusic-Ingame01.oxm` | FastTracker2 Module (OXM) | `BGM_MUSIC` | **[E1/E4]** |
+| `AGMusic-Ingame02.oxm` | FastTracker2 Module (OXM) | `BGM_MUSIC` | **[E1/E4]** |
+| `AGMusic-Menu.oxm` | FastTracker2 Module (OXM) | `BGM_MUSIC` | **[E1/E4]** |

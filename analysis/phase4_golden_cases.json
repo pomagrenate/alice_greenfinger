@@ -1,0 +1,74 @@
+[
+  {
+    "case_id": "GOLDEN-01",
+    "description": "Initial Engine State on Platform Setup",
+    "initial_state": {
+      "DAT_004974f4": 0
+    },
+    "action": "Platform_Initialize()",
+    "expected_state": {
+      "DAT_004974f4": 0
+    },
+    "expected_return": 0
+  },
+  {
+    "case_id": "GOLDEN-02",
+    "description": "PopCap LBTC Container Loading",
+    "initial_state": {
+      "DAT_00497528": 0
+    },
+    "action": "Resource_LoadGfxArchive('Graphics/alice.gfx')",
+    "expected_state": {
+      "DAT_00497528": 4814120
+    },
+    "expected_return": 0
+  },
+  {
+    "case_id": "GOLDEN-03",
+    "description": "FMOD Subsystem Host Activation",
+    "initial_state": {
+      "DAT_004b1200": 0
+    },
+    "action": "Audio_InitFMOD()",
+    "expected_state": {
+      "DAT_004b1200": 1
+    },
+    "expected_return": 1
+  },
+  {
+    "case_id": "GOLDEN-04",
+    "description": "State Transition to Main Menu",
+    "initial_state": {
+      "DAT_004974f4": 0
+    },
+    "action": "State_SetState(STATE_MAIN_MENU)",
+    "expected_state": {
+      "DAT_004974f4": 1
+    },
+    "expected_return": null
+  },
+  {
+    "case_id": "GOLDEN-05",
+    "description": "State Transition to Gameplay on Start Event",
+    "initial_state": {
+      "DAT_004974f4": 1
+    },
+    "action": "FUN_00404170(1001, nullptr)",
+    "expected_state": {
+      "DAT_004974f4": 3
+    },
+    "expected_return": 1
+  },
+  {
+    "case_id": "GOLDEN-06",
+    "description": "Simulation Frame Render Tick Advancement",
+    "initial_state": {
+      "DAT_004a7f54": 0
+    },
+    "action": "GameLoop_Tick() x 5",
+    "expected_state": {
+      "DAT_004a7f54": 5
+    },
+    "expected_return": null
+  }
+]

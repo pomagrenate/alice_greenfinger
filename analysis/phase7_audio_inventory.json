@@ -1,0 +1,428 @@
+[
+  {
+    "track_name": "AG-Alice.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-AliceBubble.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Bird01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Bird02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Bird03.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Bird04.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-CashCount.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-CashLoop.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-CashLoopEnd.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-CashReceive.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Chicken01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Chicken02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Click.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Cow.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Dehydrated.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Dig01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Dig02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Duck.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Error.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Grass01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Grass02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Grow.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-GrowRipe.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Hen01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Hen02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Hen03.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-HenLayEgg.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-HenScared.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Hover.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-ItemDrop.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-ItemGrab.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Mark.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Menu.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageAlert.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageAward.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageBabble01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageBabble02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageBabble03.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageBabble04.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageBabble05.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageBabble06.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageBabble07.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageNegative.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessagePositive.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageRadio.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-MessageTele.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Peck01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Peck02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-PickCrop.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-PickEgg.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-PlantRemove.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-RoosterCall01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-RoosterCall02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-RoosterScared.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Sheep01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Sheep02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-ShopDrop.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-ShopGrab.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Sow.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Step01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Step02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-Tap.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-WaterCan.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-WaterPump.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-WindowDown.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-WindowUp.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-WingFlaps01.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AG-WingFlaps02.ogg",
+    "format": "Ogg Vorbis (OGG)",
+    "category": "SFX_GAMEPLAY",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AGMusic-Ingame01.oxm",
+    "format": "FastTracker2 Module (OXM)",
+    "category": "BGM_MUSIC",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AGMusic-Ingame02.oxm",
+    "format": "FastTracker2 Module (OXM)",
+    "category": "BGM_MUSIC",
+    "evidence": "E1/E4"
+  },
+  {
+    "track_name": "AGMusic-Menu.oxm",
+    "format": "FastTracker2 Module (OXM)",
+    "category": "BGM_MUSIC",
+    "evidence": "E1/E4"
+  }
+]

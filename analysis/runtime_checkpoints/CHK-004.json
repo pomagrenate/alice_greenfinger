@@ -1,0 +1,11 @@
+{
+  "checkpoint_id": "CHK-004",
+  "frame": 3,
+  "state": "STATE_GAMEPLAY (3)",
+  "globals": {
+    "DAT_004974f4": 3,
+    "DAT_004a7f54": 1,
+    "DAT_004a86a4": 100
+  },
+  "event": "START_FARM"
+}

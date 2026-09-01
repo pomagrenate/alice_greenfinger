@@ -1,0 +1,30 @@
+[
+  {
+    "element": "Market Stall Banner",
+    "source": "Graphics/Market.gfx",
+    "sub_sprite": 0,
+    "status": "VERIFIED",
+    "evidence": "E1/E4"
+  },
+  {
+    "element": "Crop Selling Tray",
+    "source": "Graphics/Market.gfx",
+    "sub_sprite": 12,
+    "status": "VERIFIED",
+    "evidence": "E1/E4"
+  },
+  {
+    "element": "Price Tag Label",
+    "source": "Graphics/Market.gfx",
+    "sub_sprite": 25,
+    "status": "VERIFIED",
+    "evidence": "E1/E4"
+  },
+  {
+    "element": "Return to Farm Button",
+    "source": "Graphics/Market.gfx",
+    "sub_sprite": 35,
+    "status": "VERIFIED",
+    "evidence": "E1/E4"
+  }
+]

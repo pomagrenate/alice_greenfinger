@@ -1,0 +1,23 @@
+{
+  "project": "Alice Greenfingers Forensic Behavioral Reconstruction",
+  "phase": "PHASE 3",
+  "timestamp": "2026-09-01T17:25:01.770421",
+  "baseline_metrics": {
+    "total_binary_functions": 1847,
+    "group_a_verified_reconstructed": 1194,
+    "runtime_verified_functions": 170,
+    "unresolved_indirect_calls": 425,
+    "vtable_slots": 4,
+    "recovered_static_globals": 175,
+    "extracted_strings": 874,
+    "compilable_modules": 11
+  },
+  "subsystems": [
+    "SUBSYS_ENGINE_INIT",
+    "SUBSYS_SCRIPT_HOST",
+    "SUBSYS_EVENT_DISPATCH",
+    "SUBSYS_FRAME_RENDER",
+    "SUBSYS_POP_PARSER",
+    "SUBSYS_AUDIO_FMOD"
+  ]
+}

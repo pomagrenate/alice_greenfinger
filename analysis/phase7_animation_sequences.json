@@ -1,0 +1,37 @@
+[
+  {
+    "sequence_id": "ANIM_CROP_GROWTH",
+    "source_container": "Graphics/Sprites.gfx",
+    "frame_count": 5,
+    "stage_descriptions": [
+      "Stage 0: Dug Soil",
+      "Stage 1: Planted Seed",
+      "Stage 2: Sprouting Leaf",
+      "Stage 3: Flowering Plant",
+      "Stage 4: Ripe Crop"
+    ],
+    "timing_rule": "Synchronized to 60 Hz frame counter DAT_004a7f54",
+    "status": "VERIFIED",
+    "evidence": "E1/E3/E4"
+  },
+  {
+    "sequence_id": "ANIM_ALICE_IDLE_WALK",
+    "source_container": "Graphics/Alice.gfx",
+    "frame_count": 8,
+    "stage_descriptions": [
+      "Walk Cycle Frames 0..7"
+    ],
+    "timing_rule": "Tick frame index modulo frame count",
+    "status": "PARTIALLY VERIFIED",
+    "evidence": "E2/E4"
+  },
+  {
+    "sequence_id": "ANIM_STOCHASTIC_GENETICS",
+    "source_container": "None",
+    "frame_count": 0,
+    "stage_descriptions": [],
+    "timing_rule": "None",
+    "status": "NOT ESTABLISHED",
+    "evidence": "E1 (No binary evidence)"
+  }
+]

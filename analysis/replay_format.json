@@ -1,0 +1,37 @@
+{
+  "format_version": "1.0",
+  "timestep_ms": 16.666667,
+  "target_framerate": 60,
+  "clock_register": "DAT_004a7f54",
+  "snapshot_fields": [
+    "DAT_004974f4",
+    "DAT_004a7f54",
+    "DAT_00497528",
+    "DAT_004a86a4",
+    "DAT_004b1200"
+  ],
+  "sample_event_stream": [
+    {
+      "frame": 0,
+      "event": "INIT",
+      "state": 0
+    },
+    {
+      "frame": 1,
+      "event": "MENU",
+      "state": 1
+    },
+    {
+      "frame": 2,
+      "event": "START_GAME",
+      "opcode": 1001,
+      "state": 3
+    },
+    {
+      "frame": 5,
+      "event": "RENDER_TICK",
+      "state": 3,
+      "tick_count": 5
+    }
+  ]
+}

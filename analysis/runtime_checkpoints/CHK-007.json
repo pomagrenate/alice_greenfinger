@@ -1,0 +1,11 @@
+{
+  "checkpoint_id": "CHK-007",
+  "frame": 65,
+  "state": "STATE_PAUSE_OPTIONS (4)",
+  "globals": {
+    "DAT_004974f4": 4,
+    "DAT_004a7f54": 63,
+    "DAT_004a86a4": 150
+  },
+  "event": "PAUSE_GAME"
+}

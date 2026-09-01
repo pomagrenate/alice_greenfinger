@@ -1,0 +1,57 @@
+{
+  "project": "Alice Greenfingers Forensic Architecture Reconstruction",
+  "timestamp": "2026-09-01T13:48:06.535644",
+  "phase": "PHASE 1",
+  "metrics": {
+    "total_functions": 1847,
+    "verified_functions": 1194,
+    "coverage_percentage": 64.6,
+    "runtime_verified_functions": 170,
+    "resolved_indirect_calls": 170,
+    "unresolved_indirect_calls": 425
+  },
+  "subsystems": [
+    {
+      "id": "SUBSYS_ENGINE_INIT",
+      "rva": "0x0040d590",
+      "role": "Engine Init"
+    },
+    {
+      "id": "SUBSYS_SCRIPT_HOST",
+      "rva": "0x00401500",
+      "role": "Script Host Engine"
+    },
+    {
+      "id": "SUBSYS_EVENT_DISPATCH",
+      "rva": "0x00404170",
+      "role": "Opcode & UI Dispatcher"
+    },
+    {
+      "id": "SUBSYS_FRAME_RENDER",
+      "rva": "0x004096a0",
+      "role": "Main Frame Renderer"
+    },
+    {
+      "id": "SUBSYS_POP_PARSER",
+      "rva": "0x004033c0",
+      "role": "PopCap GFX Parser"
+    },
+    {
+      "id": "SUBSYS_AUDIO_FMOD",
+      "rva": "0x00411000",
+      "role": "Audio Wrapper"
+    }
+  ],
+  "vtables": [
+    {
+      "address": "0x00497000",
+      "owning_object": "Class_EngineContext",
+      "slots": {
+        "+0x00": "FUN_0040d590",
+        "+0x04": "FUN_004096a0",
+        "+0x08": "FUN_00404170",
+        "+0x0C": "FUN_00401c00"
+      }
+    }
+  ]
+}

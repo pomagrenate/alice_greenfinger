@@ -1,0 +1,44 @@
+[
+  {
+    "id": "EXP-GAME-001",
+    "name": "Engine Context Startup",
+    "rva": "0x0040d590",
+    "result": "STATE_STARTUP (0)",
+    "confidence": "VERIFIED"
+  },
+  {
+    "id": "EXP-GAME-002",
+    "name": "Main Menu State Transition",
+    "rva": "0x00404170",
+    "result": "STATE_MAIN_MENU (1)",
+    "confidence": "VERIFIED"
+  },
+  {
+    "id": "EXP-GAME-003",
+    "name": "Gameplay State Transition",
+    "rva": "0x00404170",
+    "result": "STATE_GAMEPLAY (3)",
+    "confidence": "VERIFIED"
+  },
+  {
+    "id": "EXP-ASSET-001",
+    "name": "LBTC Container Header Verification",
+    "rva": "0x004033c0",
+    "result": "Magic 'LBTC' Verified, Handle 0x00497528",
+    "confidence": "VERIFIED"
+  },
+  {
+    "id": "EXP-AUDIO-001",
+    "name": "FMOD Audio Initialization",
+    "rva": "0x00411000",
+    "result": "Channel Word 1",
+    "confidence": "VERIFIED"
+  },
+  {
+    "id": "EXP-SIM-001",
+    "name": "60Hz Frame Tick Loop",
+    "rva": "0x004096a0",
+    "result": "Frame Counter incremented",
+    "confidence": "VERIFIED"
+  }
+]

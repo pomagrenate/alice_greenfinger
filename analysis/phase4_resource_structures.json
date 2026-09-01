@@ -1,0 +1,77 @@
+{
+  "structures": [
+    {
+      "name": "PopCap_LBTC_Header",
+      "size_bytes": 16,
+      "fields": [
+        {
+          "offset": "0x00",
+          "name": "magic",
+          "type": "char[4]",
+          "value": "LBTC (0x4354424C)"
+        },
+        {
+          "offset": "0x04",
+          "name": "version",
+          "type": "uint32_t",
+          "value": "1"
+        },
+        {
+          "offset": "0x08",
+          "name": "entry_count",
+          "type": "uint32_t",
+          "value": "Number of sub-sprites"
+        },
+        {
+          "offset": "0x0C",
+          "name": "data_offset",
+          "type": "uint32_t",
+          "value": "Payload byte offset"
+        }
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "name": "PopCap_Sprite_Entry",
+      "size_bytes": 16,
+      "fields": [
+        {
+          "offset": "0x00",
+          "name": "src_x",
+          "type": "uint16_t"
+        },
+        {
+          "offset": "0x02",
+          "name": "src_y",
+          "type": "uint16_t"
+        },
+        {
+          "offset": "0x04",
+          "name": "width",
+          "type": "uint16_t"
+        },
+        {
+          "offset": "0x06",
+          "name": "height",
+          "type": "uint16_t"
+        },
+        {
+          "offset": "0x08",
+          "name": "dest_x_offset",
+          "type": "int16_t"
+        },
+        {
+          "offset": "0x0A",
+          "name": "dest_y_offset",
+          "type": "int16_t"
+        },
+        {
+          "offset": "0x0C",
+          "name": "flags",
+          "type": "uint32_t"
+        }
+      ],
+      "confidence": "VERIFIED"
+    }
+  ]
+}

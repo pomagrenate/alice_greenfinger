@@ -1,0 +1,11 @@
+{
+  "checkpoint_id": "CHK-006",
+  "frame": 64,
+  "state": "STATE_SHOP_MARKET (5)",
+  "globals": {
+    "DAT_004974f4": 5,
+    "DAT_004a7f54": 62,
+    "DAT_004a86a4": 150
+  },
+  "event": "OPEN_MARKET"
+}

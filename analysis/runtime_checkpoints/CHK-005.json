@@ -1,0 +1,11 @@
+{
+  "checkpoint_id": "CHK-005",
+  "frame": 63,
+  "state": "STATE_GAMEPLAY (3)",
+  "globals": {
+    "DAT_004974f4": 3,
+    "DAT_004a7f54": 61,
+    "DAT_004a86a4": 150
+  },
+  "event": "HARVEST_CROP"
+}

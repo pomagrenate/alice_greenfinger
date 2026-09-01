@@ -1,0 +1,72 @@
+[
+  {
+    "id": "GUI-01",
+    "name": "Application Window & Context Initialization",
+    "input": "Window_Create(800x600)",
+    "expected_state": 0,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-02",
+    "name": "Main Menu Mouse Move & Hover",
+    "input": "Input_PushEvent(MOUSE_MOVE 400, 300)",
+    "expected_state": 1,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-03",
+    "name": "Name Dialog Modal Interaction",
+    "input": "Input_PushEvent(MOUSE_DOWN Dialog_Bounds)",
+    "expected_state": 2,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-04",
+    "name": "Enter Gameplay Transition",
+    "input": "Input_PushEvent(MOUSE_DOWN Start_Button)",
+    "expected_state": 3,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-05",
+    "name": "Gameplay Grid Mouse Click",
+    "input": "Input_PushEvent(MOUSE_DOWN Tile_Plot[2][3])",
+    "expected_state": 3,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-06",
+    "name": "Pause / Options Trigger",
+    "input": "Input_PushEvent(KEY_DOWN VK_ESCAPE)",
+    "expected_state": 4,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-07",
+    "name": "Shop / Market Trigger",
+    "input": "Input_PushEvent(MOUSE_DOWN Market_Button)",
+    "expected_state": 5,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-08",
+    "name": "Return From Market / Pause to Farm",
+    "input": "Input_PushEvent(MOUSE_DOWN Return_Button)",
+    "expected_state": 3,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-09",
+    "name": "Window Close Request Handling",
+    "input": "Window_RequestClose()",
+    "expected_state": 3,
+    "status": "PASS"
+  },
+  {
+    "id": "GUI-10",
+    "name": "Full Application Lifecycle Restart",
+    "input": "Platform_Initialize()",
+    "expected_state": 0,
+    "status": "PASS"
+  }
+]

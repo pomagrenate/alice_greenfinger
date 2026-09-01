@@ -1,0 +1,42 @@
+[
+  {
+    "growth_stage": 0,
+    "name": "Dug Soil Plot",
+    "sprite_id": 12,
+    "container": "Graphics/Sprites.gfx",
+    "condition": "Soil Watered/Dug",
+    "evidence": "E1/E4"
+  },
+  {
+    "growth_stage": 1,
+    "name": "Planted Seed",
+    "sprite_id": 15,
+    "container": "Graphics/Sprites.gfx",
+    "condition": "Seed Sown",
+    "evidence": "E1/E4"
+  },
+  {
+    "growth_stage": 2,
+    "name": "Growing Sprout",
+    "sprite_id": 20,
+    "container": "Graphics/Sprites.gfx",
+    "condition": "Tick >= 60",
+    "evidence": "E1/E4"
+  },
+  {
+    "growth_stage": 3,
+    "name": "Flowering Plant",
+    "sprite_id": 25,
+    "container": "Graphics/Sprites.gfx",
+    "condition": "Tick >= 180",
+    "evidence": "E1/E4"
+  },
+  {
+    "growth_stage": 4,
+    "name": "Ripe Harvest Crop",
+    "sprite_id": 30,
+    "container": "Graphics/Sprites.gfx",
+    "condition": "Tick >= 300",
+    "evidence": "E1/E4"
+  }
+]

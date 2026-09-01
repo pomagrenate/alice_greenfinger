@@ -1,0 +1,44 @@
+[
+  {
+    "event_name": "GUI Button Click",
+    "audio_track": "AG-Click.ogg",
+    "trigger": "Input_PushEvent(MOUSE_DOWN)",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "event_name": "Plant Growth Tick",
+    "audio_track": "AG-Grow.ogg",
+    "trigger": "Crop Stage Transition",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "event_name": "Harvest Crop Cash",
+    "audio_track": "AG-CashReceive.ogg",
+    "trigger": "DAT_004a86a4 += price",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "event_name": "Main Menu Music",
+    "audio_track": "AGMusic-Menu.oxm",
+    "trigger": "STATE_MAIN_MENU (1)",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "event_name": "Gameplay Music",
+    "audio_track": "AGMusic-Ingame01.oxm",
+    "trigger": "STATE_GAMEPLAY (3)",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "event_name": "Speculative Ambient Jingle",
+    "audio_track": "None",
+    "trigger": "Unproven",
+    "status": "NOT ESTABLISHED",
+    "evidence": "E1"
+  }
+]

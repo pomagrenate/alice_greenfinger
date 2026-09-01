@@ -1,0 +1,50 @@
+[
+  {
+    "container": "Graphics/Sprites.gfx",
+    "loader_func": "FUN_004033c0",
+    "render_func": "FUN_004096a0",
+    "layer": "Layer 2 (Simulation Grid)",
+    "state": "STATE_GAMEPLAY (3)",
+    "evidence": "E1/E2/E3"
+  },
+  {
+    "container": "Graphics/Interface.gfx",
+    "loader_func": "FUN_004033c0",
+    "render_func": "FUN_004096a0",
+    "layer": "Layer 3 (GUI HUD / Buttons)",
+    "state": "All Active States",
+    "evidence": "E1/E2/E3"
+  },
+  {
+    "container": "Graphics/Market.gfx",
+    "loader_func": "FUN_004033c0",
+    "render_func": "FUN_004096a0",
+    "layer": "Layer 3 (Market Stalls)",
+    "state": "STATE_SHOP_MARKET (5)",
+    "evidence": "E1/E2/E3"
+  },
+  {
+    "container": "Graphics/Alice.gfx",
+    "loader_func": "FUN_004033c0",
+    "render_func": "FUN_004096a0",
+    "layer": "Layer 2 (Character Sprite)",
+    "state": "STATE_GAMEPLAY (3)",
+    "evidence": "E1/E2/E3"
+  },
+  {
+    "container": "Graphics/Loading.gfx",
+    "loader_func": "FUN_004033c0",
+    "render_func": "FUN_0040d590",
+    "layer": "Layer 1 (Loading Screen)",
+    "state": "STATE_STARTUP (0)",
+    "evidence": "E1/E2/E3"
+  },
+  {
+    "container": "TileSets/",
+    "loader_func": "FUN_004033c0",
+    "render_func": "FUN_004096a0",
+    "layer": "Layer 1 (Terrain Background)",
+    "state": "STATE_GAMEPLAY (3)",
+    "evidence": "E1/E2/E3"
+  }
+]

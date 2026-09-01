@@ -1,0 +1,80 @@
+{
+  "lbtc_format": {
+    "magic": "LBTC (0x4354424C)",
+    "version": 1,
+    "header_size": 16,
+    "entry_size": 16,
+    "fields": [
+      {
+        "offset": "0x00",
+        "type": "char[4]",
+        "name": "magic",
+        "description": "PopCap LBTC Magic Header"
+      },
+      {
+        "offset": "0x04",
+        "type": "uint32_t",
+        "name": "version",
+        "description": "Format version (1)"
+      },
+      {
+        "offset": "0x08",
+        "type": "uint32_t",
+        "name": "entry_count",
+        "description": "Total sub-sprite count"
+      },
+      {
+        "offset": "0x0C",
+        "type": "uint32_t",
+        "name": "data_offset",
+        "description": "Offset to payload data"
+      }
+    ]
+  },
+  "sprite_entry_format": {
+    "fields": [
+      {
+        "offset": "0x00",
+        "type": "uint16_t",
+        "name": "src_x",
+        "description": "Source X in atlas bitmap"
+      },
+      {
+        "offset": "0x02",
+        "type": "uint16_t",
+        "name": "src_y",
+        "description": "Source Y in atlas bitmap"
+      },
+      {
+        "offset": "0x04",
+        "type": "uint16_t",
+        "name": "width",
+        "description": "Pixel width of sub-sprite"
+      },
+      {
+        "offset": "0x06",
+        "type": "uint16_t",
+        "name": "height",
+        "description": "Pixel height of sub-sprite"
+      },
+      {
+        "offset": "0x08",
+        "type": "int16_t",
+        "name": "dest_x_offset",
+        "description": "Rendering X alignment offset"
+      },
+      {
+        "offset": "0x0A",
+        "type": "int16_t",
+        "name": "dest_y_offset",
+        "description": "Rendering Y alignment offset"
+      },
+      {
+        "offset": "0x0C",
+        "type": "uint32_t",
+        "name": "flags",
+        "description": "Format / Transparency flags"
+      }
+    ]
+  }
+}

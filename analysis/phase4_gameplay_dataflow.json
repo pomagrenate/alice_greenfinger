@@ -1,0 +1,54 @@
+{
+  "variables": [
+    {
+      "address": "DAT_004974f4",
+      "role": "Active Game State Enum (0..5)",
+      "readers": [
+        "FUN_00404170",
+        "FUN_004096a0",
+        "FUN_00401500"
+      ],
+      "writers": [
+        "FUN_0040d590",
+        "FUN_00404170"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "address": "DAT_004a7f54",
+      "role": "Frame Tick Counter (60Hz)",
+      "readers": [
+        "FUN_004096a0",
+        "Render_MainFrameLayerUpdate"
+      ],
+      "writers": [
+        "FUN_004096a0"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "address": "DAT_00497528",
+      "role": "Sprite Atlas Handle Pointer",
+      "readers": [
+        "FUN_004096a0",
+        "FUN_004033c0"
+      ],
+      "writers": [
+        "FUN_004033c0"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "address": "DAT_004a86a4",
+      "role": "Primary Gameplay Simulation Flag / Currency Counter",
+      "readers": [
+        "FUN_00404170",
+        "FUN_004096a0"
+      ],
+      "writers": [
+        "FUN_00404170"
+      ],
+      "confidence": "HIGH-CONFIDENCE"
+    }
+  ]
+}

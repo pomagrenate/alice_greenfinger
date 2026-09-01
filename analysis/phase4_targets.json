@@ -1,0 +1,92 @@
+[
+  {
+    "id": "FUN_004096a0",
+    "rva": "0x004096a0",
+    "category": "SIMULATION_RENDER",
+    "role": "60 Hz Main World Frame Render & Tile/Layer Update Loop",
+    "lines": 484,
+    "evidence": "Ghidra decompilation + runtime execution trace",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_00404170",
+    "rva": "0x00404170",
+    "category": "EVENT_DISPATCH",
+    "role": "Opcode & UI Event Callback Dispatcher",
+    "lines": 2408,
+    "evidence": "String xrefs ('ADLIBREGISTER', 'GUICTRLSETDATA') + runtime UI trace",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_00401500",
+    "rva": "0x00401500",
+    "category": "SCRIPT_HOST",
+    "role": "Script Engine Host & Control Initializer",
+    "lines": 333,
+    "evidence": "Ghidra decompilation + Win32 class registration",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_004033c0",
+    "rva": "0x004033c0",
+    "category": "RESOURCE_LOADER",
+    "role": "PopCap GFX Container / LBTC Archive Parser",
+    "lines": 209,
+    "evidence": "Magic 'LBTC' header check + sprite atlas handle assignment",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_004037a0",
+    "rva": "0x004037a0",
+    "category": "PERSISTENCE_IO",
+    "role": "File Stream Header Reader (ReadFile wrapper)",
+    "lines": 150,
+    "evidence": "Direct Win32 ReadFile API call with error handling",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_00403910",
+    "rva": "0x00403910",
+    "category": "PERSISTENCE_IO",
+    "role": "File Buffer Block Reader",
+    "lines": 45,
+    "evidence": "Win32 ReadFile block streaming",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_00403a20",
+    "rva": "0x00403a20",
+    "category": "MEMORY_ALLOC",
+    "role": "Resource Buffer Allocator & Stream Slicer",
+    "lines": 112,
+    "evidence": "Heap allocation & pointer indexing",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_0040d590",
+    "rva": "0x0040d590",
+    "category": "ENGINE_INIT",
+    "role": "Engine Context Initializer & VTable Binding",
+    "lines": 102,
+    "evidence": "VTABLE_00497000 binding + STATE_STARTUP init",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_00411000",
+    "rva": "0x00411000",
+    "category": "AUDIO_FMOD",
+    "role": "FMOD Audio Subsystem Host Wrapper",
+    "lines": 45,
+    "evidence": "FMOD DLL exported thunks",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "FUN_004165c1",
+    "rva": "0x004165c1",
+    "category": "PLATFORM_ENTRY",
+    "role": "Win32 PE Entry Point & CRT Startup",
+    "lines": 15,
+    "evidence": "PE Optional Header AddressOfEntryPoint",
+    "status": "VERIFIED"
+  }
+]

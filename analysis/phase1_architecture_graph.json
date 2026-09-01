@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "FUN_004165c1",
+      "label": "EntryPoint",
+      "type": "FUNCTION"
+    },
+    {
+      "id": "FUN_0040d590",
+      "label": "Engine_Init",
+      "type": "FUNCTION"
+    },
+    {
+      "id": "FUN_00401500",
+      "label": "Script_Host",
+      "type": "FUNCTION"
+    },
+    {
+      "id": "FUN_00404170",
+      "label": "Event_Dispatcher",
+      "type": "FUNCTION"
+    },
+    {
+      "id": "FUN_004096a0",
+      "label": "Frame_Renderer",
+      "type": "FUNCTION"
+    },
+    {
+      "id": "FUN_004033c0",
+      "label": "Resource_Parser",
+      "type": "FUNCTION"
+    },
+    {
+      "id": "Class_EngineContext",
+      "label": "EngineContext",
+      "type": "OBJECT"
+    },
+    {
+      "id": "VTABLE_00497000",
+      "label": "EngineVTable",
+      "type": "VTABLE"
+    }
+  ],
+  "edges": [
+    {
+      "source": "FUN_004165c1",
+      "target": "FUN_0040d590",
+      "type": "CALLS",
+      "confidence": "VERIFIED"
+    },
+    {
+      "source": "FUN_0040d590",
+      "target": "Class_EngineContext",
+      "type": "OWNS",
+      "confidence": "VERIFIED"
+    },
+    {
+      "source": "Class_EngineContext",
+      "target": "VTABLE_00497000",
+      "type": "REFERENCES",
+      "confidence": "VERIFIED"
+    },
+    {
+      "source": "VTABLE_00497000",
+      "target": "FUN_004096a0",
+      "type": "DISPATCHES",
+      "confidence": "VERIFIED"
+    },
+    {
+      "source": "VTABLE_00497000",
+      "target": "FUN_00404170",
+      "type": "DISPATCHES",
+      "confidence": "VERIFIED"
+    }
+  ]
+}

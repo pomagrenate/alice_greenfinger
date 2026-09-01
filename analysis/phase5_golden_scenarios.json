@@ -1,0 +1,100 @@
+[
+  {
+    "id": "GOLDEN-01",
+    "name": "Engine Context Startup",
+    "action": "Platform_Initialize()",
+    "expected_state": 0,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-02",
+    "name": "PopCap LBTC Container Loading",
+    "action": "Resource_LoadGfxArchive()",
+    "expected_state": 4814120,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-03",
+    "name": "FMOD Subsystem Host Activation",
+    "action": "Audio_InitFMOD()",
+    "expected_state": 1,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-04",
+    "name": "State Transition to Main Menu",
+    "action": "State_SetState(STATE_MAIN_MENU)",
+    "expected_state": 1,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-05",
+    "name": "State Transition to Gameplay on Start",
+    "action": "FUN_00404170(1001)",
+    "expected_state": 3,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-06",
+    "name": "Simulation Frame Render Tick Advancement",
+    "action": "GameLoop_Tick() x 5",
+    "expected_state": 5,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-07",
+    "name": "Startup to Main Menu Transition",
+    "action": "State_SetState(STATE_MAIN_MENU)",
+    "expected_state": 1,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-08",
+    "name": "Main Menu to Name Dialog Transition",
+    "action": "State_SetState(STATE_NAME_DIALOG)",
+    "expected_state": 2,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-09",
+    "name": "Name Dialog to Gameplay Transition",
+    "action": "State_SetState(STATE_GAMEPLAY)",
+    "expected_state": 3,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-10",
+    "name": "Gameplay Tick Progression (60 Ticks)",
+    "action": "GameLoop_Tick() x 60",
+    "expected_state": 65,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-11",
+    "name": "Seed Purchase Inventory / Currency Mutation",
+    "action": "DAT_004a86a4 -= 20",
+    "expected_state": 80,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-12",
+    "name": "Harvest / Sale Currency Mutation",
+    "action": "DAT_004a86a4 += 50",
+    "expected_state": 130,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-13",
+    "name": "Market Shop State Transition",
+    "action": "State_SetState(STATE_SHOP_MARKET)",
+    "expected_state": 5,
+    "status": "PASS"
+  },
+  {
+    "id": "GOLDEN-14",
+    "name": "Pause / Options State Transition",
+    "action": "State_SetState(STATE_PAUSE_OPTIONS)",
+    "expected_state": 4,
+    "status": "PASS"
+  }
+]

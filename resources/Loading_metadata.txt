@@ -1,0 +1,8 @@
+GFX File: Graphics\Loading.gfx
+Sub-sprite Count: 5
+
+Sprite #000: x=0, y=0, w=286, h=128
+Sprite #001: x=1, y=1, w=289, h=129
+Sprite #002: x=0, y=0, w=286, h=0
+Sprite #003: x=134, y=40, w=1, h=1
+Sprite #004: x=136, y=42, w=0, h=0

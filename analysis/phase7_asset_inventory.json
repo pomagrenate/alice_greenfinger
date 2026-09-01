@@ -1,0 +1,582 @@
+{
+  "audio_tracks_count": 71,
+  "graphics_atlases_count": 15,
+  "lbtc_containers_count": 10,
+  "audio_files": [
+    {
+      "filename": "AG-Alice.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6195,
+      "sha256": "2d5493f3971e4647a686fd8a6a53249d0b54d03e2d787b7f8aa3da305ea0123b"
+    },
+    {
+      "filename": "AG-AliceBubble.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 3848,
+      "sha256": "19dbeae41296bd09970ff68eb019e45636a3775392eef799a9cdff499c0818ae"
+    },
+    {
+      "filename": "AG-Bird01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6354,
+      "sha256": "0ef782c5d654cd81258ad513f96344ee710fa51a5b0bcd8035d127febad49926"
+    },
+    {
+      "filename": "AG-Bird02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6008,
+      "sha256": "f17cee8bab6cfe06b7e3942f71ff900c0b8327279a337b32bd6db8fc8992304b"
+    },
+    {
+      "filename": "AG-Bird03.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 9194,
+      "sha256": "d22c68c732e21551ede51db181065846d784f739e46fb5321dd71017becc4ff5"
+    },
+    {
+      "filename": "AG-Bird04.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 9124,
+      "sha256": "b122621bf84d1560d72c8660c25c033b05178776790fef2876cd8943f211e240"
+    },
+    {
+      "filename": "AG-CashCount.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4199,
+      "sha256": "7a7c5d6f356789dae448ff134a63d0f0e1ca81535732c988918e05a2744084d0"
+    },
+    {
+      "filename": "AG-CashLoop.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 10154,
+      "sha256": "143413a6b3b5758997494fe50974246653ed72f9ed16813ccff39cd04b553aba"
+    },
+    {
+      "filename": "AG-CashLoopEnd.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6861,
+      "sha256": "19086471bd1641478e6c41ec8334b4405d6cfc153e0a0be2e436e6e2117c6d72"
+    },
+    {
+      "filename": "AG-CashReceive.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 9695,
+      "sha256": "fb5110d2c7e3e01ae5687707bb2934f56c0f16b3487bc8b3a92681e0ed0ef793"
+    },
+    {
+      "filename": "AG-Chicken01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4119,
+      "sha256": "96bc3decd380696f8254114feafff91d22de2e072ad33f19d93fa4749456c31e"
+    },
+    {
+      "filename": "AG-Chicken02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4097,
+      "sha256": "db77d977afdb3200581155584cbfb96c3e3109bc4f8d2356c79cd8320ff9a98c"
+    },
+    {
+      "filename": "AG-Click.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4834,
+      "sha256": "d9c34cfde2245b106983643d266f3b5f2c8b0e5f5d9dc97013bdfd63ded5d344"
+    },
+    {
+      "filename": "AG-Cow.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 14232,
+      "sha256": "13a6b355f55391af00c37715a807a0f3f99ae1d548b85510071d79164553f05f"
+    },
+    {
+      "filename": "AG-Dehydrated.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 7093,
+      "sha256": "d5f4f0415a74da79cd9e1046a7851c771de661f62d7017c4953521343d2e4b5f"
+    },
+    {
+      "filename": "AG-Dig01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4636,
+      "sha256": "3b104fdd6d2433c609998bab53be9800b8ce1d6175f3a3b00111453fac121500"
+    },
+    {
+      "filename": "AG-Dig02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 7371,
+      "sha256": "d37eea34774835e9e5ed68abd847768411564136eca26a5a93db1b83a612dd40"
+    },
+    {
+      "filename": "AG-Duck.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 7385,
+      "sha256": "2e7fecd7d6696df2dbbf3af4de667a29065b79e88641f4b35af373855485aa1e"
+    },
+    {
+      "filename": "AG-Error.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 3982,
+      "sha256": "32b040bd1b8882ac74fa5460a101b1da43aee880a3710dd277d819866c819876"
+    },
+    {
+      "filename": "AG-Grass01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5740,
+      "sha256": "4fb00d1b2300ff72583a66338d409b3c453c1526b0f274557ce2d2be0c96487e"
+    },
+    {
+      "filename": "AG-Grass02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5603,
+      "sha256": "edbe0017daab2ce1d5b67c265e23eac5fed06794eeb3bdbfe0b78571c791052e"
+    },
+    {
+      "filename": "AG-Grow.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6183,
+      "sha256": "c86b1b42bb9d161a8dde8563472e85533592eb681f4bf8bbf94dc0ff678290df"
+    },
+    {
+      "filename": "AG-GrowRipe.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 11196,
+      "sha256": "b6e862987268c0f25ea97cfa6f1e4928bc074ab465db128cdc39236673aa9e2a"
+    },
+    {
+      "filename": "AG-Hen01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4646,
+      "sha256": "581d96b71e69dab4e0800ea9e558be14c514bf717a16bbe09b572af6080cf1a2"
+    },
+    {
+      "filename": "AG-Hen02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4875,
+      "sha256": "58969063f24428fc2a31555ece7fd4bbd2eb79d0ea72a2a04bcf448999952d03"
+    },
+    {
+      "filename": "AG-Hen03.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4904,
+      "sha256": "263da033bbd7d4b024c0be073064af0f8015b617f65e9db1ba83aa8b9a3e0a7b"
+    },
+    {
+      "filename": "AG-HenLayEgg.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5743,
+      "sha256": "d6e3e7f0b98413d4a5f6f075b6611b9798a6b4763e4d3df53d492c7966b176f5"
+    },
+    {
+      "filename": "AG-HenScared.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6360,
+      "sha256": "1a6266630fdc1992404f93a1ba6cc5700f0fe102437fdaa9ba56ed125433133a"
+    },
+    {
+      "filename": "AG-Hover.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 3517,
+      "sha256": "b6445a600b6e42df4a616208b55ed62ea5354405e31df335a79dbbee9ab8420d"
+    },
+    {
+      "filename": "AG-ItemDrop.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5653,
+      "sha256": "5f4a0b64f91138f566ddc4293e20f91330896ba23ea0b0efb90452fc3a54bd9e"
+    },
+    {
+      "filename": "AG-ItemGrab.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4664,
+      "sha256": "6af21eac8abd1b93bb3c47cca4fbec7c1cb4a212ef33806c468c8c30fb79f596"
+    },
+    {
+      "filename": "AG-Mark.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 3496,
+      "sha256": "19a9404e1e76768b86ca4aa8c8957871c949bec287179074d240053a6461aa2b"
+    },
+    {
+      "filename": "AG-Menu.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5456,
+      "sha256": "7eba4c9bb5b1b9e7534d8d3f10786ceb48f429f42d1c9471237d2adddbb72335"
+    },
+    {
+      "filename": "AG-MessageAlert.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 7787,
+      "sha256": "73fd06bc8f88abaff56919a979f77ed7773342b511a9198b9d50f8d06762192c"
+    },
+    {
+      "filename": "AG-MessageAward.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 21112,
+      "sha256": "854a6b3c41140ca51b57500588addcf7dcfa86262481a974ffb7ce55f24b19e7"
+    },
+    {
+      "filename": "AG-MessageBabble01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 13963,
+      "sha256": "1cd89f4c36111af5a63d594c371cf15420baac2ba1612af4505678367388f1fe"
+    },
+    {
+      "filename": "AG-MessageBabble02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 12545,
+      "sha256": "2eff727aa970f49a8bd39555017bec58e1357048dfe372aca5a7b0caf742df15"
+    },
+    {
+      "filename": "AG-MessageBabble03.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 7882,
+      "sha256": "aa3d700a906c0b304a4e2d570a5d7d663a32c57c57eed483a6b68e17fd4774c2"
+    },
+    {
+      "filename": "AG-MessageBabble04.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 9051,
+      "sha256": "7ae851bb021ffe469f9fa3ca4e0bb6a8b2b886978945c1322e1cdf14d244d588"
+    },
+    {
+      "filename": "AG-MessageBabble05.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 10323,
+      "sha256": "6cce2a9ccc422c2766b28e4cd3c5920f450050e4e1743ad00d24b81fd4aac812"
+    },
+    {
+      "filename": "AG-MessageBabble06.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 9467,
+      "sha256": "9354f592b6adab83ac561f0c1f661606b1428da70b4854877a8a7859e4c5abc3"
+    },
+    {
+      "filename": "AG-MessageBabble07.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 10557,
+      "sha256": "7c486f269fc0c70448ea9d47054ef85273cc18f8935969747a3c3025a844d0b3"
+    },
+    {
+      "filename": "AG-MessageNegative.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6836,
+      "sha256": "7692334f8283964d678d15b65658a202011e07dcc0fafec4528573fb9a3b879a"
+    },
+    {
+      "filename": "AG-MessagePositive.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 7225,
+      "sha256": "b25f13e2edd63e31f2c2a8550e29a31fe83b4b6e3ad33ab006fb539f25361329"
+    },
+    {
+      "filename": "AG-MessageRadio.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 12053,
+      "sha256": "664eca0ade15f765b61385f8f55e00d7e82dbba2b1acaf6a75b41755aa23522a"
+    },
+    {
+      "filename": "AG-MessageTele.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 11266,
+      "sha256": "0930be9069c014f09d1969ab84921f4401ac8226d13d73e38bcd00ebd19244b8"
+    },
+    {
+      "filename": "AG-Peck01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4404,
+      "sha256": "aa3451a0d502dc86fdc806ceb1e4ba93f72ba79da038df35fdb5dff28c1f2d74"
+    },
+    {
+      "filename": "AG-Peck02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4414,
+      "sha256": "b380359772fd501d53773b864e6c82082414bfdc290cc7cd6722fa6a574ee48a"
+    },
+    {
+      "filename": "AG-PickCrop.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6749,
+      "sha256": "bc63faa1731c884ca525c66db95617871a7b7d760aa6881c9bb4a7bb8c5eb763"
+    },
+    {
+      "filename": "AG-PickEgg.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6057,
+      "sha256": "473844fdd7d138f27fb3d678251c66a9c14935df649c5b9214e12b3a958a7cc4"
+    },
+    {
+      "filename": "AG-PlantRemove.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 6547,
+      "sha256": "d19fe90bad4b5fd38266221b702d75d360f75e95299ff819202e584ff7e1b6f6"
+    },
+    {
+      "filename": "AG-RoosterCall01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 8549,
+      "sha256": "583252a38015e863d4dc6549ea5dc8c1898522907d4beffed614cc6188e82383"
+    },
+    {
+      "filename": "AG-RoosterCall02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 9371,
+      "sha256": "2da9893a8aefaafa87a0abaee483d133afb2c84771491d6767ea94e23379a08c"
+    },
+    {
+      "filename": "AG-RoosterScared.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5577,
+      "sha256": "8543777a7b19d5c5b020241e90462978d88c849591a1a472e3109d3b36b4337c"
+    },
+    {
+      "filename": "AG-Sheep01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 8420,
+      "sha256": "eb615511be4be562538a428134627079dbb833f2e3e197176fac93da55a49039"
+    },
+    {
+      "filename": "AG-Sheep02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 10739,
+      "sha256": "dd1b4d23a126afa1de1005544fb86e4f05b2a94af55bac7ac550e66d8578f00c"
+    },
+    {
+      "filename": "AG-ShopDrop.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5074,
+      "sha256": "299ccc7eddd2d706aefe46b77658389b5abbb4071c7c4c3946ab57a0eaab1045"
+    },
+    {
+      "filename": "AG-ShopGrab.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4569,
+      "sha256": "581cf098d7cb15fe51619a25a41dbb599f3b90174137fcba98d4202033180163"
+    },
+    {
+      "filename": "AG-Sow.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 7088,
+      "sha256": "2f9ed76c431f2d44f499be5324f7e9cf51dee0a4154478841c1280a27203411e"
+    },
+    {
+      "filename": "AG-Step01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5120,
+      "sha256": "370dd02a8a5af5e74149404c55f1d56c4ded749a588a07d11aa95ff33620149a"
+    },
+    {
+      "filename": "AG-Step02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 5202,
+      "sha256": "ba71947814d0d5fa18620a1db222c55eb5acd4f5fdb5a3781ed69a8285f3b989"
+    },
+    {
+      "filename": "AG-Tap.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 3335,
+      "sha256": "bb4fb6ebe9ddebcc140b6cfa85c8080bf0ff246e655c564d7c440ab036cc37b8"
+    },
+    {
+      "filename": "AG-WaterCan.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 7246,
+      "sha256": "f093ab50ed5d2dc55f342973b9099cff4c8bc1800ee692beb91ff977a9f73473"
+    },
+    {
+      "filename": "AG-WaterPump.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 8197,
+      "sha256": "642b8cf27e7db9995dd0282c60ed62f55b511d5f7533bbcf306a3a7b8a81ef39"
+    },
+    {
+      "filename": "AG-WindowDown.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4705,
+      "sha256": "7cdd0d2f04c2409987f4d96eff191be80cfbd849a82467d8fa9370af6186ba2d"
+    },
+    {
+      "filename": "AG-WindowUp.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 4580,
+      "sha256": "1a2070555a3dfb8235ae69c5be00c42102419cd1be2b99e8f4b2b7958a9fe753"
+    },
+    {
+      "filename": "AG-WingFlaps01.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 8939,
+      "sha256": "09c0e8b1f14f0a15a8fd18a51418670338bd68cf0f29238c8ed794acee7eff36"
+    },
+    {
+      "filename": "AG-WingFlaps02.ogg",
+      "type": "SFX_OGG",
+      "size_bytes": 9273,
+      "sha256": "deced80bcad0a1e5237280c8d80d5ecaadb6d31ed44b99f69e24862486da5279"
+    },
+    {
+      "filename": "AGMusic-Ingame01.oxm",
+      "type": "MUSIC_OXM",
+      "size_bytes": 189351,
+      "sha256": "37683b0e1ca62b97277a83ccd3f20b7974cf8694364cd9e8d0e9f96fd778c25f"
+    },
+    {
+      "filename": "AGMusic-Ingame02.oxm",
+      "type": "MUSIC_OXM",
+      "size_bytes": 227061,
+      "sha256": "248fe0332f35063ab1e610580b9214a3b76b7fb5fa34f824a241d8485f0eed7d"
+    },
+    {
+      "filename": "AGMusic-Menu.oxm",
+      "type": "MUSIC_OXM",
+      "size_bytes": 248110,
+      "sha256": "841c860ea2a9288c829bb61bdf5ed8fb72da6e9a24bf7ef1893a48724464f0f4"
+    }
+  ],
+  "graphics_files": [
+    {
+      "filename": "Alice.png",
+      "size_bytes": 52298,
+      "sha256": "5204ef9c4d2681b3bb292a48ac9153c964d68b7f3ef6becef11cf0c5d38f6244"
+    },
+    {
+      "filename": "End.png",
+      "size_bytes": 188821,
+      "sha256": "fb7fe35bf50fb0ae76aa24cd6f75096529417bf07a28ba58101697cc1edf0fc4"
+    },
+    {
+      "filename": "End2.png",
+      "size_bytes": 281783,
+      "sha256": "2e17e8180f8a61bee5211f7a0f01b1d2019d9941d9813a74aa4af3a5beac38fb"
+    },
+    {
+      "filename": "Interface.png",
+      "size_bytes": 130770,
+      "sha256": "b587c8ab3152f8016833caa2acd656bde6575988cb3cd684274778363d552969"
+    },
+    {
+      "filename": "Loading.png",
+      "size_bytes": 26104,
+      "sha256": "c20cdb8c7cdf7b9a8bc63119224e75a76011d0003268bd6f31430ccbd3da2c60"
+    },
+    {
+      "filename": "Market.png",
+      "size_bytes": 191116,
+      "sha256": "c6e8327a860691083f7c51970f7e4123e325516774b202c5d47d9b9bf76842d9"
+    },
+    {
+      "filename": "OptionSprites.png",
+      "size_bytes": 77301,
+      "sha256": "290cae09008c4acf180480480ab47f6ae9cbd92c99d29de9eb0fec6a7d890568"
+    },
+    {
+      "filename": "Options.png",
+      "size_bytes": 195113,
+      "sha256": "b731cc9b48610e3cc10fa76c0e7ab8ed636259a60b13275daa23185327bb7ef5"
+    },
+    {
+      "filename": "Sprites.png",
+      "size_bytes": 170768,
+      "sha256": "e723e40df0ccb790155f98ab2e56845f7ad766b60da1972af1086d537790d9b2"
+    },
+    {
+      "filename": "System.png",
+      "size_bytes": 160272,
+      "sha256": "972b7d0e8c18bb6c2889357a5bbfd84581a475af242ab6938d7f203dbd1156fd"
+    },
+    {
+      "filename": "Tiles.png",
+      "size_bytes": 67412,
+      "sha256": "f0e3ac4b8d444bcaad68fbdb8e2fe887fb54c22b05b6fa954c7bd0b74df5ff11"
+    },
+    {
+      "filename": "TitleBG.png",
+      "size_bytes": 73623,
+      "sha256": "bf703df0df3d02bf9fe719d5ae258c9d728655f7de324b68ad57d92e292883aa"
+    },
+    {
+      "filename": "TitleSprites.png",
+      "size_bytes": 1211229,
+      "sha256": "41d5f12bcdc47769d67588fe6221173a86a50743070994a828489a137a7a4391"
+    },
+    {
+      "filename": "Trial.png",
+      "size_bytes": 239297,
+      "sha256": "40a81a4d70d0641325a48ba16b85fa731121c0de737eb051e3c132c3015246ca"
+    },
+    {
+      "filename": "TrialSprites.png",
+      "size_bytes": 57635,
+      "sha256": "8151dcc4f4fb9679f9ba15c71a87857e1585e804660753e2803da8d70dbc52cd"
+    }
+  ],
+  "containers": [
+    {
+      "container_name": "Alice.gfx",
+      "metadata_source": "Alice_metadata.txt",
+      "sprite_count": 174,
+      "size_bytes": 6379,
+      "sha256": "6c9ad3099f50311f6ce3253840012888830dcd20d9697dfdc0a571d97e6c077a"
+    },
+    {
+      "container_name": "Interface.gfx",
+      "metadata_source": "Interface_metadata.txt",
+      "sprite_count": 47,
+      "size_bytes": 1755,
+      "sha256": "d3ae4152bcc23559d6c968fa9d470984ad1a738e5286a650ebbebbf92b103839"
+    },
+    {
+      "container_name": "Loading.gfx",
+      "metadata_source": "Loading_metadata.txt",
+      "sprite_count": 5,
+      "size_bytes": 236,
+      "sha256": "d4532201fa699642425c040c87758aabba7c6616ca643dbc8433e1e6c277889d"
+    },
+    {
+      "container_name": "Market.gfx",
+      "metadata_source": "Market_metadata.txt",
+      "sprite_count": 199,
+      "size_bytes": 7203,
+      "sha256": "24f57e4f64408ef0937276b4dd543eb4a7f54a75ead9138222163bef48015085"
+    },
+    {
+      "container_name": "OptionSprites.gfx",
+      "metadata_source": "OptionSprites_metadata.txt",
+      "sprite_count": 252,
+      "size_bytes": 8987,
+      "sha256": "a667bd353072a221ca33f6fff6171d79d0ca439631265c3836a375327258d30f"
+    },
+    {
+      "container_name": "Sprites.gfx",
+      "metadata_source": "Sprites_metadata.txt",
+      "sprite_count": 622,
+      "size_bytes": 22347,
+      "sha256": "ea60b14a60fd9a8ab51ce2b46201d28a6af3bb7de4fe4ae9bba7a1ea0dbdfe13"
+    },
+    {
+      "container_name": "System.gfx",
+      "metadata_source": "System_metadata.txt",
+      "sprite_count": 1186,
+      "size_bytes": 42106,
+      "sha256": "b1487a545cb6bf079a18eaebee31c3606b002af5370d87d727a454918dd9c15d"
+    },
+    {
+      "container_name": "Tiles.gfx",
+      "metadata_source": "Tiles_metadata.txt",
+      "sprite_count": 320,
+      "size_bytes": 10895,
+      "sha256": "b151d31c85ec5529d7a06fe63779ed79b2ea8ec78edb1c4913a2eba4858742df"
+    },
+    {
+      "container_name": "TitleSprites.gfx",
+      "metadata_source": "TitleSprites_metadata.txt",
+      "sprite_count": 296,
+      "size_bytes": 10875,
+      "sha256": "87d14863e68e154241263488fff1f3b60c646a9cfe0398ba1497806879175b00"
+    },
+    {
+      "container_name": "TrialSprites.gfx",
+      "metadata_source": "TrialSprites_metadata.txt",
+      "sprite_count": 11,
+      "size_bytes": 469,
+      "sha256": "dcec00dfee5eec88d26c55f1c97861c23f131b1e376bf3a0012b5c6fb22be1be"
+    }
+  ]
+}

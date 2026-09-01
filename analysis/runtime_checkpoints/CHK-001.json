@@ -1,0 +1,11 @@
+{
+  "checkpoint_id": "CHK-001",
+  "frame": 0,
+  "state": "STATE_STARTUP (0)",
+  "globals": {
+    "DAT_004974f4": 0,
+    "DAT_004a7f54": 0,
+    "DAT_00497528": 0
+  },
+  "event": "ENGINE_INIT"
+}

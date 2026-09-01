@@ -1,0 +1,72 @@
+[
+  {
+    "id": "AV-01",
+    "name": "Startup Presentation",
+    "action": "Platform_Initialize()",
+    "expected": "STATE_STARTUP (0)",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-02",
+    "name": "Main Menu Presentation",
+    "action": "State_SetState(STATE_MAIN_MENU)",
+    "expected": "STATE_MAIN_MENU (1)",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-03",
+    "name": "Farm Presentation & Soil Grid",
+    "action": "State_SetState(STATE_GAMEPLAY)",
+    "expected": "5x8 Soil Grid Rendered",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-04",
+    "name": "Plant Growth Visual Animation",
+    "action": "Animation_GetActiveSprite()",
+    "expected": "Sprout to Ripe Crop",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-05",
+    "name": "Harvest Presentation & Cash Increment",
+    "action": "DAT_004a86a4 += 50",
+    "expected": "Balance 130",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-06",
+    "name": "Market Stalls Presentation",
+    "action": "State_SetState(STATE_SHOP_MARKET)",
+    "expected": "STATE_SHOP_MARKET (5)",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-07",
+    "name": "GUI Interaction & Cursor Blit",
+    "action": "Renderer_RenderFrame()",
+    "expected": "Cursor Indicator Drawn",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-08",
+    "name": "Asset Container LBTC Reload",
+    "action": "Resource_LoadGfxArchive()",
+    "expected": "Handle 0x00497528",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-09",
+    "name": "Audio Host Activation",
+    "action": "Audio_InitFMOD()",
+    "expected": "DAT_004b1200 == 1",
+    "status": "PASS"
+  },
+  {
+    "id": "AV-10",
+    "name": "Audio-Disabled Headless Fallback",
+    "action": "Audio_ShutdownFMOD()",
+    "expected": "DAT_004b1200 == 0",
+    "status": "PASS"
+  }
+]

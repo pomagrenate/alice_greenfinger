@@ -1,0 +1,72 @@
+[
+  {
+    "container": "Alice.gfx",
+    "metadata_file": "Alice_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 174,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "Interface.gfx",
+    "metadata_file": "Interface_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 47,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "Loading.gfx",
+    "metadata_file": "Loading_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 5,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "Market.gfx",
+    "metadata_file": "Market_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 199,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "OptionSprites.gfx",
+    "metadata_file": "OptionSprites_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 252,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "Sprites.gfx",
+    "metadata_file": "Sprites_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 622,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "System.gfx",
+    "metadata_file": "System_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 1186,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "Tiles.gfx",
+    "metadata_file": "Tiles_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 320,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "TitleSprites.gfx",
+    "metadata_file": "TitleSprites_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 296,
+    "status": "PARSED & VALIDATED"
+  },
+  {
+    "container": "TrialSprites.gfx",
+    "metadata_file": "TrialSprites_metadata.txt",
+    "format": "PopCap LBTC Container (Version 1)",
+    "sprite_count": 11,
+    "status": "PARSED & VALIDATED"
+  }
+]
