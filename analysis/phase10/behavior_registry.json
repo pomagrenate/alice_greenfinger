@@ -1,0 +1,76 @@
+{
+  "behaviors": [
+    {
+      "id": "BEH-01",
+      "name": "Deterministic 60 Hz Frame Clock",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "BEH-02",
+      "name": "6-State Machine Lifecycle",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "BEH-03",
+      "name": "Opcode Event Matching (FUN_00404170)",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "BEH-04",
+      "name": "5-Stage Crop Growth Animation",
+      "status": "VERIFIED",
+      "evidence": "E1/E3/E4"
+    },
+    {
+      "id": "BEH-05",
+      "name": "Farm Economy Ledger (DAT_004a86a4)",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "BEH-06",
+      "name": "PopCap LBTC Container Parsing",
+      "status": "VERIFIED",
+      "evidence": "E1/E4"
+    },
+    {
+      "id": "BEH-07",
+      "name": "3-Layer Software ARGB Compositing",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "BEH-08",
+      "name": "FMOD Audio Subsystem Host Wrapper",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "BEH-09",
+      "name": "Binary Stream Save / Load Roundtrip",
+      "status": "VERIFIED",
+      "evidence": "E1/E4"
+    },
+    {
+      "id": "BEH-10",
+      "name": "Stochastic Plant Hybridization Genetics",
+      "status": "NOT ESTABLISHED",
+      "evidence": "E1 (No code found)"
+    },
+    {
+      "id": "BEH-11",
+      "name": "Priority-Queue Customer AI",
+      "status": "NOT ESTABLISHED",
+      "evidence": "E1 (Fixed array slots used)"
+    },
+    {
+      "id": "BEH-12",
+      "name": "Cryptographic Save Profile Encryption",
+      "status": "NOT ESTABLISHED",
+      "evidence": "E1 (Raw stream used)"
+    }
+  ]
+}

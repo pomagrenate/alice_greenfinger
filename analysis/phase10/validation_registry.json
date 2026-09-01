@@ -1,0 +1,30 @@
+{
+  "total_scenarios_passing": 45,
+  "suites": [
+    {
+      "suite": "Phase 5 Deterministic Golden",
+      "count": 14,
+      "status": "PASS"
+    },
+    {
+      "suite": "Phase 6 Interactive GUI Smoke",
+      "count": 10,
+      "status": "PASS"
+    },
+    {
+      "suite": "Phase 7 Golden Audio-Visual",
+      "count": 10,
+      "status": "PASS"
+    },
+    {
+      "suite": "Phase 8 Deep Indirect Dispatch",
+      "count": 6,
+      "status": "PASS"
+    },
+    {
+      "suite": "Phase 9 End-to-End Campaign",
+      "count": 5,
+      "status": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "evidence_levels": {
+    "E1": "Direct Binary Disassembly / Decompilation Evidence",
+    "E2": "Static Cross-Reference (XREF) / Call-Graph Analysis",
+    "E3": "Controlled Dynamic Runtime Observation & Telemetry",
+    "E4": "Asset Container Structure & Metadata Format Extraction",
+    "E5": "Differential Behavioral Test Verification"
+  },
+  "provenance_database": "analysis/function_provenance.json"
+}

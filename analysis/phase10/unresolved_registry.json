@@ -1,0 +1,36 @@
+{
+  "baseline_unresolved": 425,
+  "resolved_verified": 236,
+  "probable": 65,
+  "isolated_remaining_unresolved": 124,
+  "clusters": {
+    "Cluster A (VTable Virtual Dispatch)": {
+      "remaining": 98,
+      "status": "ISOLATED_TELEMETRY"
+    },
+    "Cluster B (Script / Opcode Callbacks)": {
+      "remaining": 0,
+      "status": "100%_RESOLVED"
+    },
+    "Cluster C (GUI Control Hooks)": {
+      "remaining": 20,
+      "status": "ISOLATED_TELEMETRY"
+    },
+    "Cluster D (Resource Decoders)": {
+      "remaining": 50,
+      "status": "ISOLATED_TELEMETRY"
+    },
+    "Cluster E (Win32 Import Pointers)": {
+      "remaining": 0,
+      "status": "100%_RESOLVED"
+    },
+    "Cluster F (State Machine Transitions)": {
+      "remaining": 0,
+      "status": "100%_RESOLVED"
+    },
+    "Cluster G (Stack Function Pointers)": {
+      "remaining": 8,
+      "status": "ISOLATED_TELEMETRY"
+    }
+  }
+}

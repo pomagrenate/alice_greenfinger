@@ -1,0 +1,50 @@
+{
+  "total_functions": 1847,
+  "group_a_reconstructed": 1194,
+  "runtime_verified": 406,
+  "provenance_source": "analysis/function_provenance.json",
+  "sample_key_functions": [
+    {
+      "id": "FUN_00401500",
+      "rva": "0x00401500",
+      "role": "EngineContext_Initialize",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "FUN_004033c0",
+      "rva": "0x004033c0",
+      "role": "PopCap_LBTC_Loader",
+      "status": "VERIFIED",
+      "evidence": "E1/E4"
+    },
+    {
+      "id": "FUN_00404170",
+      "rva": "0x00404170",
+      "role": "Event_Opcode_Dispatcher",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "FUN_004096a0",
+      "rva": "0x004096a0",
+      "role": "GameLoop_Frame_Tick",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "FUN_00411000",
+      "rva": "0x00411000",
+      "role": "FMOD_Audio_Host",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    },
+    {
+      "id": "FUN_0040d590",
+      "rva": "0x0040d590",
+      "role": "EngineContext_Shutdown",
+      "status": "VERIFIED",
+      "evidence": "E1/E3"
+    }
+  ]
+}

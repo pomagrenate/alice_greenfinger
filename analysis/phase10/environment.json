@@ -1,0 +1,9 @@
+{
+  "os": "Windows (x86_64)",
+  "python_version": "3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]",
+  "git_version": "git version 2.48.1.windows.1",
+  "cmake_version": "cmake version 4.0.1",
+  "ninja_version": "1.12.1",
+  "gcc_version": "g++ (MinGW-W64 x86_64-msvcrt-posix-seh, built by Brecht Sanders, r1) 15.1.0",
+  "toolchain": "MinGW-W64 GCC 15.1.0 (-std=c++17) + CMake + Ninja"
+}

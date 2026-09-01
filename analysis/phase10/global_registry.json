@@ -1,0 +1,40 @@
+{
+  "total_recovered_globals": 175,
+  "key_globals": [
+    {
+      "symbol": "DAT_004974f4",
+      "address": "0x004974f4",
+      "type": "uint32_t",
+      "purpose": "Active Game State (0..5)",
+      "evidence": "E1/E3"
+    },
+    {
+      "symbol": "DAT_004a7f54",
+      "address": "0x004a7f54",
+      "type": "uint32_t",
+      "purpose": "60 Hz Simulation Frame Tick Counter",
+      "evidence": "E1/E3"
+    },
+    {
+      "symbol": "DAT_004a86a4",
+      "address": "0x004a86a4",
+      "type": "uint32_t",
+      "purpose": "Player Currency / Cash Ledger",
+      "evidence": "E1/E3"
+    },
+    {
+      "symbol": "DAT_00497528",
+      "address": "0x00497528",
+      "type": "uint32_t",
+      "purpose": "Active PopCap LBTC Sprite Atlas Handle",
+      "evidence": "E1/E4"
+    },
+    {
+      "symbol": "DAT_004b1200",
+      "address": "0x004b1200",
+      "type": "uint32_t",
+      "purpose": "FMOD Audio Subsystem Active Status (1=active)",
+      "evidence": "E1/E3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "total_verified_states": 6,
+  "states": [
+    {
+      "id": 0,
+      "name": "STATE_STARTUP",
+      "evidence": "E1/E3",
+      "description": "Engine initialization and LBTC resource preloading"
+    },
+    {
+      "id": 1,
+      "name": "STATE_MAIN_MENU",
+      "evidence": "E1/E3",
+      "description": "Title screen, Start Game button, Profile selection"
+    },
+    {
+      "id": 2,
+      "name": "STATE_NAME_DIALOG",
+      "evidence": "E1/E3",
+      "description": "Profile Name entry modal dialog"
+    },
+    {
+      "id": 3,
+      "name": "STATE_GAMEPLAY",
+      "evidence": "E1/E3",
+      "description": "Farm terrain grid, seed sowing, crop growth, harvest"
+    },
+    {
+      "id": 4,
+      "name": "STATE_PAUSE_OPTIONS",
+      "evidence": "E1/E3",
+      "description": "In-game pause overlay and audio volume settings"
+    },
+    {
+      "id": 5,
+      "name": "STATE_SHOP_MARKET",
+      "evidence": "E1/E3",
+      "description": "Town market stalls, seed purchasing, crop selling"
+    }
+  ]
+}
