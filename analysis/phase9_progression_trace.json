@@ -1,0 +1,35 @@
+[
+  {
+    "day": 1,
+    "unlocked_crops": [
+      "Carrot"
+    ],
+    "total_revenue": 50,
+    "target_quota": 40,
+    "status": "COMPLETED",
+    "evidence": "E1/E3"
+  },
+  {
+    "day": 2,
+    "unlocked_crops": [
+      "Carrot",
+      "Tomato"
+    ],
+    "total_revenue": 120,
+    "target_quota": 100,
+    "status": "COMPLETED",
+    "evidence": "E1/E3"
+  },
+  {
+    "day": 3,
+    "unlocked_crops": [
+      "Carrot",
+      "Tomato",
+      "Cabbage"
+    ],
+    "total_revenue": 250,
+    "target_quota": 200,
+    "status": "COMPLETED",
+    "evidence": "E1/E3"
+  }
+]

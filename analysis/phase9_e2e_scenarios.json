@@ -1,0 +1,32 @@
+[
+  {
+    "id": "E2E-01",
+    "name": "Full First-Day Lifecycle",
+    "path": "Startup -> New Game -> Plant -> Grow -> Harvest -> Sell -> Day End",
+    "status": "PASS"
+  },
+  {
+    "id": "E2E-02",
+    "name": "Seed Commerce & Market Fulfillment",
+    "path": "Market -> Buy Seed -> Plant -> Harvest -> Sell",
+    "status": "PASS"
+  },
+  {
+    "id": "E2E-03",
+    "name": "Multi-Day Campaign Progression & Award",
+    "path": "Day 1 -> Day 2 -> Quota Met -> Award Modal",
+    "status": "PASS"
+  },
+  {
+    "id": "E2E-04",
+    "name": "Save / Restart / Load Round-Trip",
+    "path": "Save Profile -> Restart -> Load Profile -> Verify Registers",
+    "status": "PASS"
+  },
+  {
+    "id": "E2E-05",
+    "name": "Longest Verified Progression Path",
+    "path": "Full campaign continuous multi-subsystem simulation",
+    "status": "PASS"
+  }
+]

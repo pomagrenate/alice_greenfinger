@@ -5,8 +5,8 @@
     {
       "file": "AliceGreenfingers_Reconstructed.exe",
       "relative_path": "AliceGreenfingers_Reconstructed.exe",
-      "size_bytes": 127934,
-      "sha256": "ba7f6a8405ca5ed3763766abff7346cc1d80974a4e001b98573e8fbaee38e635",
+      "size_bytes": 120105,
+      "sha256": "b9480c1dbbbe7ffa7833c910f2d9aae7db9511e77bf5889c15b491f6f6b7eb8d",
       "type": "EXECUTABLE",
       "provenance": "Phase 7 Reconstructed C++ Standalone Target"
     },

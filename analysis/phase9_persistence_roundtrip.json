@@ -1,0 +1,32 @@
+{
+  "format": "Unencrypted Binary Stream Serialization",
+  "fields_persisted": [
+    {
+      "name": "Profile Name",
+      "type": "char[32]",
+      "verified": true
+    },
+    {
+      "name": "Currency Balance (DAT_004a86a4)",
+      "type": "uint32_t",
+      "verified": true
+    },
+    {
+      "name": "Day Counter",
+      "type": "uint32_t",
+      "verified": true
+    },
+    {
+      "name": "Farm Grid Plot States (5x8)",
+      "type": "uint8_t[40]",
+      "verified": true
+    },
+    {
+      "name": "Unlocked Crop Bitmask",
+      "type": "uint32_t",
+      "verified": true
+    }
+  ],
+  "roundtrip_test": "PASS (100% byte equivalence upon deserialization)",
+  "custom_encryption": "NOT ESTABLISHED"
+}

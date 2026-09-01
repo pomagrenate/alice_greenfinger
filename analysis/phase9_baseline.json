@@ -1,0 +1,24 @@
+{
+  "phase": "PHASE 9",
+  "timestamp": "2026-09-01T18:00:28.665142",
+  "binary_integrity": {
+    "file": "C:\\Users\\Admin\\Downloads\\AliceGreenfingers_RE\\extracted\\AliceGreenfingers_unpacked.exe",
+    "size_bytes": 732733,
+    "sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+    "modified": false
+  },
+  "inherited_metrics": {
+    "total_binary_functions": 1847,
+    "group_a_reconstructed": 1194,
+    "runtime_verified_functions": 406,
+    "historical_resolved_indirect_calls": 406,
+    "probable_dispatch_targets": 65,
+    "remaining_unresolved_calls": 124,
+    "verified_game_states": 6,
+    "asset_containers": 10,
+    "audio_resources": 71,
+    "validated_test_scenarios": 40,
+    "distribution_files": 732,
+    "git_commit": "f373ddf"
+  }
+}

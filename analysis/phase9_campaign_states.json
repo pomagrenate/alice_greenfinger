@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "STATE_STARTUP",
+    "role": "Engine Boot & Asset Preload",
+    "next_states": [
+      1
+    ]
+  },
+  {
+    "id": 1,
+    "name": "STATE_MAIN_MENU",
+    "role": "Title Banner, Start Button, Profile Selection",
+    "next_states": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "name": "STATE_NAME_DIALOG",
+    "role": "Player Name Input Modal",
+    "next_states": [
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "name": "STATE_GAMEPLAY",
+    "role": "Farm Grid Simulation, Planting, Crop Harvest",
+    "next_states": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": 4,
+    "name": "STATE_PAUSE_OPTIONS",
+    "role": "Pause Menu & Sound Options Modal",
+    "next_states": [
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "name": "STATE_SHOP_MARKET",
+    "role": "Market Stalls, Seed Purchase, Crop Sales",
+    "next_states": [
+      3
+    ]
+  }
+]

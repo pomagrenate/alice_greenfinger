@@ -1,0 +1,23 @@
+[
+  {
+    "award_id": "AWD-01",
+    "name": "First Harvest",
+    "trigger": "Harvest count >= 1",
+    "audio": "AG-MessageAward.ogg",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "award_id": "AWD-02",
+    "name": "Green Thumb",
+    "trigger": "Harvest count >= 50",
+    "audio": "AG-MessageAward.ogg",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "award_id": "AWD-03",
+    "name": "Master Farmer",
+    "trigger": "DAT_004a86a4 >= 1000",
+    "audio": "AG-MessageAward.ogg",
+    "status": "VERIFIED (E1/E3)"
+  }
+]

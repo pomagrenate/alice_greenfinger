@@ -1,0 +1,26 @@
+[
+  {
+    "transaction": "Initial Starting Funds",
+    "debit": 0,
+    "credit": 100,
+    "balance": 100,
+    "register": "DAT_004a86a4",
+    "evidence": "E1/E3"
+  },
+  {
+    "transaction": "Purchase Carrot Seeds (Opcode 1005)",
+    "debit": 20,
+    "credit": 0,
+    "balance": 80,
+    "register": "DAT_004a86a4",
+    "evidence": "E1/E3"
+  },
+  {
+    "transaction": "Sell Ripe Harvest Crop (Opcode 1006)",
+    "debit": 0,
+    "credit": 50,
+    "balance": 130,
+    "register": "DAT_004a86a4",
+    "evidence": "E1/E3"
+  }
+]

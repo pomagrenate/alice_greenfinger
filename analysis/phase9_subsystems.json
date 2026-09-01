@@ -1,0 +1,163 @@
+[
+  {
+    "id": "SUB-01",
+    "name": "Process Startup / Boot",
+    "source": "src/platform/win32_boundary.cpp",
+    "primary_func": "Platform_Initialize",
+    "globals": [
+      "DAT_004974f4"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-02",
+    "name": "Platform Window Context",
+    "source": "src/platform/window.cpp",
+    "primary_func": "Window_Create / Window_PollEvents",
+    "globals": [],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-03",
+    "name": "Input Event Queue",
+    "source": "src/platform/input.cpp",
+    "primary_func": "Input_PushEvent / Input_PollEvent",
+    "globals": [],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-04",
+    "name": "Event Dispatcher",
+    "source": "src/events/event_dispatcher.cpp",
+    "primary_func": "FUN_00404170",
+    "globals": [
+      "DAT_004974f4",
+      "DAT_004a86a4"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-05",
+    "name": "Game State Machine",
+    "source": "src/state/game_state.cpp",
+    "primary_func": "State_SetState / State_GetCurrentState",
+    "globals": [
+      "DAT_004974f4"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-06",
+    "name": "Simulation Loop & Clock",
+    "source": "src/engine/game_loop.cpp",
+    "primary_func": "GameLoop_Tick / FUN_004096a0",
+    "globals": [
+      "DAT_004a7f54"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-07",
+    "name": "Farm Grid & Crop Sim",
+    "source": "src/rendering/renderer.cpp",
+    "primary_func": "5x8 Soil Grid Simulation",
+    "globals": [
+      "DAT_004a7f54"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-08",
+    "name": "Economy Ledger",
+    "source": "src/events/event_dispatcher.cpp",
+    "primary_func": "DAT_004a86a4 +/- Arithmetic",
+    "globals": [
+      "DAT_004a86a4"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-09",
+    "name": "Market & Vendor Shop",
+    "source": "src/state/game_state.cpp",
+    "primary_func": "STATE_SHOP_MARKET (5)",
+    "globals": [
+      "DAT_004974f4",
+      "DAT_004a86a4"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-10",
+    "name": "Resource Loader (LBTC)",
+    "source": "src/resources/resource_loader.cpp",
+    "primary_func": "FUN_004033c0",
+    "globals": [
+      "DAT_00497528"
+    ],
+    "evidence": "E1/E4",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-11",
+    "name": "Animation Runtime",
+    "source": "src/rendering/animation.cpp",
+    "primary_func": "Animation_GetActiveSprite",
+    "globals": [
+      "DAT_004a7f54"
+    ],
+    "evidence": "E1/E4",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-12",
+    "name": "Software Renderer",
+    "source": "src/rendering/renderer.cpp",
+    "primary_func": "Renderer_RenderFrame",
+    "globals": [
+      "DAT_004974f4",
+      "DAT_004a7f54",
+      "DAT_004a86a4"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-13",
+    "name": "Audio Subsystem Host",
+    "source": "src/audio/fmod_system.cpp",
+    "primary_func": "FUN_00411000",
+    "globals": [
+      "DAT_004b1200"
+    ],
+    "evidence": "E1/E3",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-14",
+    "name": "Save / Load Persistence",
+    "source": "src/resources/resource_loader.cpp",
+    "primary_func": "FUN_004037a0",
+    "globals": [],
+    "evidence": "E1/E4",
+    "status": "VERIFIED"
+  },
+  {
+    "id": "SUB-15",
+    "name": "Telemetry & Unresolved",
+    "source": "unresolved/unresolved_calls.cpp",
+    "primary_func": "Unresolved_RecordCall",
+    "globals": [],
+    "evidence": "E1/E2",
+    "status": "VERIFIED"
+  }
+]

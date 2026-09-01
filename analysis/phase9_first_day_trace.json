@@ -1,0 +1,82 @@
+[
+  {
+    "step": 1,
+    "action": "Engine Boot",
+    "state": 0,
+    "frame": 0,
+    "cash": 0,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 2,
+    "action": "Main Menu Title Screen",
+    "state": 1,
+    "frame": 1,
+    "cash": 0,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 3,
+    "action": "Name Dialog Profile Entry",
+    "state": 2,
+    "frame": 5,
+    "cash": 0,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 4,
+    "action": "Farm Grid Initialization",
+    "state": 3,
+    "frame": 10,
+    "cash": 100,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 5,
+    "action": "Seed Sowing on Plot (2, 3)",
+    "state": 3,
+    "frame": 20,
+    "cash": 80,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 6,
+    "action": "Plant Growth Progression (Stage 0->4)",
+    "state": 3,
+    "frame": 320,
+    "cash": 80,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 7,
+    "action": "Harvest Mature Crop",
+    "state": 3,
+    "frame": 330,
+    "cash": 80,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 8,
+    "action": "Transition to Town Market",
+    "state": 5,
+    "frame": 350,
+    "cash": 80,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 9,
+    "action": "Crop Sale Fulfillment",
+    "state": 5,
+    "frame": 360,
+    "cash": 130,
+    "evidence": "E1/E3"
+  },
+  {
+    "step": 10,
+    "action": "Day End Summary & Day Counter ++",
+    "state": 3,
+    "frame": 3600,
+    "cash": 130,
+    "evidence": "E1/E3"
+  }
+]

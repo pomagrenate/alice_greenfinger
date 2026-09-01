@@ -1,0 +1,15 @@
+{
+  "endgame_loop_type": "Continuous Multi-Day Simulation with High-Score Boards",
+  "victory_conditions": [
+    {
+      "condition": "Final Day Quota Met",
+      "evidence": "Triggers day summary with victory fanfare",
+      "status": "VERIFIED (E1/E3)"
+    },
+    {
+      "condition": "Story Finale Scripted Cutscene",
+      "evidence": "No scripted video cutscene bytecode in binary",
+      "status": "NOT ESTABLISHED"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    "Process Startup / Boot",
+    "Platform Window Context",
+    "Input Event Queue",
+    "Event Dispatcher",
+    "Game State Machine",
+    "Simulation Loop & Clock",
+    "Farm Grid & Crop Sim",
+    "Economy Ledger",
+    "Market & Vendor Shop",
+    "Resource Loader (LBTC)",
+    "Animation Runtime",
+    "Software Renderer",
+    "Audio Subsystem Host",
+    "Save / Load Persistence",
+    "Telemetry & Unresolved"
+  ],
+  "edges": [
+    {
+      "from": "Process Startup / Boot",
+      "to": "Platform Window Context"
+    },
+    {
+      "from": "Platform Window Context",
+      "to": "Input Event Queue"
+    },
+    {
+      "from": "Input Event Queue",
+      "to": "Event Dispatcher"
+    },
+    {
+      "from": "Event Dispatcher",
+      "to": "Game State Machine"
+    },
+    {
+      "from": "Game State Machine",
+      "to": "Simulation Loop & Clock"
+    },
+    {
+      "from": "Simulation Loop & Clock",
+      "to": "Farm Grid & Crop Sim"
+    },
+    {
+      "from": "Farm Grid & Crop Sim",
+      "to": "Animation Runtime"
+    },
+    {
+      "from": "Farm Grid & Crop Sim",
+      "to": "Economy Ledger"
+    },
+    {
+      "from": "Economy Ledger",
+      "to": "Market & Vendor Shop"
+    },
+    {
+      "from": "Game State Machine",
+      "to": "Software Renderer"
+    },
+    {
+      "from": "Resource Loader (LBTC)",
+      "to": "Software Renderer"
+    },
+    {
+      "from": "Event Dispatcher",
+      "to": "Audio Subsystem Host"
+    }
+  ]
+}
