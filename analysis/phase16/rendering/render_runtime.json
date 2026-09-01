@@ -1,0 +1,28 @@
+{
+  "pipeline": "3-Layer Software Compositing Compositor",
+  "canvas_dimensions": [
+    800,
+    600
+  ],
+  "pixel_format": "32-bit ARGB (0xAARRGGBB)",
+  "layers": [
+    {
+      "layer_id": 0,
+      "name": "Background Terrain & Farm Tiles",
+      "blit_function": "Render_BlitTerrainLayer"
+    },
+    {
+      "layer_id": 1,
+      "name": "Crop Entities & Growth Sprites",
+      "blit_function": "Render_BlitSpriteLayer"
+    },
+    {
+      "layer_id": 2,
+      "name": "GUI Overlay, Currency Display & Mouse Cursor",
+      "blit_function": "Render_BlitGuiOverlay"
+    }
+  ],
+  "presentation_target": "Win32 SetDIBitsToDevice / SDL2 Streaming Texture Blitter",
+  "status": "OPERATIONAL",
+  "evidence_level": "E7"
+}

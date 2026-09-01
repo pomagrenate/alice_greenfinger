@@ -1,0 +1,48 @@
+{
+  "grid_dimensions": [
+    5,
+    8
+  ],
+  "total_plots": 40,
+  "plot_structure": {
+    "crop_species": "CARROT",
+    "growth_stage": [
+      0,
+      4
+    ],
+    "water_level": [
+      0,
+      100
+    ],
+    "growth_timer_ticks": 300
+  },
+  "lifecycle": [
+    {
+      "stage": 0,
+      "name": "EMPTY_SOIL",
+      "action": "SOW_SEED"
+    },
+    {
+      "stage": 1,
+      "name": "SEEDLING",
+      "duration_ticks": 100
+    },
+    {
+      "stage": 2,
+      "name": "SPROUT",
+      "duration_ticks": 100
+    },
+    {
+      "stage": 3,
+      "name": "GROWING",
+      "duration_ticks": 100
+    },
+    {
+      "stage": 4,
+      "name": "MATURE_HARVESTABLE",
+      "action": "HARVEST_CLICK"
+    }
+  ],
+  "status": "OPERATIONAL",
+  "evidence_level": "E7"
+}

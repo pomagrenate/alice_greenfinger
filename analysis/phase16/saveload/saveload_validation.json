@@ -1,0 +1,48 @@
+{
+  "total_tests": 7,
+  "tests": [
+    {
+      "test_id": "SAVE-001",
+      "name": "Save Active Farm State",
+      "format": "AGSV Binary Header + State Fields",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "SAVE-002",
+      "name": "Exit Application with Pending Save",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "SAVE-003",
+      "name": "Restart Application Context",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "SAVE-004",
+      "name": "Load Previous State File",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "SAVE-005",
+      "name": "Continue Farm Simulation Post-Load",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "SAVE-006",
+      "name": "Corrupted Save Fallback Handling",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "SAVE-007",
+      "name": "Missing Save File Fresh Profile Creation",
+      "status": "PASS",
+      "evidence": "E7"
+    }
+  ]
+}

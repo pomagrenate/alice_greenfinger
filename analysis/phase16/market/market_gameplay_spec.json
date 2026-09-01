@@ -1,0 +1,21 @@
+{
+  "state_id": 5,
+  "customer_stalls": 4,
+  "stall_model": "FIXED_ARRAY_4_SLOTS (PRIORITY_QUEUE_NOT_ESTABLISHED)",
+  "commerce_rules": [
+    {
+      "action": "SELL_CARROT",
+      "opcode": 1006,
+      "revenue": 50,
+      "inventory_delta": -1,
+      "currency_delta": 50
+    },
+    {
+      "action": "EXIT_MARKET",
+      "opcode": 1003,
+      "target_state": "STATE_GAMEPLAY (3)"
+    }
+  ],
+  "status": "OPERATIONAL",
+  "evidence_level": "E7"
+}

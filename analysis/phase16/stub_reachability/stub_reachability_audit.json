@@ -1,0 +1,7 @@
+{
+  "total_isolated_stubs": 124,
+  "reached_during_campaign_gameplay": 0,
+  "isolation_verified": true,
+  "classification": "BOUNDED_UNREACHABLE",
+  "evidence_level": "E6/E7"
+}

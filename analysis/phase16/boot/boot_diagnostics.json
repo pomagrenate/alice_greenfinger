@@ -1,0 +1,13 @@
+{
+  "boot_status": "SUCCESS",
+  "window_mode": "Win32 / SDL2 Dual-Backend Supported",
+  "canvas_size": [
+    800,
+    600
+  ],
+  "color_depth": "32-bit ARGB",
+  "initial_state": "STATE_STARTUP (0)",
+  "memory_subsystems": "ALL_ALLOCATED",
+  "audio_fallback": "OPERATIONAL",
+  "evidence_level": "E7"
+}

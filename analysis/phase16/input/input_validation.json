@@ -1,0 +1,45 @@
+{
+  "total_input_tests": 5,
+  "tests": [
+    {
+      "test_id": "PLAY-001",
+      "name": "Mouse Movement & Plot Hover",
+      "input_sequence": "MouseMove(320, 240)",
+      "result": "HOVER_UPDATED",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "PLAY-002",
+      "name": "Mouse Click Sowing Action",
+      "input_sequence": "MouseDown(320, 240) -> MouseUp",
+      "result": "PLOT_SOWN",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "PLAY-003",
+      "name": "Out-of-Bounds Input Rejection",
+      "input_sequence": "MouseDown(900, 700)",
+      "result": "SAFELY_IGNORED",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "PLAY-004",
+      "name": "Rapid Repeated Click Handling",
+      "input_sequence": "MouseDown x 10 in 100ms",
+      "result": "QUEUE_PROCESSED_NO_DROP",
+      "status": "PASS",
+      "evidence": "E7"
+    },
+    {
+      "test_id": "PLAY-005",
+      "name": "Input during State Transition",
+      "input_sequence": "MouseDown during Opcode 1004",
+      "result": "ATOMIC_STATE_TRANSITION",
+      "status": "PASS",
+      "evidence": "E7"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "category": "BOOT",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-001",
+      "result": "Clean window & memory allocation"
+    },
+    {
+      "category": "INPUT",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-001..005",
+      "result": "Mouse/keyboard queue normalized"
+    },
+    {
+      "category": "RENDERING",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-001",
+      "result": "3-layer 32-bit ARGB software backbuffer"
+    },
+    {
+      "category": "ASSETS",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-001",
+      "result": "10 LBTC containers + 15 PNG atlases bound"
+    },
+    {
+      "category": "FARM",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-003",
+      "result": "5x8 grid plots & 5-stage crop progression"
+    },
+    {
+      "category": "ECONOMY",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-002",
+      "result": "DAT_004a86a4 non-negative arithmetic"
+    },
+    {
+      "category": "MARKET",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-004",
+      "result": "Fixed 4-slot customer stall crop sales"
+    },
+    {
+      "category": "CAMPAIGN",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-010",
+      "result": "States 0..5 interactive transitions"
+    },
+    {
+      "category": "SAVE_LOAD",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-006",
+      "result": "AGSV binary stream persistence round-trip"
+    },
+    {
+      "category": "AUDIO",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-001",
+      "result": "FMOD dynamic hook + silent non-blocking mock"
+    },
+    {
+      "category": "LONG_RUN",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-009",
+      "result": "10,000 ticks with 0 drift"
+    },
+    {
+      "category": "EXIT",
+      "status": "PASS",
+      "evidence": "E7",
+      "test_id": "PLAY-E2E-010",
+      "result": "Clean memory cleanup & window destruction"
+    }
+  ],
+  "overall_playability_status": "PLAYABLE",
+  "timestamp": "2026-09-01T19:10:34.585903"
+}

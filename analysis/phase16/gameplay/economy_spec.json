@@ -1,0 +1,28 @@
+{
+  "register": "DAT_004a86a4",
+  "initial_balance": 100,
+  "invariants": [
+    "currency >= 0",
+    "seed_cost == 20",
+    "carrot_revenue == 50"
+  ],
+  "transactions": [
+    {
+      "event": "INIT",
+      "delta": 100,
+      "resulting_balance": 100
+    },
+    {
+      "event": "BUY_SEED",
+      "delta": -20,
+      "resulting_balance": 80
+    },
+    {
+      "event": "SELL_CARROT",
+      "delta": 50,
+      "resulting_balance": 130
+    }
+  ],
+  "status": "VALIDATED",
+  "evidence_level": "E7"
+}

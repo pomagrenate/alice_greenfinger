@@ -1,0 +1,35 @@
+{
+  "total_transitions": 5,
+  "transitions": [
+    {
+      "from_state": 0,
+      "to_state": 1,
+      "trigger": "BOOT_COMPLETE",
+      "name": "STATE_STARTUP -> STATE_MAIN_MENU"
+    },
+    {
+      "from_state": 1,
+      "to_state": 2,
+      "trigger": "CLICK_NEW_GAME",
+      "name": "STATE_MAIN_MENU -> STATE_NAME_DIALOG"
+    },
+    {
+      "from_state": 2,
+      "to_state": 3,
+      "trigger": "SUBMIT_PROFILE (Opcode 1001)",
+      "name": "STATE_NAME_DIALOG -> STATE_GAMEPLAY"
+    },
+    {
+      "from_state": 3,
+      "to_state": 5,
+      "trigger": "MARKET_BUTTON (Opcode 1004)",
+      "name": "STATE_GAMEPLAY -> STATE_SHOP_MARKET"
+    },
+    {
+      "from_state": 5,
+      "to_state": 3,
+      "trigger": "RETURN_FARM (Opcode 1003)",
+      "name": "STATE_SHOP_MARKET -> STATE_GAMEPLAY"
+    }
+  ]
+}

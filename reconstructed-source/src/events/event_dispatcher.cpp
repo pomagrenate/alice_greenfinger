@@ -38,8 +38,9 @@ int FUN_00404170(int opcode_or_msg, void* ctx_param) {
     } else if (opcode_or_msg == 1005) {
         if (DAT_004a86a4 >= 20) {
             DAT_004a86a4 -= 20; // Seed purchase
+            return 1;
         }
-        return 1;
+        return 0; // Insufficient funds
     } else if (opcode_or_msg == 1006) {
         DAT_004a86a4 += 50; // Harvest sale
         return 1;

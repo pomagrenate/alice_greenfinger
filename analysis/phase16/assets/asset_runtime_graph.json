@@ -1,0 +1,49 @@
+{
+  "containers": [
+    {
+      "container": "resources/PopCap/Loading.gfx",
+      "state_bound": "STATE_STARTUP (0)"
+    },
+    {
+      "container": "resources/PopCap/TitleSprites.gfx",
+      "state_bound": "STATE_MAIN_MENU (1)"
+    },
+    {
+      "container": "resources/PopCap/Dialogs.gfx",
+      "state_bound": "STATE_NAME_DIALOG (2)"
+    },
+    {
+      "container": "resources/PopCap/FarmTerrain.gfx",
+      "state_bound": "STATE_GAMEPLAY (3)"
+    },
+    {
+      "container": "resources/PopCap/CropStages.gfx",
+      "state_bound": "STATE_GAMEPLAY (3)"
+    },
+    {
+      "container": "resources/PopCap/Market.gfx",
+      "state_bound": "STATE_SHOP_MARKET (5)"
+    }
+  ],
+  "audio_bindings": [
+    {
+      "track": "assets/audio/music/title_theme.oxm",
+      "event": "STATE_MAIN_MENU"
+    },
+    {
+      "track": "assets/audio/music/farm_ambient.oxm",
+      "event": "STATE_GAMEPLAY"
+    },
+    {
+      "track": "assets/audio/sfx/seed_buy.ogg",
+      "event": "OPCODE_1005"
+    },
+    {
+      "track": "assets/audio/sfx/crop_sell.ogg",
+      "event": "OPCODE_1006"
+    }
+  ],
+  "missing_assets_count": 0,
+  "status": "ALL_ASSETS_BOUND",
+  "evidence_level": "E7"
+}
