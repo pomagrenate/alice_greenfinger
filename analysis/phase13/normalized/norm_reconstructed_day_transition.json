@@ -1,0 +1,44 @@
+{
+  "scenario_id": "day_transition",
+  "origin": "RECONSTRUCTED_RUNTIME_EXECUTION",
+  "normalized": true,
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 3600,
+      "event_type": "OPCODE_DISPATCH",
+      "state_id": 5,
+      "opcode_id": 1003,
+      "global_address": null,
+      "previous_value": null,
+      "new_value": null,
+      "resource_id": null,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 3600,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 3,
+      "opcode_id": null,
+      "global_address": "DAT_004974f4",
+      "previous_value": 5,
+      "new_value": 3,
+      "resource_id": null,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 3600,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "opcode_id": null,
+      "global_address": "DAY_COUNTER",
+      "previous_value": 1,
+      "new_value": 2,
+      "resource_id": null,
+      "evidence_level": "E4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scenario_id": "harvest",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "normalized": true,
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 330,
+      "event_type": "INPUT_EVENT",
+      "state_id": 3,
+      "opcode_id": null,
+      "global_address": null,
+      "previous_value": null,
+      "new_value": null,
+      "resource_id": null,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 330,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "opcode_id": null,
+      "global_address": "GRID_PLOT_2_3",
+      "previous_value": 4,
+      "new_value": 0,
+      "resource_id": null,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 330,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "opcode_id": null,
+      "global_address": "INVENTORY_CARROT",
+      "previous_value": 0,
+      "new_value": 1,
+      "resource_id": null,
+      "evidence_level": "E3"
+    }
+  ]
+}

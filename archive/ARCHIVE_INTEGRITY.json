@@ -1,7 +1,7 @@
 {
   "target_binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
-  "archive_manifest_sha256": "c0358f268be1efe32a0d155ebd0b4ce8f447d21744bb50a691cc0d49f6013894",
-  "total_files": 3501,
-  "timestamp": "2026-09-01T18:53:39.826484",
+  "archive_manifest_sha256": "f12c1778ac0fb50af71221e6700bd49c90d67f9fc99362861a8eee852f82a0e8",
+  "total_files": 2141,
+  "timestamp": "2026-09-01T18:57:31.304472",
   "status": "VERIFIED"
 }

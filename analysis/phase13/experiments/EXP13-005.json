@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-005",
+  "title": "Market Entry / Exit Ordering",
+  "hypothesis": "Opcode 1004 transitions to State 5; Opcode 1003 returns to State 3.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

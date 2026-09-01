@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-009",
+  "title": "Repeated Identical Input Determinism",
+  "hypothesis": "10,000 tick replay produces 0 register drift.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

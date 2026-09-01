@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-004",
+  "title": "Harvest -> Currency Mutation",
+  "hypothesis": "Harvest plot click resets plot to 0 and adds carrot to inventory.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

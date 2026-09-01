@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-003",
+  "title": "Crop Growth Tick Sequence",
+  "hypothesis": "Plot transitions stages 1->2->3->4 across 300 simulation ticks.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

@@ -1,0 +1,109 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AliceGreenfingers_ExecutionEvent",
+  "type": "object",
+  "required": [
+    "event_id",
+    "sim_tick",
+    "event_type",
+    "state_id"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "integer",
+      "description": "Monotonically increasing sequence number within scenario"
+    },
+    "sim_tick": {
+      "type": "integer",
+      "description": "Deterministic 60 Hz simulation frame counter (DAT_004a7f54)"
+    },
+    "timestamp_ms": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Normalized timestamp in milliseconds"
+    },
+    "rva": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Original binary RVA where observable (e.g. 0x00404170)"
+    },
+    "function_symbol": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Recovered function identifier"
+    },
+    "event_type": {
+      "type": "string",
+      "enum": [
+        "STATE_TRANSITION",
+        "OPCODE_DISPATCH",
+        "GLOBAL_MUTATION",
+        "INPUT_EVENT",
+        "RESOURCE_ACCESS",
+        "AUDIO_EVENT",
+        "PERSISTENCE_EVENT",
+        "RENDER_SNAPSHOT"
+      ]
+    },
+    "state_id": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 5,
+      "description": "Active game state (0..5)"
+    },
+    "opcode_id": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Opcode event constant (1001..1007)"
+    },
+    "global_address": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Semantic global symbol or address (e.g. DAT_004a86a4)"
+    },
+    "previous_value": {
+      "type": [
+        "integer",
+        "string",
+        "null"
+      ],
+      "description": "Value prior to mutation"
+    },
+    "new_value": {
+      "type": [
+        "integer",
+        "string",
+        "null"
+      ],
+      "description": "Value after mutation"
+    },
+    "resource_id": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Asset container or atlas identifier"
+    },
+    "evidence_level": {
+      "type": "string",
+      "enum": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "description": "Formal project evidence level"
+    }
+  }
+}

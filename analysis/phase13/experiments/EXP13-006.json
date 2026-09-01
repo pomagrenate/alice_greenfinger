@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-006",
+  "title": "Multi-Day Frame Progression",
+  "hypothesis": "DAT_004a7f54 increments monotonically at 60 Hz across days.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

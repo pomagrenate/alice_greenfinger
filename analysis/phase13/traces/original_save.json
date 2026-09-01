@@ -1,0 +1,21 @@
+{
+  "scenario_id": "save",
+  "title": "Save Game State Serialization",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "target_binary": "extracted/AliceGreenfingers_unpacked.exe",
+  "binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+  "timestamp": "2026-09-01T18:56:36.741873",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 3610,
+      "event_type": "PERSISTENCE_EVENT",
+      "state_id": 3,
+      "rva": "0x004037a0",
+      "function_symbol": "FUN_004037a0",
+      "resource_id": "savegame.dat",
+      "evidence_level": "E3"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "total_scenarios": 12,
+  "scenarios": [
+    "startup",
+    "title_menu",
+    "farm_init",
+    "seed_purchase",
+    "sowing",
+    "crop_growth",
+    "harvest",
+    "market_entry",
+    "crop_sale",
+    "day_transition",
+    "save",
+    "load"
+  ]
+}

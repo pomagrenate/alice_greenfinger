@@ -1,0 +1,48 @@
+{
+  "scenario_id": "startup",
+  "title": "Process Startup & Engine Initialization",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "target_binary": "extracted/AliceGreenfingers_unpacked.exe",
+  "binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+  "timestamp": "2026-09-01T18:56:36.734605",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 0,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 0,
+      "rva": "0x00401500",
+      "function_symbol": "FUN_00401500",
+      "global_address": "DAT_004974f4",
+      "previous_value": null,
+      "new_value": 0,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 0,
+      "event_type": "RESOURCE_ACCESS",
+      "state_id": 0,
+      "rva": "0x004033c0",
+      "function_symbol": "FUN_004033c0",
+      "resource_id": "PopCap/Loading.gfx",
+      "global_address": "DAT_00497528",
+      "previous_value": 0,
+      "new_value": 4814120,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 0,
+      "event_type": "AUDIO_EVENT",
+      "state_id": 0,
+      "rva": "0x00411000",
+      "function_symbol": "FUN_00411000",
+      "global_address": "DAT_004b1200",
+      "previous_value": 0,
+      "new_value": 1,
+      "evidence_level": "E3"
+    }
+  ]
+}

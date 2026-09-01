@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-008",
+  "title": "Load State Reconstruction",
+  "hypothesis": "FUN_00403910 deserializes all state fields with 100% register parity.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

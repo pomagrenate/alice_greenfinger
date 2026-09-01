@@ -1,0 +1,38 @@
+{
+  "scenario_id": "harvest",
+  "title": "Mature Crop Harvest",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "target_binary": "extracted/AliceGreenfingers_unpacked.exe",
+  "binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+  "timestamp": "2026-09-01T18:56:36.739873",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 330,
+      "event_type": "INPUT_EVENT",
+      "state_id": 3,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 330,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "global_address": "GRID_PLOT_2_3",
+      "previous_value": 4,
+      "new_value": 0,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 330,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "global_address": "INVENTORY_CARROT",
+      "previous_value": 0,
+      "new_value": 1,
+      "evidence_level": "E3"
+    }
+  ]
+}

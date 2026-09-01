@@ -1,0 +1,32 @@
+{
+  "scenario_id": "seed_purchase",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "normalized": true,
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 20,
+      "event_type": "OPCODE_DISPATCH",
+      "state_id": 3,
+      "opcode_id": 1005,
+      "global_address": null,
+      "previous_value": null,
+      "new_value": null,
+      "resource_id": null,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 20,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "opcode_id": null,
+      "global_address": "DAT_004a86a4",
+      "previous_value": 100,
+      "new_value": 80,
+      "resource_id": null,
+      "evidence_level": "E3"
+    }
+  ]
+}

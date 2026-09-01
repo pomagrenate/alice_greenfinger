@@ -1,0 +1,40 @@
+{
+  "scenario_id": "crop_growth",
+  "title": "5-Stage Crop Growth Progression",
+  "origin": "RECONSTRUCTED_RUNTIME_EXECUTION",
+  "target_binary": "distribution/AliceGreenfingers_Reconstructed.exe",
+  "timestamp": "2026-09-01T18:56:50.233296",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 85,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "global_address": "GRID_PLOT_2_3",
+      "previous_value": 1,
+      "new_value": 2,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 205,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "global_address": "GRID_PLOT_2_3",
+      "previous_value": 2,
+      "new_value": 3,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 325,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "global_address": "GRID_PLOT_2_3",
+      "previous_value": 3,
+      "new_value": 4,
+      "evidence_level": "E4"
+    }
+  ]
+}

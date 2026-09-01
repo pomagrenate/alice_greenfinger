@@ -1,0 +1,30 @@
+{
+  "scenario_id": "seed_purchase",
+  "title": "Seed Purchase Transaction",
+  "origin": "RECONSTRUCTED_RUNTIME_EXECUTION",
+  "target_binary": "distribution/AliceGreenfingers_Reconstructed.exe",
+  "timestamp": "2026-09-01T18:56:50.227297",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 20,
+      "event_type": "OPCODE_DISPATCH",
+      "state_id": 3,
+      "rva": "0x00404170",
+      "function_symbol": "FUN_00404170",
+      "opcode_id": 1005,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 20,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "global_address": "DAT_004a86a4",
+      "previous_value": 100,
+      "new_value": 80,
+      "evidence_level": "E4"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "day_transition",
+  "title": "Day Completion & Progression Tally",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "target_binary": "extracted/AliceGreenfingers_unpacked.exe",
+  "binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+  "timestamp": "2026-09-01T18:56:36.741873",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 3600,
+      "event_type": "OPCODE_DISPATCH",
+      "state_id": 5,
+      "opcode_id": 1003,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 3600,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 3,
+      "global_address": "DAT_004974f4",
+      "previous_value": 5,
+      "new_value": 3,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 3600,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "global_address": "DAY_COUNTER",
+      "previous_value": 1,
+      "new_value": 2,
+      "evidence_level": "E3"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "scenario_id": "crop_sale",
+  "title": "Market Crop Sale Fulfillment",
+  "origin": "RECONSTRUCTED_RUNTIME_EXECUTION",
+  "target_binary": "distribution/AliceGreenfingers_Reconstructed.exe",
+  "timestamp": "2026-09-01T18:56:50.236636",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 360,
+      "event_type": "OPCODE_DISPATCH",
+      "state_id": 5,
+      "rva": "0x00404170",
+      "opcode_id": 1006,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 360,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 5,
+      "global_address": "DAT_004a86a4",
+      "previous_value": 80,
+      "new_value": 130,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 360,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 5,
+      "global_address": "INVENTORY_CARROT",
+      "previous_value": 1,
+      "new_value": 0,
+      "evidence_level": "E4"
+    }
+  ]
+}

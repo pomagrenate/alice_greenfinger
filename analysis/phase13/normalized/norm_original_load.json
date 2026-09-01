@@ -1,0 +1,32 @@
+{
+  "scenario_id": "load",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "normalized": true,
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 0,
+      "event_type": "PERSISTENCE_EVENT",
+      "state_id": 0,
+      "opcode_id": null,
+      "global_address": null,
+      "previous_value": null,
+      "new_value": null,
+      "resource_id": "savegame.dat",
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 0,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 0,
+      "opcode_id": null,
+      "global_address": "DAT_004a86a4",
+      "previous_value": 0,
+      "new_value": 130,
+      "resource_id": null,
+      "evidence_level": "E3"
+    }
+  ]
+}

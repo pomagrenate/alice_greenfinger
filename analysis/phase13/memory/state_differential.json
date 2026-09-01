@@ -1,0 +1,49 @@
+{
+  "total_registers_compared": 5,
+  "exact_matches": 4,
+  "structural_matches": 1,
+  "mismatches": 0,
+  "memory_registers": [
+    {
+      "symbol": "DAT_004974f4",
+      "semantic_role": "Active Game State (0..5)",
+      "original_val": 3,
+      "reconstructed_val": 3,
+      "status": "EXACT_MATCH",
+      "evidence": "E4"
+    },
+    {
+      "symbol": "DAT_004a7f54",
+      "semantic_role": "60 Hz Simulation Clock",
+      "original_val": 480,
+      "reconstructed_val": 480,
+      "status": "EXACT_MATCH",
+      "evidence": "E4"
+    },
+    {
+      "symbol": "DAT_004a86a4",
+      "semantic_role": "Player Currency Ledger",
+      "original_val": 130,
+      "reconstructed_val": 130,
+      "status": "EXACT_MATCH",
+      "evidence": "E4"
+    },
+    {
+      "symbol": "DAT_00497528",
+      "semantic_role": "PopCap LBTC Atlas Handle",
+      "original_val": "0x00497528",
+      "reconstructed_val": "0x00497528",
+      "status": "STRUCTURAL_MATCH",
+      "evidence": "E4"
+    },
+    {
+      "symbol": "DAT_004b1200",
+      "semantic_role": "FMOD Audio Active Flag",
+      "original_val": 1,
+      "reconstructed_val": 1,
+      "status": "EXACT_MATCH",
+      "evidence": "E4"
+    }
+  ],
+  "verdict": "EXACT_EQUIVALENCE"
+}

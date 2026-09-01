@@ -1,0 +1,44 @@
+{
+  "scenario_id": "title_menu",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "normalized": true,
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 1,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 1,
+      "opcode_id": null,
+      "global_address": "DAT_004974f4",
+      "previous_value": 0,
+      "new_value": 1,
+      "resource_id": null,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 1,
+      "event_type": "RESOURCE_ACCESS",
+      "state_id": 1,
+      "opcode_id": null,
+      "global_address": null,
+      "previous_value": null,
+      "new_value": null,
+      "resource_id": "PopCap/TitleSprites.gfx",
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 1,
+      "event_type": "RENDER_SNAPSHOT",
+      "state_id": 1,
+      "opcode_id": null,
+      "global_address": null,
+      "previous_value": null,
+      "new_value": null,
+      "resource_id": null,
+      "evidence_level": "E3"
+    }
+  ]
+}

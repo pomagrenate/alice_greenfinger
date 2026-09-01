@@ -1,0 +1,44 @@
+{
+  "scenario_id": "startup",
+  "origin": "RECONSTRUCTED_RUNTIME_EXECUTION",
+  "normalized": true,
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 0,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 0,
+      "opcode_id": null,
+      "global_address": "DAT_004974f4",
+      "previous_value": null,
+      "new_value": 0,
+      "resource_id": null,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 0,
+      "event_type": "RESOURCE_ACCESS",
+      "state_id": 0,
+      "opcode_id": null,
+      "global_address": "DAT_00497528",
+      "previous_value": 0,
+      "new_value": 4814120,
+      "resource_id": "PopCap/Loading.gfx",
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 0,
+      "event_type": "AUDIO_EVENT",
+      "state_id": 0,
+      "opcode_id": null,
+      "global_address": "DAT_004b1200",
+      "previous_value": 0,
+      "new_value": 1,
+      "resource_id": null,
+      "evidence_level": "E4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "scenario_id": "load",
+  "title": "Load Game State Deserialization",
+  "origin": "RECONSTRUCTED_RUNTIME_EXECUTION",
+  "target_binary": "distribution/AliceGreenfingers_Reconstructed.exe",
+  "timestamp": "2026-09-01T18:56:50.238635",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 0,
+      "event_type": "PERSISTENCE_EVENT",
+      "state_id": 0,
+      "rva": "0x00403910",
+      "function_symbol": "FUN_00403910",
+      "resource_id": "savegame.dat",
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 0,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 0,
+      "global_address": "DAT_004a86a4",
+      "previous_value": 0,
+      "new_value": 130,
+      "evidence_level": "E4"
+    }
+  ]
+}

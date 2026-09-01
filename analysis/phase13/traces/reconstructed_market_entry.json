@@ -1,0 +1,37 @@
+{
+  "scenario_id": "market_entry",
+  "title": "Transition to Town Market",
+  "origin": "RECONSTRUCTED_RUNTIME_EXECUTION",
+  "target_binary": "distribution/AliceGreenfingers_Reconstructed.exe",
+  "timestamp": "2026-09-01T18:56:50.235630",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 350,
+      "event_type": "OPCODE_DISPATCH",
+      "state_id": 3,
+      "rva": "0x00404170",
+      "opcode_id": 1004,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 350,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 5,
+      "global_address": "DAT_004974f4",
+      "previous_value": 3,
+      "new_value": 5,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 350,
+      "event_type": "RESOURCE_ACCESS",
+      "state_id": 5,
+      "resource_id": "PopCap/Market.gfx",
+      "evidence_level": "E4"
+    }
+  ]
+}

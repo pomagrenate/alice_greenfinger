@@ -1,0 +1,28 @@
+{
+  "scenario_id": "sowing",
+  "title": "Soil Tile Sowing Action",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "target_binary": "extracted/AliceGreenfingers_unpacked.exe",
+  "binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+  "timestamp": "2026-09-01T18:56:36.737873",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 25,
+      "event_type": "INPUT_EVENT",
+      "state_id": 3,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 25,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "global_address": "GRID_PLOT_2_3",
+      "previous_value": 0,
+      "new_value": 1,
+      "evidence_level": "E3"
+    }
+  ]
+}

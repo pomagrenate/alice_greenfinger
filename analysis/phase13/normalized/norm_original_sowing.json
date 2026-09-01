@@ -1,0 +1,32 @@
+{
+  "scenario_id": "sowing",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "normalized": true,
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 25,
+      "event_type": "INPUT_EVENT",
+      "state_id": 3,
+      "opcode_id": null,
+      "global_address": null,
+      "previous_value": null,
+      "new_value": null,
+      "resource_id": null,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 25,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "opcode_id": null,
+      "global_address": "GRID_PLOT_2_3",
+      "previous_value": 0,
+      "new_value": 1,
+      "resource_id": null,
+      "evidence_level": "E3"
+    }
+  ]
+}

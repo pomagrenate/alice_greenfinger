@@ -1,0 +1,75 @@
+{
+  "total_experiments": 10,
+  "experiments": [
+    {
+      "id": "EXP13-001",
+      "title": "Startup -> Farm State Transition",
+      "hypothesis": "State sequence 0 -> 1 -> 2 -> 3 matches exactly.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-002",
+      "title": "Seed Purchase Ledger Mutation",
+      "hypothesis": "DAT_004a86a4 decrements by 20 upon Opcode 1005.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-003",
+      "title": "Crop Growth Tick Sequence",
+      "hypothesis": "Plot transitions stages 1->2->3->4 across 300 simulation ticks.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-004",
+      "title": "Harvest -> Currency Mutation",
+      "hypothesis": "Harvest plot click resets plot to 0 and adds carrot to inventory.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-005",
+      "title": "Market Entry / Exit Ordering",
+      "hypothesis": "Opcode 1004 transitions to State 5; Opcode 1003 returns to State 3.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-006",
+      "title": "Multi-Day Frame Progression",
+      "hypothesis": "DAT_004a7f54 increments monotonically at 60 Hz across days.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-007",
+      "title": "Save State Snapshot",
+      "hypothesis": "FUN_004037a0 serializes unencrypted AGSV binary header and 6 fields.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-008",
+      "title": "Load State Reconstruction",
+      "hypothesis": "FUN_00403910 deserializes all state fields with 100% register parity.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-009",
+      "title": "Repeated Identical Input Determinism",
+      "hypothesis": "10,000 tick replay produces 0 register drift.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    },
+    {
+      "id": "EXP13-010",
+      "title": "Cross-Backend Trace Equivalence",
+      "hypothesis": "Win32/GDI and SDL2 backends generate identical semantic execution traces.",
+      "result": "PASS",
+      "evidence_level": "E5"
+    }
+  ]
+}

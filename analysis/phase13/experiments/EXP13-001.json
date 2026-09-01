@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-001",
+  "title": "Startup -> Farm State Transition",
+  "hypothesis": "State sequence 0 -> 1 -> 2 -> 3 matches exactly.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

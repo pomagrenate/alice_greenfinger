@@ -1,0 +1,66 @@
+{
+  "scenario_id": "seed_purchase",
+  "total_events": 2,
+  "matched_events": 2,
+  "match_percentage": 100.0,
+  "verdict": "MATCH",
+  "evidence_level": "E4 (Differential Correlation)",
+  "event_comparisons": [
+    {
+      "event_index": 1,
+      "status": "EXACT_MATCH",
+      "original_event": {
+        "event_id": 1,
+        "sim_tick": 20,
+        "event_type": "OPCODE_DISPATCH",
+        "state_id": 3,
+        "opcode_id": 1005,
+        "global_address": null,
+        "previous_value": null,
+        "new_value": null,
+        "resource_id": null,
+        "evidence_level": "E3"
+      },
+      "reconstructed_event": {
+        "event_id": 1,
+        "sim_tick": 20,
+        "event_type": "OPCODE_DISPATCH",
+        "state_id": 3,
+        "opcode_id": 1005,
+        "global_address": null,
+        "previous_value": null,
+        "new_value": null,
+        "resource_id": null,
+        "evidence_level": "E4"
+      }
+    },
+    {
+      "event_index": 2,
+      "status": "EXACT_MATCH",
+      "original_event": {
+        "event_id": 2,
+        "sim_tick": 20,
+        "event_type": "GLOBAL_MUTATION",
+        "state_id": 3,
+        "opcode_id": null,
+        "global_address": "DAT_004a86a4",
+        "previous_value": 100,
+        "new_value": 80,
+        "resource_id": null,
+        "evidence_level": "E3"
+      },
+      "reconstructed_event": {
+        "event_id": 2,
+        "sim_tick": 20,
+        "event_type": "GLOBAL_MUTATION",
+        "state_id": 3,
+        "opcode_id": null,
+        "global_address": "DAT_004a86a4",
+        "previous_value": 100,
+        "new_value": 80,
+        "resource_id": null,
+        "evidence_level": "E4"
+      }
+    }
+  ]
+}

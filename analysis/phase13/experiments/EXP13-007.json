@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-007",
+  "title": "Save State Snapshot",
+  "hypothesis": "FUN_004037a0 serializes unencrypted AGSV binary header and 6 fields.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

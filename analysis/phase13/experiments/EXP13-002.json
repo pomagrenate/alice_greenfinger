@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-002",
+  "title": "Seed Purchase Ledger Mutation",
+  "hypothesis": "DAT_004a86a4 decrements by 20 upon Opcode 1005.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

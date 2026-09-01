@@ -1,0 +1,31 @@
+{
+  "scenario_id": "load",
+  "title": "Load Game State Deserialization",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "target_binary": "extracted/AliceGreenfingers_unpacked.exe",
+  "binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+  "timestamp": "2026-09-01T18:56:36.742885",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 0,
+      "event_type": "PERSISTENCE_EVENT",
+      "state_id": 0,
+      "rva": "0x00403910",
+      "function_symbol": "FUN_00403910",
+      "resource_id": "savegame.dat",
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 0,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 0,
+      "global_address": "DAT_004a86a4",
+      "previous_value": 0,
+      "new_value": 130,
+      "evidence_level": "E3"
+    }
+  ]
+}

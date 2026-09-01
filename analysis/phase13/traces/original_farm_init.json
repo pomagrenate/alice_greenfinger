@@ -1,0 +1,47 @@
+{
+  "scenario_id": "farm_init",
+  "title": "Profile Entry & Farm Initialization",
+  "origin": "ORIGINAL_BINARY_OBSERVATION",
+  "target_binary": "extracted/AliceGreenfingers_unpacked.exe",
+  "binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+  "timestamp": "2026-09-01T18:56:36.736878",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 5,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 2,
+      "rva": "0x00404170",
+      "function_symbol": "FUN_00404170",
+      "global_address": "DAT_004974f4",
+      "previous_value": 1,
+      "new_value": 2,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 10,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 3,
+      "rva": "0x00404170",
+      "function_symbol": "FUN_00404170",
+      "opcode_id": 1001,
+      "global_address": "DAT_004974f4",
+      "previous_value": 2,
+      "new_value": 3,
+      "evidence_level": "E3"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 10,
+      "event_type": "GLOBAL_MUTATION",
+      "state_id": 3,
+      "rva": "0x00401500",
+      "global_address": "DAT_004a86a4",
+      "previous_value": 0,
+      "new_value": 100,
+      "evidence_level": "E3"
+    }
+  ]
+}

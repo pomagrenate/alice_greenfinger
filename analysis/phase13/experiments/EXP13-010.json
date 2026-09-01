@@ -1,0 +1,7 @@
+{
+  "id": "EXP13-010",
+  "title": "Cross-Backend Trace Equivalence",
+  "hypothesis": "Win32/GDI and SDL2 backends generate identical semantic execution traces.",
+  "result": "PASS",
+  "evidence_level": "E5"
+}

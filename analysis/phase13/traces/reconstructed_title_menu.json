@@ -1,0 +1,41 @@
+{
+  "scenario_id": "title_menu",
+  "title": "Title Menu Presentation",
+  "origin": "RECONSTRUCTED_RUNTIME_EXECUTION",
+  "target_binary": "distribution/AliceGreenfingers_Reconstructed.exe",
+  "timestamp": "2026-09-01T18:56:50.226087",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": 1,
+      "sim_tick": 1,
+      "event_type": "STATE_TRANSITION",
+      "state_id": 1,
+      "rva": "0x00404170",
+      "function_symbol": "FUN_00404170",
+      "global_address": "DAT_004974f4",
+      "previous_value": 0,
+      "new_value": 1,
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 2,
+      "sim_tick": 1,
+      "event_type": "RESOURCE_ACCESS",
+      "state_id": 1,
+      "rva": "0x004033c0",
+      "function_symbol": "FUN_004033c0",
+      "resource_id": "PopCap/TitleSprites.gfx",
+      "evidence_level": "E4"
+    },
+    {
+      "event_id": 3,
+      "sim_tick": 1,
+      "event_type": "RENDER_SNAPSHOT",
+      "state_id": 1,
+      "rva": "0x004096a0",
+      "function_symbol": "FUN_004096a0",
+      "evidence_level": "E4"
+    }
+  ]
+}
