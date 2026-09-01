@@ -8,7 +8,7 @@ dist_exe = os.path.join(PROJECT_ROOT, 'distribution', 'AliceGreenfingers_Reconst
 
 def test_play_e2e():
     print("Testing Phase 16 Playable E2E Scenarios (PLAY-E2E-001..010)...")
-    res = subprocess.run([dist_exe], cwd=os.path.dirname(dist_exe), capture_output=True, text=True)
+    res = subprocess.run([dist_exe, "--test"], cwd=os.path.dirname(dist_exe), capture_output=True, text=True)
     out = res.stdout
     print(out)
 

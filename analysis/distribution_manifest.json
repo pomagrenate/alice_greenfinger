@@ -1,12 +1,12 @@
 {
   "package_name": "AliceGreenfingers_Reconstructed_Standalone",
-  "total_files": 732,
+  "total_files": 747,
   "files": [
     {
       "file": "AliceGreenfingers_Reconstructed.exe",
       "relative_path": "AliceGreenfingers_Reconstructed.exe",
-      "size_bytes": 203695,
-      "sha256": "b4f68b15c1234b33f6b74309c9b6a05a8641f1720a91197621029795921908d7",
+      "size_bytes": 216499,
+      "sha256": "1a9a3f47c5d5502ff3fcfd002d55fa4e30318f1580089bf30cbb3a1112ee2be3",
       "type": "EXECUTABLE",
       "provenance": "Phase 7 Reconstructed C++ Standalone Target"
     },
@@ -579,10 +579,26 @@
       "provenance": "Extracted Game Asset"
     },
     {
+      "file": "Alice.bin",
+      "relative_path": "assets/graphics/Alice.bin",
+      "size_bytes": 954888,
+      "sha256": "aa1376c1b0364ab4e20f2c5395c9de0b7ff9a06ab0fb53ede8cf42f479f75400",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
       "file": "Alice.png",
       "relative_path": "assets/graphics/Alice.png",
       "size_bytes": 52298,
       "sha256": "5204ef9c4d2681b3bb292a48ac9153c964d68b7f3ef6becef11cf0c5d38f6244",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
+      "file": "End.bin",
+      "relative_path": "assets/graphics/End.bin",
+      "size_bytes": 1228808,
+      "sha256": "8c18f586661fb31930cfa90d47e6da3ec70eabb8033c02144820381d422f74c4",
       "type": "ASSET_FILE",
       "provenance": "Extracted Game Asset"
     },
@@ -595,10 +611,26 @@
       "provenance": "Extracted Game Asset"
     },
     {
+      "file": "End2.bin",
+      "relative_path": "assets/graphics/End2.bin",
+      "size_bytes": 1228808,
+      "sha256": "2df6e6199629c65bd5f42dca29cb8bfe8f47deea657042c3c351dd9d8244b773",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
       "file": "End2.png",
       "relative_path": "assets/graphics/End2.png",
       "size_bytes": 281783,
       "sha256": "2e17e8180f8a61bee5211f7a0f01b1d2019d9941d9813a74aa4af3a5beac38fb",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
+      "file": "Interface.bin",
+      "relative_path": "assets/graphics/Interface.bin",
+      "size_bytes": 719368,
+      "sha256": "ef8dc6a26c5199536f0479487edb63d82181a30c0a1ebf20f9e77a6458a3719a",
       "type": "ASSET_FILE",
       "provenance": "Extracted Game Asset"
     },
@@ -611,10 +643,26 @@
       "provenance": "Extracted Game Asset"
     },
     {
+      "file": "Loading.bin",
+      "relative_path": "assets/graphics/Loading.bin",
+      "size_bytes": 327688,
+      "sha256": "1d68580a84ec024bc6343804d2effd6f347e05d854d8a4d10882b8e8ce9aa936",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
       "file": "Loading.png",
       "relative_path": "assets/graphics/Loading.png",
       "size_bytes": 26104,
       "sha256": "c20cdb8c7cdf7b9a8bc63119224e75a76011d0003268bd6f31430ccbd3da2c60",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
+      "file": "Market.bin",
+      "relative_path": "assets/graphics/Market.bin",
+      "size_bytes": 1018888,
+      "sha256": "063315e632eb3223cbd0f3128d2492f223ecf4a8041437620067609f29cf3eff",
       "type": "ASSET_FILE",
       "provenance": "Extracted Game Asset"
     },
@@ -627,10 +675,26 @@
       "provenance": "Extracted Game Asset"
     },
     {
+      "file": "Options.bin",
+      "relative_path": "assets/graphics/Options.bin",
+      "size_bytes": 1228808,
+      "sha256": "cbb26efad6ad3c7356b66d7c44bc1e14bfb5f0d63cc8e600fbddc9b5072a5b66",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
       "file": "Options.png",
       "relative_path": "assets/graphics/Options.png",
       "size_bytes": 195113,
       "sha256": "b731cc9b48610e3cc10fa76c0e7ab8ed636259a60b13275daa23185327bb7ef5",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
+      "file": "OptionSprites.bin",
+      "relative_path": "assets/graphics/OptionSprites.bin",
+      "size_bytes": 363528,
+      "sha256": "fa73e663b0e7a0feeae423462ea62ef2b59377b85aed19b7e8581b6c06edb89e",
       "type": "ASSET_FILE",
       "provenance": "Extracted Game Asset"
     },
@@ -643,10 +707,26 @@
       "provenance": "Extracted Game Asset"
     },
     {
+      "file": "Sprites.bin",
+      "relative_path": "assets/graphics/Sprites.bin",
+      "size_bytes": 1057288,
+      "sha256": "6da230a720bbe927f04370c673eb11d50be3ae904851abdb84073a33d65a7463",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
       "file": "Sprites.png",
       "relative_path": "assets/graphics/Sprites.png",
       "size_bytes": 170768,
       "sha256": "e723e40df0ccb790155f98ab2e56845f7ad766b60da1972af1086d537790d9b2",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
+      "file": "System.bin",
+      "relative_path": "assets/graphics/System.bin",
+      "size_bytes": 947208,
+      "sha256": "8e370c821a5c76af443bdfc6f409a3585786ecd2f06db664c912aa38522952e7",
       "type": "ASSET_FILE",
       "provenance": "Extracted Game Asset"
     },
@@ -659,10 +739,26 @@
       "provenance": "Extracted Game Asset"
     },
     {
+      "file": "Tiles.bin",
+      "relative_path": "assets/graphics/Tiles.bin",
+      "size_bytes": 327688,
+      "sha256": "b5840d834de582c9bde8e951d393519de9316f113c9944d80a7b28bb1f064216",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
       "file": "Tiles.png",
       "relative_path": "assets/graphics/Tiles.png",
       "size_bytes": 67412,
       "sha256": "f0e3ac4b8d444bcaad68fbdb8e2fe887fb54c22b05b6fa954c7bd0b74df5ff11",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
+      "file": "TitleBG.bin",
+      "relative_path": "assets/graphics/TitleBG.bin",
+      "size_bytes": 1228808,
+      "sha256": "63dc4aaf19a81f8582c70761ac57d702b1ce9aeabb2fc100c4e3985ce5218776",
       "type": "ASSET_FILE",
       "provenance": "Extracted Game Asset"
     },
@@ -675,6 +771,14 @@
       "provenance": "Extracted Game Asset"
     },
     {
+      "file": "TitleSprites.bin",
+      "relative_path": "assets/graphics/TitleSprites.bin",
+      "size_bytes": 4129288,
+      "sha256": "4929e97103dfd9f553d53907f2a37d9caf413810a45153e4730829be2938bd1e",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
       "file": "TitleSprites.png",
       "relative_path": "assets/graphics/TitleSprites.png",
       "size_bytes": 1211229,
@@ -683,10 +787,26 @@
       "provenance": "Extracted Game Asset"
     },
     {
+      "file": "Trial.bin",
+      "relative_path": "assets/graphics/Trial.bin",
+      "size_bytes": 1228808,
+      "sha256": "60af083e502a9c0141233be60bf7eb434484c91860614801aaab638311532f49",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
       "file": "Trial.png",
       "relative_path": "assets/graphics/Trial.png",
       "size_bytes": 239297,
       "sha256": "40a81a4d70d0641325a48ba16b85fa731121c0de737eb051e3c132c3015246ca",
+      "type": "ASSET_FILE",
+      "provenance": "Extracted Game Asset"
+    },
+    {
+      "file": "TrialSprites.bin",
+      "relative_path": "assets/graphics/TrialSprites.bin",
+      "size_bytes": 499208,
+      "sha256": "c8745766c6b28cabc443226622c36a39a800a9a921a098f1061cf9cf7e6a326f",
       "type": "ASSET_FILE",
       "provenance": "Extracted Game Asset"
     },

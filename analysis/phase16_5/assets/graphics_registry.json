@@ -1,0 +1,155 @@
+{
+  "total_recovered_atlases": 15,
+  "atlases": [
+    {
+      "atlas_filename": "Alice.png",
+      "binary_texture": "Alice.bin",
+      "width": 640,
+      "height": 373,
+      "mode": "RGBA",
+      "byte_size": 52298,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "End.png",
+      "binary_texture": "End.bin",
+      "width": 640,
+      "height": 480,
+      "mode": "RGBA",
+      "byte_size": 188821,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "End2.png",
+      "binary_texture": "End2.bin",
+      "width": 640,
+      "height": 480,
+      "mode": "RGBA",
+      "byte_size": 281783,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "Interface.png",
+      "binary_texture": "Interface.bin",
+      "width": 640,
+      "height": 281,
+      "mode": "RGBA",
+      "byte_size": 130770,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "Loading.png",
+      "binary_texture": "Loading.bin",
+      "width": 640,
+      "height": 128,
+      "mode": "RGBA",
+      "byte_size": 26104,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "Market.png",
+      "binary_texture": "Market.bin",
+      "width": 640,
+      "height": 398,
+      "mode": "RGBA",
+      "byte_size": 191116,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "OptionSprites.png",
+      "binary_texture": "OptionSprites.bin",
+      "width": 640,
+      "height": 142,
+      "mode": "RGBA",
+      "byte_size": 77301,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "Options.png",
+      "binary_texture": "Options.bin",
+      "width": 640,
+      "height": 480,
+      "mode": "RGBA",
+      "byte_size": 195113,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "Sprites.png",
+      "binary_texture": "Sprites.bin",
+      "width": 640,
+      "height": 413,
+      "mode": "RGBA",
+      "byte_size": 170768,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "System.png",
+      "binary_texture": "System.bin",
+      "width": 640,
+      "height": 370,
+      "mode": "RGBA",
+      "byte_size": 160272,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "Tiles.png",
+      "binary_texture": "Tiles.bin",
+      "width": 640,
+      "height": 128,
+      "mode": "RGBA",
+      "byte_size": 67412,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "TitleBG.png",
+      "binary_texture": "TitleBG.bin",
+      "width": 640,
+      "height": 480,
+      "mode": "RGB",
+      "byte_size": 73623,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "TitleSprites.png",
+      "binary_texture": "TitleSprites.bin",
+      "width": 640,
+      "height": 1613,
+      "mode": "RGBA",
+      "byte_size": 1211229,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "Trial.png",
+      "binary_texture": "Trial.bin",
+      "width": 640,
+      "height": 480,
+      "mode": "RGBA",
+      "byte_size": 239297,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    },
+    {
+      "atlas_filename": "TrialSprites.png",
+      "binary_texture": "TrialSprites.bin",
+      "width": 640,
+      "height": 195,
+      "mode": "RGBA",
+      "byte_size": 57635,
+      "source_evidence": "PopCap LBTC Container / Ghidra RVA 0x004033c0",
+      "confidence": "VERIFIED_EXTRACTED_ORIGINAL"
+    }
+  ]
+}

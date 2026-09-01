@@ -1,0 +1,100 @@
+{
+  "lookup_events": [
+    {
+      "state": "STATE_STARTUP",
+      "atlas": "TitleBG.bin",
+      "rect": [
+        0,
+        0,
+        640,
+        480
+      ],
+      "dest": [
+        0,
+        0,
+        800,
+        600
+      ]
+    },
+    {
+      "state": "STATE_MAIN_MENU",
+      "atlas": "TitleSprites.bin",
+      "rect": [
+        0,
+        0,
+        640,
+        300
+      ],
+      "dest": [
+        80,
+        40,
+        640,
+        300
+      ]
+    },
+    {
+      "state": "STATE_GAMEPLAY",
+      "atlas": "Tiles.bin",
+      "rect": [
+        0,
+        0,
+        640,
+        128
+      ],
+      "dest": [
+        85,
+        75,
+        630,
+        480
+      ]
+    },
+    {
+      "state": "STATE_GAMEPLAY",
+      "atlas": "Sprites.bin",
+      "rect": [
+        0,
+        0,
+        640,
+        413
+      ],
+      "dest": [
+        85,
+        75,
+        64,
+        64
+      ]
+    },
+    {
+      "state": "STATE_GAMEPLAY",
+      "atlas": "Alice.bin",
+      "rect": [
+        0,
+        0,
+        70,
+        90
+      ],
+      "dest": [
+        400,
+        200,
+        70,
+        90
+      ]
+    },
+    {
+      "state": "STATE_SHOP_MARKET",
+      "atlas": "Market.bin",
+      "rect": [
+        0,
+        0,
+        640,
+        398
+      ],
+      "dest": [
+        0,
+        0,
+        800,
+        600
+      ]
+    }
+  ]
+}

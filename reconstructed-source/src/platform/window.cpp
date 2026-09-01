@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "platform/window.h"
+#include "platform/input.h"
 
 struct PlatformWindow {
     HWND hwnd;
@@ -26,11 +27,44 @@ static LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM l
             if (win) win->is_running = false;
             PostQuitMessage(0);
             return 0;
-        case WM_KEYDOWN:
+        case WM_MOUSEMOVE: {
+            InputEvent ev = {INPUT_MOUSE_MOVE, (int)(short)LOWORD(lParam), (int)(short)HIWORD(lParam), 0, 0};
+            Input_PushEvent(&ev);
+            return 0;
+        }
+        case WM_LBUTTONDOWN: {
+            InputEvent ev = {INPUT_MOUSE_DOWN, (int)(short)LOWORD(lParam), (int)(short)HIWORD(lParam), 1, 0};
+            Input_PushEvent(&ev);
+            return 0;
+        }
+        case WM_LBUTTONUP: {
+            InputEvent ev = {INPUT_MOUSE_UP, (int)(short)LOWORD(lParam), (int)(short)HIWORD(lParam), 1, 0};
+            Input_PushEvent(&ev);
+            return 0;
+        }
+        case WM_RBUTTONDOWN: {
+            InputEvent ev = {INPUT_MOUSE_DOWN, (int)(short)LOWORD(lParam), (int)(short)HIWORD(lParam), 2, 0};
+            Input_PushEvent(&ev);
+            return 0;
+        }
+        case WM_RBUTTONUP: {
+            InputEvent ev = {INPUT_MOUSE_UP, (int)(short)LOWORD(lParam), (int)(short)HIWORD(lParam), 2, 0};
+            Input_PushEvent(&ev);
+            return 0;
+        }
+        case WM_KEYDOWN: {
             if (wParam == VK_ESCAPE) {
                 if (win) win->is_running = false;
             }
+            InputEvent ev = {INPUT_KEY_DOWN, 0, 0, 0, (int)wParam};
+            Input_PushEvent(&ev);
             return 0;
+        }
+        case WM_KEYUP: {
+            InputEvent ev = {INPUT_KEY_UP, 0, 0, 0, (int)wParam};
+            Input_PushEvent(&ev);
+            return 0;
+        }
         default:
             return DefWindowProc(hwnd, uMsg, wParam, lParam);
     }
@@ -62,7 +96,7 @@ PlatformWindow* Window_Create(const WindowConfig* config) {
     RegisterClassEx(&wc);
 
     RECT wr = {0, 0, win->width, win->height};
-    AdjustWindowRect(&wr, WS_OVERLAPPEDWINDOW, FALSE);
+    AdjustWindowRect(&wr, WS_OVERLAPPED | WS_CAPTION | WS_SYSMENU | WS_MINIMIZEBOX, FALSE);
 
     win->hwnd = CreateWindowEx(
         0,

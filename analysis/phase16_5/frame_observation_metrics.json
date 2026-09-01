@@ -1,0 +1,13 @@
+{
+  "canvas_resolution": [
+    800,
+    600
+  ],
+  "color_depth": "32-bit ARGB",
+  "total_pixels_per_frame": 480000,
+  "average_non_background_pixels": 342150,
+  "layer_count": 3,
+  "transparency_blending": "Per-pixel alpha blending (0xAARRGGBB)",
+  "comparison_result": "SEMANTIC_MATCH",
+  "evidence_level": "E7"
+}

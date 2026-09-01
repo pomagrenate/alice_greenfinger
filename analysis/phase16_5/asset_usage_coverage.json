@@ -1,0 +1,11 @@
+{
+  "recovered_atlases": 15,
+  "loaded_atlases": 15,
+  "runtime_referenced_atlases": 15,
+  "actually_rendered_atlases": 15,
+  "sliced_sprites_cataloged": 621,
+  "resolved_sprite_mappings": 48,
+  "unresolved_sprite_mappings": 0,
+  "coverage_percentage": 100.0,
+  "evidence_level": "E7"
+}

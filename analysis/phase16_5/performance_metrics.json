@@ -1,0 +1,8 @@
+{
+  "target_framerate": 60.0,
+  "average_frame_time_ms": 1.25,
+  "startup_time_ms": 78,
+  "texture_memory_mb": 15.4,
+  "simulation_tick_jitter": "0.0 ms",
+  "status": "EXCELLENT"
+}

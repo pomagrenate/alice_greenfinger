@@ -8,7 +8,7 @@ dist_exe = os.path.join(PROJECT_ROOT, 'distribution', 'AliceGreenfingers_Reconst
 
 def test_phase12_portability():
     print("Testing Phase 12 Master Differential & Portability Suite (55 Scenarios)...")
-    result = subprocess.run([dist_exe], cwd=os.path.dirname(dist_exe), capture_output=True, text=True)
+    result = subprocess.run([dist_exe, "--test"], cwd=os.path.dirname(dist_exe), capture_output=True, text=True)
     out = result.stdout
     print(out)
 
