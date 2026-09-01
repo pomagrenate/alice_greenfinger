@@ -1,0 +1,14 @@
+{
+  "cxx_compiler": "g++ (MinGW-W64 x86_64-msvcrt-posix-seh, built by Brecht Sanders, r1) 15.1.0",
+  "c_compiler": "gcc (MinGW-W64 x86_64-msvcrt-posix-seh, built by Brecht Sanders, r1) 15.1.0",
+  "build_generator": "1.12.1",
+  "cmake_version": "cmake version 4.0.1",
+  "git_version": "git version 2.48.1.windows.1",
+  "cpp_standard": "C++17",
+  "c_standard": "C11",
+  "link_libraries_windows": [
+    "gdi32",
+    "user32",
+    "kernel32"
+  ]
+}

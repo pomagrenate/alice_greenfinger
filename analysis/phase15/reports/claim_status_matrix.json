@@ -1,0 +1,60 @@
+{
+  "total_claims": 11,
+  "claims": [
+    {
+      "claim": "Original binary identity",
+      "status": "ESTABLISHED",
+      "evidence": "E1"
+    },
+    {
+      "claim": "Reconstructed source build",
+      "status": "ESTABLISHED",
+      "evidence": "E2"
+    },
+    {
+      "claim": "Bit-identical PE binary reproduction",
+      "status": "NOT_ESTABLISHED",
+      "evidence": "N/A"
+    },
+    {
+      "claim": "6-state campaign state machine",
+      "status": "DIFFERENTIALLY_VERIFIED",
+      "evidence": "E4"
+    },
+    {
+      "claim": "Economy ledger arithmetic bounds",
+      "status": "SYMBOLICALLY_PROVEN",
+      "evidence": "E6"
+    },
+    {
+      "claim": "Plant genetics",
+      "status": "NOT_ESTABLISHED",
+      "evidence": "N/A"
+    },
+    {
+      "claim": "Customer AI priority queue",
+      "status": "NOT_ESTABLISHED",
+      "evidence": "N/A"
+    },
+    {
+      "claim": "Save file encryption",
+      "status": "NOT_ESTABLISHED",
+      "evidence": "N/A"
+    },
+    {
+      "claim": "Endgame cinematic video",
+      "status": "NOT_ESTABLISHED",
+      "evidence": "N/A"
+    },
+    {
+      "claim": "124 isolated indirect calls",
+      "status": "PROVEN_BOUNDED_UNREACHABLE",
+      "evidence": "E6"
+    },
+    {
+      "claim": "Linux live runtime execution",
+      "status": "NOT_EXECUTED",
+      "evidence": "N/A"
+    }
+  ]
+}

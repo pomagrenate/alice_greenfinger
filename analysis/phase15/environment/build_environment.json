@@ -1,0 +1,7 @@
+{
+  "build_type": "Release / Static Archive",
+  "source_build_reproducible": "ESTABLISHED",
+  "bit_identical_binary_reproduction": "NOT_ESTABLISHED",
+  "compiler_timestamp_determinism": "VARIABLE (PE header timestamp reflects compile time)",
+  "linux_runtime_reproduction": "NOT_EXECUTED (Host is Windows x86_64)"
+}

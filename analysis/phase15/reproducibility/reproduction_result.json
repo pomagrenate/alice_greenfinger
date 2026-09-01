@@ -1,0 +1,59 @@
+{
+  "timestamp": "2026-09-01T19:05:20.687449",
+  "total_gates": 10,
+  "passed_gates": 10,
+  "failed_gates": 0,
+  "overall_status": "PASS",
+  "gates": [
+    {
+      "gate": "Gate 1: Original Binary SHA-256",
+      "status": "PASS",
+      "details": "SHA256 matches caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1"
+    },
+    {
+      "gate": "Gate 2: Repository Artifact Manifest",
+      "status": "PASS",
+      "details": "archive_manifest.json verified"
+    },
+    {
+      "gate": "Gate 3: Reconstructed Source Build",
+      "status": "PASS",
+      "details": "CMake/Ninja C++17 build succeeded"
+    },
+    {
+      "gate": "Gate 4: Master Regression Suite",
+      "status": "PASS",
+      "details": "55/55 regression scenarios passing"
+    },
+    {
+      "gate": "Gate 5: Differential Trace Suite",
+      "status": "PASS",
+      "details": "12/12 scenario traces matching"
+    },
+    {
+      "gate": "Gate 6: Symbolic Validation Suite",
+      "status": "PASS",
+      "details": "12 paths (9 SAT, 3 UNSAT, 0 UNKNOWN) & 10 experiments PASS"
+    },
+    {
+      "gate": "Gate 7: Distribution Integrity",
+      "status": "PASS",
+      "details": "Windows & Linux distribution packages built"
+    },
+    {
+      "gate": "Gate 8: Provenance Graph Consistency",
+      "status": "PASS",
+      "details": "0 dangling references in 9 nodes / 12 edges"
+    },
+    {
+      "gate": "Gate 9: Archival Manifest Integrity",
+      "status": "PASS",
+      "details": "Cryptographic manifest checksum verified"
+    },
+    {
+      "gate": "Gate 10: Post-Execution Binary Integrity",
+      "status": "PASS",
+      "details": "0 bytes modified to original binary"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "phase": "PHASE 15 (FORMAL PRESERVATION DOSSIER & LONG-TERM ARCHIVAL CERTIFICATION)",
+  "timestamp": "2026-09-01T19:04:32.262411",
+  "binary_integrity": {
+    "file": "extracted/AliceGreenfingers_unpacked.exe",
+    "size_bytes": 732733,
+    "sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+    "modified_bytes": 0,
+    "read_only": true
+  },
+  "inherited_metrics": {
+    "total_binary_functions": 1847,
+    "group_a_reconstructed": 1194,
+    "runtime_verified_functions": 406,
+    "resolved_indirect_calls": 406,
+    "probable_dispatch_targets": 65,
+    "isolated_unresolved_calls": 124,
+    "recovered_static_globals": 175,
+    "verified_game_states": 6,
+    "popcap_lbtc_containers": 10,
+    "graphics_atlases": 15,
+    "audio_resources": 71,
+    "master_regression_scenarios": 55,
+    "differential_trace_scenarios": 12,
+    "symbolic_paths_explored": 12,
+    "controlled_experiments": 20,
+    "reproducibility_gates": 8,
+    "git_commit": "0a33243"
+  },
+  "preserved_negative_boundaries": [
+    "PLANT_GENETICS_NOT_ESTABLISHED",
+    "PRIORITY_QUEUE_NOT_ESTABLISHED",
+    "SAVE_ENCRYPTION_NOT_ESTABLISHED",
+    "ENDGAME_CINEMATIC_NOT_ESTABLISHED",
+    "124 isolated secondary indirect calls",
+    "BIT_IDENTICAL_BINARY_REPRODUCTION: NOT_ESTABLISHED",
+    "LINUX_RUNTIME_REPRODUCTION: NOT_EXECUTED"
+  ]
+}

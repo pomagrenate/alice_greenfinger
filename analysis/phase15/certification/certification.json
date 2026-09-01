@@ -1,0 +1,26 @@
+{
+  "project": "Alice Greenfingers",
+  "certification_type": "PROJECT_INTERNAL_FORENSIC_PRESERVATION",
+  "certification_date": "2026-09-01T19:05:51.246943",
+  "target_binary_sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+  "original_binary_modified_bytes": 0,
+  "reproduction_gates_verified": "10/10 PASS",
+  "evidence_hierarchy_enforced": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "E6"
+  ],
+  "preserved_limitations": [
+    "PLANT_GENETICS_NOT_ESTABLISHED",
+    "PRIORITY_QUEUE_NOT_ESTABLISHED",
+    "SAVE_ENCRYPTION_NOT_ESTABLISHED",
+    "ENDGAME_CINEMATIC_NOT_ESTABLISHED",
+    "124 isolated secondary indirect calls",
+    "BIT_IDENTICAL_BINARY_REPRODUCTION: NOT_ESTABLISHED",
+    "LINUX_RUNTIME_REPRODUCTION: NOT_EXECUTED"
+  ],
+  "certification_status": "PRESERVED_AND_CERTIFIED"
+}

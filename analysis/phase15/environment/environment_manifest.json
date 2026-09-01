@@ -1,0 +1,11 @@
+{
+  "os_platform": "win32",
+  "os_release": "Windows 10/11 x86_64",
+  "architecture": "x86_64",
+  "timestamp": "2026-09-01T19:05:04.010385",
+  "host_classification": "NATIVE_WINDOWS_WORKSTATION",
+  "cross_platform_capabilities": [
+    "Win32 Native Reference",
+    "POSIX/SDL2 Portability Ready"
+  ]
+}

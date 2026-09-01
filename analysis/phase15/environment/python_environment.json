@@ -1,0 +1,14 @@
+{
+  "python_version": "3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]",
+  "standard_modules_used": [
+    "json",
+    "hashlib",
+    "subprocess",
+    "os",
+    "sys",
+    "datetime",
+    "shutil"
+  ],
+  "external_solver_packages": "NONE (Pure-Python First-Order QF_LIA Engine)",
+  "dependency_overhead": "0 External PyPI packages required"
+}
