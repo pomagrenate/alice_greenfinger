@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-010",
+  "title": "Secondary Indirect-Call Reachability Proof",
+  "hypothesis": "All 124 isolated indirect calls are proven bounded-unreachable from campaign path.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

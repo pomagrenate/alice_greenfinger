@@ -1,0 +1,18 @@
+{
+  "path_id": "PATH-0001",
+  "name": "Startup_to_MainMenu",
+  "state_sequence": [
+    0,
+    1
+  ],
+  "constraints": [
+    "state == 0",
+    "opcode == 1001"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "opcode": 1001,
+    "state": 0
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

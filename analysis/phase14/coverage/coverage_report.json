@@ -1,0 +1,32 @@
+{
+  "metrics": {
+    "functions_reached": 3,
+    "basic_blocks_reached": 15,
+    "conditional_branches_reached": 6,
+    "true_branches_explored": 6,
+    "false_branches_explored": 6,
+    "state_transitions_explored": 6,
+    "unresolved_regions_reached": 0,
+    "symbolic_branch_coverage_pct": 100.0
+  },
+  "coverage_by_function": [
+    {
+      "function": "FUN_00401500",
+      "blocks_total": 3,
+      "blocks_reached": 3,
+      "coverage_pct": 100.0
+    },
+    {
+      "function": "FUN_00404170",
+      "blocks_total": 9,
+      "blocks_reached": 9,
+      "coverage_pct": 100.0
+    },
+    {
+      "function": "FUN_004096a0",
+      "blocks_total": 3,
+      "blocks_reached": 3,
+      "coverage_pct": 100.0
+    }
+  ]
+}

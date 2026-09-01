@@ -1,0 +1,14 @@
+{
+  "path_id": "PATH-0005",
+  "name": "Seed_Purchase_Impossible_Negative_Currency",
+  "state_sequence": [
+    3
+  ],
+  "constraints": [
+    "currency >= 0",
+    "currency < 0"
+  ],
+  "solver_result": "UNSAT",
+  "concrete_model": null,
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

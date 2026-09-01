@@ -1,0 +1,47 @@
+[
+  {
+    "input_name": "input_opcode",
+    "domain": "Event Dispatch",
+    "range": [
+      1001,
+      1007
+    ],
+    "constraints": "opcode in {1001, 1002, 1003, 1004, 1005, 1006, 1007}"
+  },
+  {
+    "input_name": "input_seed_quantity",
+    "domain": "Market Commerce",
+    "range": [
+      1,
+      10
+    ],
+    "constraints": "qty >= 1 && qty <= 10"
+  },
+  {
+    "input_name": "input_crop_harvest_click",
+    "domain": "Farm Grid",
+    "range": [
+      0,
+      1
+    ],
+    "constraints": "click in {0, 1}"
+  },
+  {
+    "input_name": "input_wait_ticks",
+    "domain": "Time Advance",
+    "range": [
+      0,
+      3600
+    ],
+    "constraints": "ticks >= 0 && ticks <= 3600"
+  },
+  {
+    "input_name": "input_save_trigger",
+    "domain": "Persistence",
+    "range": [
+      0,
+      1
+    ],
+    "constraints": "save in {0, 1}"
+  }
+]

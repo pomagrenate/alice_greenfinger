@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SymbolicInputVector",
+  "type": "object",
+  "required": [
+    "input_opcode"
+  ],
+  "properties": {
+    "input_opcode": {
+      "type": "integer"
+    },
+    "input_seed_quantity": {
+      "type": "integer"
+    },
+    "input_crop_harvest_click": {
+      "type": "integer"
+    },
+    "input_wait_ticks": {
+      "type": "integer"
+    },
+    "input_save_trigger": {
+      "type": "integer"
+    }
+  }
+}

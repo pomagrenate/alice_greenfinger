@@ -1,0 +1,86 @@
+[
+  {
+    "symbolic_name": "sym_game_state",
+    "binary_location": "DAT_004974f4",
+    "type": "uint32_t",
+    "bit_width": 32,
+    "initial_value": 0,
+    "known_range": [
+      0,
+      5
+    ],
+    "evidence": "E1/E3"
+  },
+  {
+    "symbolic_name": "sym_frame_clock",
+    "binary_location": "DAT_004a7f54",
+    "type": "uint32_t",
+    "bit_width": 32,
+    "initial_value": 0,
+    "known_range": [
+      0,
+      4294967295
+    ],
+    "evidence": "E1/E3"
+  },
+  {
+    "symbolic_name": "sym_currency_ledger",
+    "binary_location": "DAT_004a86a4",
+    "type": "uint32_t",
+    "bit_width": 32,
+    "initial_value": 100,
+    "known_range": [
+      0,
+      999999
+    ],
+    "evidence": "E1/E3"
+  },
+  {
+    "symbolic_name": "sym_audio_active",
+    "binary_location": "DAT_004b1200",
+    "type": "uint32_t",
+    "bit_width": 32,
+    "initial_value": 1,
+    "known_range": [
+      0,
+      1
+    ],
+    "evidence": "E1/E3"
+  },
+  {
+    "symbolic_name": "sym_atlas_handle",
+    "binary_location": "DAT_00497528",
+    "type": "uint32_t",
+    "bit_width": 32,
+    "initial_value": 4814120,
+    "known_range": [
+      0,
+      4294967295
+    ],
+    "evidence": "E1/E4"
+  },
+  {
+    "symbolic_name": "sym_crop_plot_stage",
+    "binary_location": "GRID_PLOT_2_3",
+    "type": "uint8_t",
+    "bit_width": 8,
+    "initial_value": 0,
+    "known_range": [
+      0,
+      4
+    ],
+    "evidence": "E1/E3"
+  },
+  {
+    "symbolic_name": "sym_day_counter",
+    "binary_location": "DAY_COUNTER",
+    "type": "uint32_t",
+    "bit_width": 32,
+    "initial_value": 1,
+    "known_range": [
+      1,
+      999
+    ],
+    "evidence": "E1/E3"
+  }
+]

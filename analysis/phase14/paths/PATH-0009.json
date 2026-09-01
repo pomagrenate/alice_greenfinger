@@ -1,0 +1,18 @@
+{
+  "path_id": "PATH-0009",
+  "name": "Day_Transition_Quota_Met",
+  "state_sequence": [
+    5,
+    3
+  ],
+  "constraints": [
+    "opcode == 1003",
+    "day >= 1"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "opcode": 1003,
+    "day": 1
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

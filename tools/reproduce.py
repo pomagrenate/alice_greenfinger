@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Alice Greenfingers - Universal Master Reproduction & Verification Pipeline (Phase 13)
-7 Rigorous Quality & Forensic Verification Gates.
+Alice Greenfingers - Master Reproduction & Verification Pipeline (Phase 14)
+8 Rigorous Quality, Forensic & Symbolic Verification Gates.
 """
 
 import os
@@ -17,7 +17,7 @@ EXPECTED_SHA256 = 'caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a
 
 def run_reproduce():
     print("============================================================")
-    print("ALICE GREENFINGERS - MASTER REPRODUCIBILITY PIPELINE (PHASE 13)")
+    print("ALICE GREENFINGERS - MASTER REPRODUCIBILITY PIPELINE (PHASE 14)")
     print("============================================================\n")
 
     results = []
@@ -58,11 +58,18 @@ def run_reproduce():
     results.append({"gate": "Gate 6: Execution Trace Forensics Audit", "passed": trace_audit_ok})
     print(f"[Gate 6] Execution Trace Audit (12/12): {'PASS' if trace_audit_ok else 'FAIL'}")
 
-    # Gate 7: Post-Execution Read-Only Check
+    # Gate 7: Phase 14 Symbolic Execution & State-Space Audit
+    sym_audit_file = os.path.join(PROJECT_ROOT, 'analysis', 'phase14', 'solver', 'solver_audit.json')
+    with open(sym_audit_file, 'r', encoding='utf-8') as f: sym_audit = json.load(f)
+    sym_ok = (sym_audit.get("model_replay_mismatches") == 0 and sym_audit.get("sat_results", 0) > 0)
+    results.append({"gate": "Gate 7: Symbolic Execution & State-Space Audit", "passed": sym_ok})
+    print(f"[Gate 7] Symbolic Execution Audit: {'PASS' if sym_ok else 'FAIL'}")
+
+    # Gate 8: Post-Execution Read-Only Verification
     post_sha = hashlib.sha256(open(TARGET_BINARY, 'rb').read()).hexdigest()
     post_ok = (post_sha == EXPECTED_SHA256)
-    results.append({"gate": "Gate 7: Post-Execution Read-Only Verification", "passed": post_ok})
-    print(f"[Gate 7] Post-Execution Binary Check: {'PASS' if post_ok else 'FAIL'}")
+    results.append({"gate": "Gate 8: Post-Execution Read-Only Verification", "passed": post_ok})
+    print(f"[Gate 8] Post-Execution Binary Check: {'PASS' if post_ok else 'FAIL'}")
 
     all_passed = all(r["passed"] for r in results)
     print(f"\nOVERALL REPRODUCIBILITY STATUS: {'PASS' if all_passed else 'FAIL'}\n")

@@ -1,0 +1,17 @@
+{
+  "path_id": "PATH-0008",
+  "name": "Crop_Sale_Fulfillment",
+  "state_sequence": [
+    5
+  ],
+  "constraints": [
+    "opcode == 1006",
+    "inventory >= 1"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "opcode": 1006,
+    "inventory": 1
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

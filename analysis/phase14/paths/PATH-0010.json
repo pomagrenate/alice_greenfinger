@@ -1,0 +1,19 @@
+{
+  "path_id": "PATH-0010",
+  "name": "Save_and_Load_State_Preservation",
+  "state_sequence": [
+    3,
+    0,
+    3
+  ],
+  "constraints": [
+    "save_flag == 1",
+    "load_flag == 1"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "save_flag": 1,
+    "load_flag": 1
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

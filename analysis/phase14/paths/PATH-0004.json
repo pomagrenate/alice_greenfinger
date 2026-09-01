@@ -1,0 +1,17 @@
+{
+  "path_id": "PATH-0004",
+  "name": "Seed_Purchase_Insufficient_Funds",
+  "state_sequence": [
+    3
+  ],
+  "constraints": [
+    "opcode == 1005",
+    "currency < 20"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "opcode": 1005,
+    "currency": 0
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-006",
+  "title": "Harvest Boundary Trigger",
+  "hypothesis": "Plot stage 4 harvest event resets plot to 0 and increments carrot inventory.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

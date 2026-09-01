@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-008",
+  "title": "Day Transition Quota Progression",
+  "hypothesis": "Day progression increments DAY_COUNTER and evaluates quota threshold.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

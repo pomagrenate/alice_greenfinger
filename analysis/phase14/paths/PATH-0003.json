@@ -1,0 +1,17 @@
+{
+  "path_id": "PATH-0003",
+  "name": "Seed_Purchase_Affordable",
+  "state_sequence": [
+    3
+  ],
+  "constraints": [
+    "opcode == 1005",
+    "currency >= 20"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "opcode": 1005,
+    "currency": 20
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

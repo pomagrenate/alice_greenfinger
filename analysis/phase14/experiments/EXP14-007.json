@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-007",
+  "title": "Market Entry / Exit State Invariant",
+  "hypothesis": "Opcode 1004 transitions State 3->5; Opcode 1003 returns State 5->3.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "branch_id": "BR-01",
+    "function": "FUN_00404170",
+    "rva": "0x00404170",
+    "type": "conditional",
+    "condition": "opcode == 0",
+    "true_target": "BB_00404185",
+    "false_target": "BB_0040419A",
+    "evidence": "E1"
+  },
+  {
+    "branch_id": "BR-02",
+    "function": "FUN_00404170",
+    "rva": "0x0040419A",
+    "type": "conditional",
+    "condition": "opcode == 1001",
+    "true_target": "BB_004041B0 (State 3)",
+    "false_target": "BB_004041C5",
+    "evidence": "E1"
+  },
+  {
+    "branch_id": "BR-03",
+    "function": "FUN_00404170",
+    "rva": "0x004041C5",
+    "type": "conditional",
+    "condition": "opcode == 1004",
+    "true_target": "BB_004041E0 (State 5)",
+    "false_target": "BB_004041F5",
+    "evidence": "E1"
+  },
+  {
+    "branch_id": "BR-04",
+    "function": "FUN_00404170",
+    "rva": "0x004041F5",
+    "type": "conditional",
+    "condition": "opcode == 1005 && currency >= 20",
+    "true_target": "BB_00404210 (Buy)",
+    "false_target": "BB_00404225 (Reject)",
+    "evidence": "E1"
+  },
+  {
+    "branch_id": "BR-05",
+    "function": "FUN_00404170",
+    "rva": "0x00404230",
+    "type": "conditional",
+    "condition": "opcode == 1006",
+    "true_target": "BB_00404245 (Sell +50)",
+    "false_target": "BB_00404260",
+    "evidence": "E1"
+  },
+  {
+    "branch_id": "BR-06",
+    "function": "FUN_00404170",
+    "rva": "0x00404260",
+    "type": "conditional",
+    "condition": "opcode == 1007",
+    "true_target": "BB_00404275 (Exit)",
+    "false_target": "BB_00404290",
+    "evidence": "E1"
+  }
+]

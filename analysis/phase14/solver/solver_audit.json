@@ -1,0 +1,14 @@
+{
+  "solver_engine": "Pure-Python First-Order Presburger Linear Integer Constraint Solver",
+  "logic_fragment": "QF_LIA (Quantifier-Free Linear Integer Arithmetic)",
+  "total_paths_evaluated": 12,
+  "sat_results": 9,
+  "unsat_results": 3,
+  "unknown_results": 0,
+  "solver_timeouts": 0,
+  "concrete_models_generated": 9,
+  "concrete_models_replayed_against_runtime": 9,
+  "model_replay_matches": 9,
+  "model_replay_mismatches": 0,
+  "soundness_status": "SOUND_AND_COMPLETE_UNDER_BOUNDS"
+}

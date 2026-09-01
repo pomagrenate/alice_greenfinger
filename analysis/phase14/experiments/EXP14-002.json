@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-002",
+  "title": "Title -> Name Dialog Branch",
+  "hypothesis": "Path constraint state==1 && opcode==1001 solves SAT and advances to State 2.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

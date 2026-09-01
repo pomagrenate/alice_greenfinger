@@ -1,0 +1,14 @@
+{
+  "path_id": "PATH-0011",
+  "name": "Contradictory_Simultaneous_State_Mutation",
+  "state_sequence": [
+    3
+  ],
+  "constraints": [
+    "state == 3",
+    "state == 5"
+  ],
+  "solver_result": "UNSAT",
+  "concrete_model": null,
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

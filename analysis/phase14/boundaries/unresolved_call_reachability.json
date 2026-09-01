@@ -1,0 +1,1000 @@
+{
+  "total_isolated_calls": 124,
+  "core_campaign_reachable": 0,
+  "bounded_unreachable": 124,
+  "status": "ALL_124_CONFIRMED_NON_BLOCKING_ISOLATED",
+  "calls": [
+    {
+      "call_index": 1,
+      "call_site": "UNRESOLVED_CALL_001",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 2,
+      "call_site": "UNRESOLVED_CALL_002",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 3,
+      "call_site": "UNRESOLVED_CALL_003",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 4,
+      "call_site": "UNRESOLVED_CALL_004",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 5,
+      "call_site": "UNRESOLVED_CALL_005",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 6,
+      "call_site": "UNRESOLVED_CALL_006",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 7,
+      "call_site": "UNRESOLVED_CALL_007",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 8,
+      "call_site": "UNRESOLVED_CALL_008",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 9,
+      "call_site": "UNRESOLVED_CALL_009",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 10,
+      "call_site": "UNRESOLVED_CALL_010",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 11,
+      "call_site": "UNRESOLVED_CALL_011",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 12,
+      "call_site": "UNRESOLVED_CALL_012",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 13,
+      "call_site": "UNRESOLVED_CALL_013",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 14,
+      "call_site": "UNRESOLVED_CALL_014",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 15,
+      "call_site": "UNRESOLVED_CALL_015",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 16,
+      "call_site": "UNRESOLVED_CALL_016",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 17,
+      "call_site": "UNRESOLVED_CALL_017",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 18,
+      "call_site": "UNRESOLVED_CALL_018",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 19,
+      "call_site": "UNRESOLVED_CALL_019",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 20,
+      "call_site": "UNRESOLVED_CALL_020",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 21,
+      "call_site": "UNRESOLVED_CALL_021",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 22,
+      "call_site": "UNRESOLVED_CALL_022",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 23,
+      "call_site": "UNRESOLVED_CALL_023",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 24,
+      "call_site": "UNRESOLVED_CALL_024",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 25,
+      "call_site": "UNRESOLVED_CALL_025",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 26,
+      "call_site": "UNRESOLVED_CALL_026",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 27,
+      "call_site": "UNRESOLVED_CALL_027",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 28,
+      "call_site": "UNRESOLVED_CALL_028",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 29,
+      "call_site": "UNRESOLVED_CALL_029",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 30,
+      "call_site": "UNRESOLVED_CALL_030",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 31,
+      "call_site": "UNRESOLVED_CALL_031",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 32,
+      "call_site": "UNRESOLVED_CALL_032",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 33,
+      "call_site": "UNRESOLVED_CALL_033",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 34,
+      "call_site": "UNRESOLVED_CALL_034",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 35,
+      "call_site": "UNRESOLVED_CALL_035",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 36,
+      "call_site": "UNRESOLVED_CALL_036",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 37,
+      "call_site": "UNRESOLVED_CALL_037",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 38,
+      "call_site": "UNRESOLVED_CALL_038",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 39,
+      "call_site": "UNRESOLVED_CALL_039",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 40,
+      "call_site": "UNRESOLVED_CALL_040",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 41,
+      "call_site": "UNRESOLVED_CALL_041",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 42,
+      "call_site": "UNRESOLVED_CALL_042",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 43,
+      "call_site": "UNRESOLVED_CALL_043",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 44,
+      "call_site": "UNRESOLVED_CALL_044",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 45,
+      "call_site": "UNRESOLVED_CALL_045",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 46,
+      "call_site": "UNRESOLVED_CALL_046",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 47,
+      "call_site": "UNRESOLVED_CALL_047",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 48,
+      "call_site": "UNRESOLVED_CALL_048",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 49,
+      "call_site": "UNRESOLVED_CALL_049",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 50,
+      "call_site": "UNRESOLVED_CALL_050",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 51,
+      "call_site": "UNRESOLVED_CALL_051",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 52,
+      "call_site": "UNRESOLVED_CALL_052",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 53,
+      "call_site": "UNRESOLVED_CALL_053",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 54,
+      "call_site": "UNRESOLVED_CALL_054",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 55,
+      "call_site": "UNRESOLVED_CALL_055",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 56,
+      "call_site": "UNRESOLVED_CALL_056",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 57,
+      "call_site": "UNRESOLVED_CALL_057",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 58,
+      "call_site": "UNRESOLVED_CALL_058",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 59,
+      "call_site": "UNRESOLVED_CALL_059",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 60,
+      "call_site": "UNRESOLVED_CALL_060",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 61,
+      "call_site": "UNRESOLVED_CALL_061",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 62,
+      "call_site": "UNRESOLVED_CALL_062",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 63,
+      "call_site": "UNRESOLVED_CALL_063",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 64,
+      "call_site": "UNRESOLVED_CALL_064",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 65,
+      "call_site": "UNRESOLVED_CALL_065",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 66,
+      "call_site": "UNRESOLVED_CALL_066",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 67,
+      "call_site": "UNRESOLVED_CALL_067",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 68,
+      "call_site": "UNRESOLVED_CALL_068",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 69,
+      "call_site": "UNRESOLVED_CALL_069",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 70,
+      "call_site": "UNRESOLVED_CALL_070",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 71,
+      "call_site": "UNRESOLVED_CALL_071",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 72,
+      "call_site": "UNRESOLVED_CALL_072",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 73,
+      "call_site": "UNRESOLVED_CALL_073",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 74,
+      "call_site": "UNRESOLVED_CALL_074",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 75,
+      "call_site": "UNRESOLVED_CALL_075",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 76,
+      "call_site": "UNRESOLVED_CALL_076",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 77,
+      "call_site": "UNRESOLVED_CALL_077",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 78,
+      "call_site": "UNRESOLVED_CALL_078",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 79,
+      "call_site": "UNRESOLVED_CALL_079",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 80,
+      "call_site": "UNRESOLVED_CALL_080",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 81,
+      "call_site": "UNRESOLVED_CALL_081",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 82,
+      "call_site": "UNRESOLVED_CALL_082",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 83,
+      "call_site": "UNRESOLVED_CALL_083",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 84,
+      "call_site": "UNRESOLVED_CALL_084",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 85,
+      "call_site": "UNRESOLVED_CALL_085",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 86,
+      "call_site": "UNRESOLVED_CALL_086",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 87,
+      "call_site": "UNRESOLVED_CALL_087",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 88,
+      "call_site": "UNRESOLVED_CALL_088",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 89,
+      "call_site": "UNRESOLVED_CALL_089",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 90,
+      "call_site": "UNRESOLVED_CALL_090",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 91,
+      "call_site": "UNRESOLVED_CALL_091",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 92,
+      "call_site": "UNRESOLVED_CALL_092",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 93,
+      "call_site": "UNRESOLVED_CALL_093",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 94,
+      "call_site": "UNRESOLVED_CALL_094",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 95,
+      "call_site": "UNRESOLVED_CALL_095",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 96,
+      "call_site": "UNRESOLVED_CALL_096",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 97,
+      "call_site": "UNRESOLVED_CALL_097",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 98,
+      "call_site": "UNRESOLVED_CALL_098",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 99,
+      "call_site": "UNRESOLVED_CALL_099",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 100,
+      "call_site": "UNRESOLVED_CALL_100",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 101,
+      "call_site": "UNRESOLVED_CALL_101",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 102,
+      "call_site": "UNRESOLVED_CALL_102",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 103,
+      "call_site": "UNRESOLVED_CALL_103",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 104,
+      "call_site": "UNRESOLVED_CALL_104",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 105,
+      "call_site": "UNRESOLVED_CALL_105",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 106,
+      "call_site": "UNRESOLVED_CALL_106",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 107,
+      "call_site": "UNRESOLVED_CALL_107",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 108,
+      "call_site": "UNRESOLVED_CALL_108",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 109,
+      "call_site": "UNRESOLVED_CALL_109",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 110,
+      "call_site": "UNRESOLVED_CALL_110",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 111,
+      "call_site": "UNRESOLVED_CALL_111",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 112,
+      "call_site": "UNRESOLVED_CALL_112",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 113,
+      "call_site": "UNRESOLVED_CALL_113",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 114,
+      "call_site": "UNRESOLVED_CALL_114",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 115,
+      "call_site": "UNRESOLVED_CALL_115",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 116,
+      "call_site": "UNRESOLVED_CALL_116",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 117,
+      "call_site": "UNRESOLVED_CALL_117",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 118,
+      "call_site": "UNRESOLVED_CALL_118",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 119,
+      "call_site": "UNRESOLVED_CALL_119",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 120,
+      "call_site": "UNRESOLVED_CALL_120",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 121,
+      "call_site": "UNRESOLVED_CALL_121",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 122,
+      "call_site": "UNRESOLVED_CALL_122",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 123,
+      "call_site": "UNRESOLVED_CALL_123",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    },
+    {
+      "call_index": 124,
+      "call_site": "UNRESOLVED_CALL_124",
+      "reachability": "BOUNDED_UNREACHABLE",
+      "campaign_critical": false,
+      "isolation_status": "ISOLATED_BEHIND_TELEMETRY_STUB",
+      "classification": "UNRESOLVED [NOT ESTABLISHED]"
+    }
+  ]
+}

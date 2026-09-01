@@ -1,0 +1,18 @@
+{
+  "path_id": "PATH-0007",
+  "name": "Market_Entry_Transition",
+  "state_sequence": [
+    3,
+    5
+  ],
+  "constraints": [
+    "state == 3",
+    "opcode == 1004"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "opcode": 1004,
+    "state": 3
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

@@ -1,0 +1,14 @@
+{
+  "path_id": "PATH-0012",
+  "name": "Secondary_Isolated_Call_Unreachable_Core",
+  "state_sequence": [
+    3
+  ],
+  "constraints": [
+    "isolated_dispatch == 1",
+    "isolated_dispatch == 0"
+  ],
+  "solver_result": "UNSAT",
+  "concrete_model": null,
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

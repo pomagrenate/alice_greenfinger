@@ -1,0 +1,23 @@
+[
+  {
+    "snapshot_id": "SNAP_01",
+    "phase_point": "Farm Init",
+    "DAT_004974f4": 3,
+    "DAT_004a86a4": 100,
+    "DAT_004a7f54": 10
+  },
+  {
+    "snapshot_id": "SNAP_02",
+    "phase_point": "Seed Purchase",
+    "DAT_004974f4": 3,
+    "DAT_004a86a4": 80,
+    "DAT_004a7f54": 20
+  },
+  {
+    "snapshot_id": "SNAP_03",
+    "phase_point": "Market Crop Sale",
+    "DAT_004974f4": 5,
+    "DAT_004a86a4": 130,
+    "DAT_004a7f54": 360
+  }
+]

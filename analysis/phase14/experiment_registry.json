@@ -1,0 +1,75 @@
+{
+  "total_experiments": 10,
+  "experiments": [
+    {
+      "id": "EXP14-001",
+      "title": "Startup Branch Exploration",
+      "hypothesis": "Path constraint state==0 && opcode==1001 solves SAT and advances to State 1.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-002",
+      "title": "Title -> Name Dialog Branch",
+      "hypothesis": "Path constraint state==1 && opcode==1001 solves SAT and advances to State 2.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-003",
+      "title": "Name -> Farm Grid Branch",
+      "hypothesis": "Path constraint state==2 && opcode==1001 solves SAT and advances to State 3 with $100 starting cash.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-004",
+      "title": "Seed Purchase Boundary Condition",
+      "hypothesis": "Affordable branch currency>=20 solves SAT; impossible negative currency solves UNSAT.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-005",
+      "title": "Crop Growth Boundary Condition",
+      "hypothesis": "Plot stage advances 1->2->3->4 under ticks>=300 constraint.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-006",
+      "title": "Harvest Boundary Trigger",
+      "hypothesis": "Plot stage 4 harvest event resets plot to 0 and increments carrot inventory.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-007",
+      "title": "Market Entry / Exit State Invariant",
+      "hypothesis": "Opcode 1004 transitions State 3->5; Opcode 1003 returns State 5->3.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-008",
+      "title": "Day Transition Quota Progression",
+      "hypothesis": "Day progression increments DAY_COUNTER and evaluates quota threshold.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-009",
+      "title": "Save/Load Symbolic State Invariant",
+      "hypothesis": "AGSV header and ledger are invariant across serialize/deserialize cycle.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    },
+    {
+      "id": "EXP14-010",
+      "title": "Secondary Indirect-Call Reachability Proof",
+      "hypothesis": "All 124 isolated indirect calls are proven bounded-unreachable from campaign path.",
+      "result": "PASS",
+      "evidence_level": "E6"
+    }
+  ]
+}

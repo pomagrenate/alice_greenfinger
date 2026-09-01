@@ -1,0 +1,112 @@
+[
+  {
+    "function": "FUN_00401500",
+    "rva": "0x00401500",
+    "role": "EngineContext_Initialize",
+    "basic_blocks": [
+      "BB_00401500",
+      "BB_0040151A",
+      "BB_00401530"
+    ],
+    "edges": [
+      {
+        "from": "BB_00401500",
+        "to": "BB_0040151A",
+        "type": "fallthrough"
+      },
+      {
+        "from": "BB_0040151A",
+        "to": "BB_00401530",
+        "type": "fallthrough"
+      }
+    ]
+  },
+  {
+    "function": "FUN_00404170",
+    "rva": "0x00404170",
+    "role": "Event_Opcode_Dispatcher",
+    "basic_blocks": [
+      "BB_00404170",
+      "BB_00404185",
+      "BB_0040419A",
+      "BB_004041B0",
+      "BB_004041C5",
+      "BB_004041E0",
+      "BB_004041F5",
+      "BB_00404210",
+      "BB_00404225"
+    ],
+    "edges": [
+      {
+        "from": "BB_00404170",
+        "to": "BB_00404185",
+        "type": "conditional_true",
+        "condition": "opcode == 0"
+      },
+      {
+        "from": "BB_00404170",
+        "to": "BB_0040419A",
+        "type": "conditional_false",
+        "condition": "opcode != 0"
+      },
+      {
+        "from": "BB_0040419A",
+        "to": "BB_004041B0",
+        "type": "conditional_true",
+        "condition": "opcode == 1001"
+      },
+      {
+        "from": "BB_0040419A",
+        "to": "BB_004041C5",
+        "type": "conditional_false",
+        "condition": "opcode != 1001"
+      },
+      {
+        "from": "BB_004041C5",
+        "to": "BB_004041E0",
+        "type": "conditional_true",
+        "condition": "opcode == 1004"
+      },
+      {
+        "from": "BB_004041C5",
+        "to": "BB_004041F5",
+        "type": "conditional_false",
+        "condition": "opcode != 1004"
+      },
+      {
+        "from": "BB_004041F5",
+        "to": "BB_00404210",
+        "type": "conditional_true",
+        "condition": "opcode == 1005 && currency >= 20"
+      },
+      {
+        "from": "BB_004041F5",
+        "to": "BB_00404225",
+        "type": "conditional_false",
+        "condition": "opcode == 1005 && currency < 20"
+      }
+    ]
+  },
+  {
+    "function": "FUN_004096a0",
+    "rva": "0x004096a0",
+    "role": "GameLoop_Frame_Tick",
+    "basic_blocks": [
+      "BB_004096a0",
+      "BB_004096B8",
+      "BB_004096D0"
+    ],
+    "edges": [
+      {
+        "from": "BB_004096a0",
+        "to": "BB_004096B8",
+        "type": "fallthrough"
+      },
+      {
+        "from": "BB_004096B8",
+        "to": "BB_004096D0",
+        "type": "fallthrough"
+      }
+    ]
+  }
+]

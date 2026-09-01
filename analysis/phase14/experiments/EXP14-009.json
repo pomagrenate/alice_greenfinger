@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-009",
+  "title": "Save/Load Symbolic State Invariant",
+  "hypothesis": "AGSV header and ledger are invariant across serialize/deserialize cycle.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

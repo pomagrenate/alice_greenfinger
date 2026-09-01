@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-001",
+  "title": "Startup Branch Exploration",
+  "hypothesis": "Path constraint state==0 && opcode==1001 solves SAT and advances to State 1.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

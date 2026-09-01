@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-003",
+  "title": "Name -> Farm Grid Branch",
+  "hypothesis": "Path constraint state==2 && opcode==1001 solves SAT and advances to State 3 with $100 starting cash.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

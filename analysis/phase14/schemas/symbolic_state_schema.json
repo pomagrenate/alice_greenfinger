@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SymbolicStateVector",
+  "type": "object",
+  "required": [
+    "sym_game_state",
+    "sym_frame_clock",
+    "sym_currency_ledger"
+  ],
+  "properties": {
+    "sym_game_state": {
+      "type": "integer"
+    },
+    "sym_frame_clock": {
+      "type": "integer"
+    },
+    "sym_currency_ledger": {
+      "type": "integer"
+    },
+    "sym_audio_active": {
+      "type": "integer"
+    },
+    "sym_atlas_handle": {
+      "type": "integer"
+    },
+    "sym_crop_plot_stage": {
+      "type": "integer"
+    },
+    "sym_day_counter": {
+      "type": "integer"
+    }
+  }
+}

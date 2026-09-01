@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-004",
+  "title": "Seed Purchase Boundary Condition",
+  "hypothesis": "Affordable branch currency>=20 solves SAT; impossible negative currency solves UNSAT.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

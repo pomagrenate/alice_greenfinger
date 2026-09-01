@@ -1,0 +1,17 @@
+{
+  "path_id": "PATH-0006",
+  "name": "Crop_Growth_Progression_5Stages",
+  "state_sequence": [
+    3
+  ],
+  "constraints": [
+    "growth_stage >= 1",
+    "ticks >= 300"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "growth_stage": 1,
+    "ticks": 300
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}

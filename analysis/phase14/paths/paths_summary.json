@@ -1,0 +1,8 @@
+{
+  "total_paths_explored": 12,
+  "sat_paths": 9,
+  "unsat_paths": 3,
+  "unknown_paths": 0,
+  "proven_reachable_branches": 9,
+  "proven_unreachable_branches": 3
+}

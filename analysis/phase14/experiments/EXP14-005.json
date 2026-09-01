@@ -1,0 +1,7 @@
+{
+  "id": "EXP14-005",
+  "title": "Crop Growth Boundary Condition",
+  "hypothesis": "Plot stage advances 1->2->3->4 under ticks>=300 constraint.",
+  "result": "PASS",
+  "evidence_level": "E6"
+}

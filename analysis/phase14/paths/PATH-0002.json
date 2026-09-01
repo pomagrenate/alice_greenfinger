@@ -1,0 +1,19 @@
+{
+  "path_id": "PATH-0002",
+  "name": "MainMenu_to_NameDialog_to_Farm",
+  "state_sequence": [
+    1,
+    2,
+    3
+  ],
+  "constraints": [
+    "state == 1",
+    "opcode == 1001"
+  ],
+  "solver_result": "SAT",
+  "concrete_model": {
+    "opcode": 1001,
+    "state": 1
+  },
+  "evidence_level": "E6 (Symbolic / Constraint Evidence)"
+}
