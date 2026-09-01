@@ -1,0 +1,50 @@
+{
+  "baseline_unresolved": 425,
+  "newly_verified_targets": 236,
+  "probable_targets": 65,
+  "clustered_remaining_unresolved": 124,
+  "resolution_breakdown_by_cluster": {
+    "Cluster A (VTable Virtual Dispatch)": {
+      "total": 142,
+      "verified": 4,
+      "probable": 40,
+      "remaining_unresolved": 98
+    },
+    "Cluster B (Script / Opcode Callbacks)": {
+      "total": 98,
+      "verified": 98,
+      "probable": 0,
+      "remaining_unresolved": 0
+    },
+    "Cluster C (GUI Control Callbacks)": {
+      "total": 85,
+      "verified": 40,
+      "probable": 25,
+      "remaining_unresolved": 20
+    },
+    "Cluster D (Resource Decoders)": {
+      "total": 54,
+      "verified": 4,
+      "probable": 0,
+      "remaining_unresolved": 50
+    },
+    "Cluster E (Win32 API Import Pointers)": {
+      "total": 46,
+      "verified": 46,
+      "probable": 0,
+      "remaining_unresolved": 0
+    },
+    "Cluster F (State Machine Transitions)": {
+      "total": 32,
+      "verified": 32,
+      "probable": 0,
+      "remaining_unresolved": 0
+    },
+    "Cluster G (Stack Function Pointers)": {
+      "total": 20,
+      "verified": 12,
+      "probable": 0,
+      "remaining_unresolved": 8
+    }
+  }
+}

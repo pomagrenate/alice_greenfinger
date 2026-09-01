@@ -1,0 +1,44 @@
+[
+  {
+    "dll": "USER32.DLL",
+    "api": "PeekMessageW / DispatchMessageW",
+    "call_count": 8,
+    "status": "VERIFIED (E1/E2)"
+  },
+  {
+    "dll": "USER32.DLL",
+    "api": "CreateWindowExW / ShowWindow",
+    "call_count": 6,
+    "status": "VERIFIED (E1/E2)"
+  },
+  {
+    "dll": "USER32.DLL",
+    "api": "GetDC / ReleaseDC",
+    "call_count": 4,
+    "status": "VERIFIED (E1/E2)"
+  },
+  {
+    "dll": "GDI32.DLL",
+    "api": "BitBlt / SetDIBitsToDevice",
+    "call_count": 10,
+    "status": "VERIFIED (E1/E2)"
+  },
+  {
+    "dll": "GDI32.DLL",
+    "api": "CreateCompatibleDC / DeleteDC",
+    "call_count": 6,
+    "status": "VERIFIED (E1/E2)"
+  },
+  {
+    "dll": "KERNEL32.DLL",
+    "api": "GetTickCount / QueryPerformanceCounter",
+    "call_count": 8,
+    "status": "VERIFIED (E1/E2)"
+  },
+  {
+    "dll": "WINMM.DLL",
+    "api": "timeGetTime / timeBeginPeriod",
+    "call_count": 4,
+    "status": "VERIFIED (E1/E2)"
+  }
+]

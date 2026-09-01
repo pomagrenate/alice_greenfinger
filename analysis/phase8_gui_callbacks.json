@@ -1,0 +1,34 @@
+[
+  {
+    "control_id": 101,
+    "name": "BTN_START_GAME",
+    "container": "Graphics/Interface.gfx",
+    "event": "WM_LBUTTONDOWN",
+    "dispatches_to": "Opcode 1001",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "control_id": 102,
+    "name": "BTN_PAUSE",
+    "container": "Graphics/Interface.gfx",
+    "event": "WM_LBUTTONDOWN",
+    "dispatches_to": "Opcode 1002",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "control_id": 103,
+    "name": "BTN_MARKET",
+    "container": "Graphics/Interface.gfx",
+    "event": "WM_LBUTTONDOWN",
+    "dispatches_to": "Opcode 1004",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "control_id": 104,
+    "name": "BTN_RETURN_FARM",
+    "container": "Graphics/Market.gfx",
+    "event": "WM_LBUTTONDOWN",
+    "dispatches_to": "Opcode 1003",
+    "status": "VERIFIED (E1/E3)"
+  }
+]

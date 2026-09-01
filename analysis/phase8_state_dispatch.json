@@ -1,0 +1,51 @@
+[
+  {
+    "transition": "0 -> 1",
+    "from_state": "STATE_STARTUP",
+    "to_state": "STATE_MAIN_MENU",
+    "trigger": "Boot completion",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "transition": "1 -> 2",
+    "from_state": "STATE_MAIN_MENU",
+    "to_state": "STATE_NAME_DIALOG",
+    "trigger": "New Profile click",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "transition": "1 -> 3",
+    "from_state": "STATE_MAIN_MENU",
+    "to_state": "STATE_GAMEPLAY",
+    "trigger": "Opcode 1001 Start",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "transition": "3 -> 4",
+    "from_state": "STATE_GAMEPLAY",
+    "to_state": "STATE_PAUSE_OPTIONS",
+    "trigger": "Opcode 1002 Pause",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "transition": "4 -> 3",
+    "from_state": "STATE_PAUSE_OPTIONS",
+    "to_state": "STATE_GAMEPLAY",
+    "trigger": "Opcode 1003 Resume",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "transition": "3 -> 5",
+    "from_state": "STATE_GAMEPLAY",
+    "to_state": "STATE_SHOP_MARKET",
+    "trigger": "Opcode 1004 Market",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "transition": "5 -> 3",
+    "from_state": "STATE_SHOP_MARKET",
+    "to_state": "STATE_GAMEPLAY",
+    "trigger": "Return button",
+    "status": "VERIFIED (E1/E3)"
+  }
+]

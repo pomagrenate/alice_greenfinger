@@ -1,0 +1,27 @@
+[
+  {
+    "system": "Multi-Day Frame Cycle Progression",
+    "evidence": "Day tick counter register DAT_004a7f54 increments continuously; day end triggers summary panel",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "system": "Higher-Tier Crop Catalog Unlocks",
+    "evidence": "Cataloged 6 crop types in Sprites.gfx (Carrot, Tomato, Cabbage, Flower, Corn, Melon)",
+    "status": "VERIFIED (E1/E4)"
+  },
+  {
+    "system": "Trophy / Award Popups",
+    "evidence": "AG-MessageAward.ogg and opcode string match 'AWARD_UNLOCKED'",
+    "status": "PARTIAL (E2/E4)"
+  },
+  {
+    "system": "Stochastic Genetic Hybridization",
+    "evidence": "No mathematical or biological cross-breeding algorithms found in binary disassembly",
+    "status": "NOT ESTABLISHED"
+  },
+  {
+    "system": "Priority Queue Customer AI Logic",
+    "evidence": "Fixed array market slot indexing used rather than dynamic priority queue class",
+    "status": "NOT ESTABLISHED"
+  }
+]

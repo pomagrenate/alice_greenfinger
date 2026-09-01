@@ -1,0 +1,28 @@
+{
+  "phase": "PHASE 8",
+  "timestamp": "2026-09-01T17:56:55.445696",
+  "binary_integrity": {
+    "file": "C:\\Users\\Admin\\Downloads\\AliceGreenfingers_RE\\extracted\\AliceGreenfingers_unpacked.exe",
+    "size_bytes": 732733,
+    "sha256": "caf0c6f745f56579ac830f8a2ff8210042f40afdda479128521a398e19a2a8d1",
+    "modified": false
+  },
+  "inherited_metrics": {
+    "total_binary_functions": 1847,
+    "group_a_reconstructed": 1194,
+    "runtime_verified_functions": 170,
+    "unresolved_indirect_calls_baseline": 425,
+    "unresolved_clusters": {
+      "Cluster A (VTable Virtual Dispatch)": 142,
+      "Cluster B (Script / Opcode Event Callbacks)": 98,
+      "Cluster C (GUI Control Callback Hooks)": 85,
+      "Cluster D (Resource / Archive Decoders)": 54,
+      "Cluster E (Win32 API Import Pointers)": 46,
+      "Cluster F (State Machine Transitions)": 32,
+      "Cluster G (Stack Function Pointers)": 20
+    },
+    "verified_states": 6,
+    "validated_test_scenarios": 34,
+    "distribution_files": 732
+  }
+}

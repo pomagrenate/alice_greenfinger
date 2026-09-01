@@ -1,0 +1,37 @@
+[
+  {
+    "exp_id": "EXP-01",
+    "name": "Day End Progression Cycle",
+    "stimulus": "Advance 3600 frame ticks (60s)",
+    "observed": "Day summary screen triggered; state maintained",
+    "status": "PASS"
+  },
+  {
+    "exp_id": "EXP-02",
+    "name": "Multi-Crop Seed Purchase",
+    "stimulus": "Purchase Crop ID 0, 1, 2 sequentially",
+    "observed": "Currency mutated from 100 -> 80 -> 55 -> 25",
+    "status": "PASS"
+  },
+  {
+    "exp_id": "EXP-03",
+    "name": "Market Full Cycle Sale",
+    "stimulus": "Sell 3 mature crops",
+    "observed": "Currency mutated from 25 -> 75 -> 135 -> 200",
+    "status": "PASS"
+  },
+  {
+    "exp_id": "EXP-04",
+    "name": "Pause / Unpause Rapid Toggle",
+    "stimulus": "Toggle Escape 5 times",
+    "observed": "State alternates cleanly between 3 and 4 without memory leak",
+    "status": "PASS"
+  },
+  {
+    "exp_id": "EXP-05",
+    "name": "Resource Atlas Dynamic Reload",
+    "stimulus": "Reload Market.gfx and Sprites.gfx",
+    "observed": "Atlas handles verified at 0x00497528",
+    "status": "PASS"
+  }
+]

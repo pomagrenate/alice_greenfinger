@@ -1,0 +1,37 @@
+[
+  {
+    "cluster": "Cluster E",
+    "mechanism": "PE Import Address Table (IAT)",
+    "origin": "Kernel32 / User32 / GDI32 / WinMM Import Section",
+    "resolution_path": "PE Header Import Descriptor -> IAT Pointer -> Direct Platform API Call",
+    "confidence": "VERIFIED (E1/E2)"
+  },
+  {
+    "cluster": "Cluster B",
+    "mechanism": "ADLIBREGISTER / Script Callback Table",
+    "origin": "Static string token registry matched in FUN_00404170",
+    "resolution_path": "Opcode Integer / String Token -> Table Lookup -> Target Handler RVA",
+    "confidence": "VERIFIED (E1/E3)"
+  },
+  {
+    "cluster": "Cluster F",
+    "mechanism": "State Transition Jump Table",
+    "origin": "DAT_004974f4 state register index (0..5)",
+    "resolution_path": "State Index -> Switch / Jump Table -> State Entry / Tick Handler",
+    "confidence": "VERIFIED (E1/E3)"
+  },
+  {
+    "cluster": "Cluster A",
+    "mechanism": "VTable Pointer Initialization",
+    "origin": "Object Constructor writing VTABLE_00497000 address to [ECX+0x00]",
+    "resolution_path": "Object Construction -> vptr assigned -> Indirect Call [vptr + slot]",
+    "confidence": "VERIFIED (E1/E2)"
+  },
+  {
+    "cluster": "Cluster D",
+    "mechanism": "Resource Archive Decoders",
+    "origin": "FUN_004033c0 LBTC magic header parser",
+    "resolution_path": "File Header -> Buffer Offset Table -> Sprite Sub-Allocation Decoder",
+    "confidence": "VERIFIED (E1/E4)"
+  }
+]

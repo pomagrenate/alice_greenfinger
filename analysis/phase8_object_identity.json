@@ -1,0 +1,57 @@
+[
+  {
+    "class_name": "EngineContext",
+    "vtable": "0x00497000",
+    "constructor": "FUN_00401500",
+    "destructor": "FUN_0040d590",
+    "size_bytes": 128,
+    "key_members": [
+      {
+        "offset": "0x00",
+        "type": "void**",
+        "name": "vptr"
+      },
+      {
+        "offset": "0x04",
+        "type": "uint32_t",
+        "name": "state_id"
+      },
+      {
+        "offset": "0x08",
+        "type": "void*",
+        "name": "resource_mgr"
+      },
+      {
+        "offset": "0x0C",
+        "type": "void*",
+        "name": "audio_sys"
+      }
+    ],
+    "evidence": "E1/E2/E3"
+  },
+  {
+    "class_name": "UIWidgetContainer",
+    "vtable": "0x00497100",
+    "constructor": "FUN_00405100",
+    "destructor": "FUN_00405480",
+    "size_bytes": 64,
+    "key_members": [
+      {
+        "offset": "0x00",
+        "type": "void**",
+        "name": "vptr"
+      },
+      {
+        "offset": "0x04",
+        "type": "int",
+        "name": "control_id"
+      },
+      {
+        "offset": "0x08",
+        "type": "RECT",
+        "name": "bounds"
+      }
+    ],
+    "evidence": "E1/E2"
+  }
+]

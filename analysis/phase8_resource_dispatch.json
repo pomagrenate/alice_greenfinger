@@ -1,0 +1,26 @@
+[
+  {
+    "role": "LBTC Header Parser",
+    "func_rva": "0x004033c0",
+    "target": "PopCap_LBTC_Header reader",
+    "status": "VERIFIED (E1/E4)"
+  },
+  {
+    "role": "Sprite Entry Decoder",
+    "func_rva": "0x00403480",
+    "target": "PopCap_Sprite_Entry unpacker",
+    "status": "VERIFIED (E1/E4)"
+  },
+  {
+    "role": "Atlas Texture Binder",
+    "func_rva": "0x004035a0",
+    "target": "DAT_00497528 handle register",
+    "status": "VERIFIED (E1/E4)"
+  },
+  {
+    "role": "Stream Byte Deserializer",
+    "func_rva": "0x004037a0",
+    "target": "Raw stream reader",
+    "status": "VERIFIED (E1/E4)"
+  }
+]

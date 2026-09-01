@@ -1,0 +1,58 @@
+[
+  {
+    "opcode": 1001,
+    "name": "OP_START_GAMEPLAY",
+    "handler_rva": "0x00404170",
+    "target_state": "STATE_GAMEPLAY (3)",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "opcode": 1002,
+    "name": "OP_PAUSE_OPTIONS",
+    "handler_rva": "0x00404170",
+    "target_state": "STATE_PAUSE_OPTIONS (4)",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "opcode": 1003,
+    "name": "OP_RESUME_GAMEPLAY",
+    "handler_rva": "0x00404170",
+    "target_state": "STATE_GAMEPLAY (3)",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "opcode": 1004,
+    "name": "OP_OPEN_MARKET",
+    "handler_rva": "0x00404170",
+    "target_state": "STATE_SHOP_MARKET (5)",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "opcode": 1005,
+    "name": "OP_BUY_SEEDS",
+    "handler_rva": "0x00404170",
+    "mutation": "DAT_004a86a4 -= cost",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "opcode": 1006,
+    "name": "OP_SELL_HARVEST",
+    "handler_rva": "0x00404170",
+    "mutation": "DAT_004a86a4 += revenue",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  },
+  {
+    "opcode": 1007,
+    "name": "OP_EXIT_APPLICATION",
+    "handler_rva": "0x0040d590",
+    "target_state": "SHUTDOWN (0)",
+    "status": "VERIFIED",
+    "evidence": "E1/E3"
+  }
+]

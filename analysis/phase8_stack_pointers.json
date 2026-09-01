@@ -1,0 +1,20 @@
+[
+  {
+    "site_id": "STK_01",
+    "scope": "GameLoop_Tick local timer callback",
+    "rva": "0x00409710",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "site_id": "STK_02",
+    "scope": "EventDispatcher local comparator callback",
+    "rva": "0x00404220",
+    "status": "VERIFIED (E1/E3)"
+  },
+  {
+    "site_id": "STK_03",
+    "scope": "ResourceLoader local stream seek callback",
+    "rva": "0x00403820",
+    "status": "VERIFIED (E1/E4)"
+  }
+]

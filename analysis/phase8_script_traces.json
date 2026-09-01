@@ -1,0 +1,42 @@
+[
+  {
+    "trace_id": "TRC-01",
+    "stimulus": "Opcode 1001",
+    "caller": "Main Menu Button Click",
+    "state_before": 1,
+    "state_after": 3,
+    "status": "PASS"
+  },
+  {
+    "trace_id": "TRC-02",
+    "stimulus": "Opcode 1002",
+    "caller": "Pause Key / Button",
+    "state_before": 3,
+    "state_after": 4,
+    "status": "PASS"
+  },
+  {
+    "trace_id": "TRC-03",
+    "stimulus": "Opcode 1004",
+    "caller": "Market Button Click",
+    "state_before": 3,
+    "state_after": 5,
+    "status": "PASS"
+  },
+  {
+    "trace_id": "TRC-04",
+    "stimulus": "Opcode 1005",
+    "caller": "Seed Purchase Event",
+    "cash_before": 100,
+    "cash_after": 80,
+    "status": "PASS"
+  },
+  {
+    "trace_id": "TRC-05",
+    "stimulus": "Opcode 1006",
+    "caller": "Crop Harvest Sale",
+    "cash_before": 80,
+    "cash_after": 130,
+    "status": "PASS"
+  }
+]

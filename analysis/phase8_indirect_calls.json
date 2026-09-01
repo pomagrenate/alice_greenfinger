@@ -1,0 +1,3341 @@
+[
+  {
+    "id": "Cluster_A_001",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_002",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_003",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_004",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_005",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_006",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_007",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_008",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_009",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_010",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_011",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_012",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_013",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_014",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_015",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_016",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_017",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_018",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_019",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_020",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_021",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_022",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_023",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_024",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_025",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_026",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_027",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_028",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_029",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_030",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_031",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_032",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_033",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_034",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_035",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_036",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_037",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_038",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_039",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_040",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_041",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_042",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_043",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_044",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_045",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_046",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_047",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_048",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_049",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_050",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_051",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_052",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_053",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_054",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_055",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_056",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_057",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_058",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_059",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_060",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_061",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_062",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_063",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_064",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_065",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_066",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_067",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_068",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_069",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_070",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_071",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_072",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_073",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_074",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_075",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_076",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_077",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_078",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_079",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_080",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_081",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_082",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_083",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_084",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_085",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_086",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_087",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_088",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_089",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_090",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_091",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_092",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_093",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_094",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_095",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_096",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_097",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_098",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_099",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_100",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_101",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_102",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_103",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_104",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_105",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_106",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_107",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_108",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_109",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_110",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_111",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_112",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_113",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_114",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_115",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_116",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_117",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_118",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_119",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_120",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_121",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_122",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_123",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_124",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_125",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_126",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_127",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_128",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_129",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_130",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_131",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_132",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_133",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_134",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_135",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_136",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_137",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_138",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_139",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_140",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_141",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_A_142",
+    "cluster": "Cluster A",
+    "domain": "VTable Virtual Dispatch",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_001",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_002",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_003",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_004",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_005",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_006",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_007",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_008",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_009",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_010",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_011",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_012",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_013",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_014",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_015",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_016",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_017",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_018",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_019",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_020",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_021",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_022",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_023",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_024",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_025",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_026",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_027",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_028",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_029",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_030",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_031",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_032",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_033",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_034",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_035",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_036",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_037",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_038",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_039",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_040",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_041",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_042",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_043",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_044",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_045",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_046",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_047",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_048",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_049",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_050",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_051",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_052",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_053",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_054",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_055",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_056",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_057",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_058",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_059",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_060",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_061",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_062",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_063",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_064",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_065",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_066",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_067",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_068",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_069",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_070",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_071",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_072",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_073",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_074",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_075",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_076",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_077",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_078",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_079",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_080",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_081",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_082",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_083",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_084",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_085",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_086",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_087",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_088",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_089",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_090",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_091",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_092",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_093",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_094",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_095",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_096",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_097",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_B_098",
+    "cluster": "Cluster B",
+    "domain": "Script / Opcode Event Callbacks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_001",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_002",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_003",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_004",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_005",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_006",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_007",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_008",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_009",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_010",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_011",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_012",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_013",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_014",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_015",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_016",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_017",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_018",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_019",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_020",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_021",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_022",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_023",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_024",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_025",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_026",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_027",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_028",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_029",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_030",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_031",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_032",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_033",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_034",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_035",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_036",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_037",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_038",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_039",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_040",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_041",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_042",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_043",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_044",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_045",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_046",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_047",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_048",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_049",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_050",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_051",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_052",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_053",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_054",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_055",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_056",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_057",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_058",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_059",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_060",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_061",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_062",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_063",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_064",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_065",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_066",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_067",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_068",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_069",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_070",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_071",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_072",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_073",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_074",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_075",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_076",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_077",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_078",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_079",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_080",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_081",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_082",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_083",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_084",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_C_085",
+    "cluster": "Cluster C",
+    "domain": "GUI Control Callback Hooks",
+    "evidence_level": "E1/E2/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_001",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_002",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_003",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_004",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_005",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_006",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_007",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_008",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_009",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_010",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_011",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_012",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_013",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_014",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_015",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_016",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_017",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_018",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_019",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_020",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_021",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_022",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_023",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_024",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_025",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_026",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_027",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_028",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_029",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_030",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_031",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_032",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_033",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_034",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_035",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_036",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_037",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_038",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_039",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_040",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_041",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_042",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_043",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_044",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_045",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_046",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_047",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_048",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_049",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_050",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_051",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_052",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_053",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_D_054",
+    "cluster": "Cluster D",
+    "domain": "Resource / Archive Decoders",
+    "evidence_level": "E1/E4",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_001",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_002",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_003",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_004",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_005",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_006",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_007",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_008",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_009",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_010",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_011",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_012",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_013",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_014",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_015",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_016",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_017",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_018",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_019",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_020",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_021",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_022",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_023",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_024",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_025",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_026",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_027",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_028",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_029",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_030",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_031",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_032",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_033",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_034",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_035",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_036",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_037",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_038",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_039",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_040",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_041",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_042",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_043",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_044",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_045",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_E_046",
+    "cluster": "Cluster E",
+    "domain": "Win32 API Import Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_001",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_002",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_003",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_004",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_005",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_006",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_007",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_008",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_009",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_010",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_011",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_012",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_013",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_014",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_015",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_016",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_017",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_018",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_019",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_020",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_021",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_022",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_023",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_024",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_025",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_026",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_027",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_028",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_029",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_030",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_031",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_F_032",
+    "cluster": "Cluster F",
+    "domain": "State Machine Transitions",
+    "evidence_level": "E1/E3",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_001",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_002",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_003",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_004",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_005",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_006",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_007",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_008",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_009",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_010",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_011",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_012",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_013",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_014",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_015",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_016",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_017",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_018",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_019",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  },
+  {
+    "id": "Cluster_G_020",
+    "cluster": "Cluster G",
+    "domain": "Stack Function Pointers",
+    "evidence_level": "E1/E2",
+    "status": "UNRESOLVED"
+  }
+]

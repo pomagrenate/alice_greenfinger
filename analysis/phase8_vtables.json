@@ -1,0 +1,58 @@
+[
+  {
+    "vtable_symbol": "VTABLE_00497000",
+    "object_family": "EngineContext / GameApplication",
+    "total_slots": 4,
+    "slots": [
+      {
+        "offset": "0x00",
+        "rva": "0x00401500",
+        "role": "EngineContext_Initialize",
+        "status": "VERIFIED (E1/E3)"
+      },
+      {
+        "offset": "0x04",
+        "rva": "0x004096a0",
+        "role": "EngineContext_TickAndRender",
+        "status": "VERIFIED (E1/E3)"
+      },
+      {
+        "offset": "0x08",
+        "rva": "0x00404170",
+        "role": "EngineContext_DispatchEvent",
+        "status": "VERIFIED (E1/E3)"
+      },
+      {
+        "offset": "0x0C",
+        "rva": "0x0040d590",
+        "role": "EngineContext_Shutdown",
+        "status": "VERIFIED (E1/E3)"
+      }
+    ]
+  },
+  {
+    "vtable_symbol": "VTABLE_00497100",
+    "object_family": "UIWidgetBase",
+    "total_slots": 3,
+    "slots": [
+      {
+        "offset": "0x00",
+        "rva": "0x00405210",
+        "role": "UIWidget_Draw",
+        "status": "PROBABLE (E2)"
+      },
+      {
+        "offset": "0x04",
+        "rva": "0x00405340",
+        "role": "UIWidget_HandleClick",
+        "status": "PROBABLE (E2)"
+      },
+      {
+        "offset": "0x08",
+        "rva": "0x00405480",
+        "role": "UIWidget_Destroy",
+        "status": "PROBABLE (E2)"
+      }
+    ]
+  }
+]

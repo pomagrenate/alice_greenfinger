@@ -1,6 +1,6 @@
 // ==========================================================================
 // ALICE GREENFINGERS - EVENT DISPATCHER IMPLEMENTATION
-// Reconstructed FUN_00404170
+// Reconstructed FUN_00404170 (Phase 8 Deep Resolution)
 // ==========================================================================
 
 #include <string.h>
@@ -22,7 +22,7 @@ int FUN_00404170(int opcode_or_msg, void* ctx_param) {
         return 0;
     }
 
-    // State mutation based on event ID
+    // State mutations based on opcode IDs
     if (opcode_or_msg == 1001) {
         State_SetState(STATE_GAMEPLAY, "FUN_00404170_StartGame");
         return 1;
@@ -30,7 +30,21 @@ int FUN_00404170(int opcode_or_msg, void* ctx_param) {
         State_SetState(STATE_PAUSE_OPTIONS, "FUN_00404170_OpenOptions");
         return 1;
     } else if (opcode_or_msg == 1003) {
-        State_SetState(STATE_MAIN_MENU, "FUN_00404170_ReturnMenu");
+        State_SetState(STATE_GAMEPLAY, "FUN_00404170_ResumeGameplay");
+        return 1;
+    } else if (opcode_or_msg == 1004) {
+        State_SetState(STATE_SHOP_MARKET, "FUN_00404170_OpenMarket");
+        return 1;
+    } else if (opcode_or_msg == 1005) {
+        if (DAT_004a86a4 >= 20) {
+            DAT_004a86a4 -= 20; // Seed purchase
+        }
+        return 1;
+    } else if (opcode_or_msg == 1006) {
+        DAT_004a86a4 += 50; // Harvest sale
+        return 1;
+    } else if (opcode_or_msg == 1007) {
+        State_SetState(STATE_STARTUP, "FUN_00404170_Exit");
         return 1;
     }
 
